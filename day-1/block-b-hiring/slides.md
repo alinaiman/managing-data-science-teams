@@ -19,7 +19,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# Why Hiring Is Your Highest-Leverage Activity
+# Why Hiring Is Your Highest-Leverage Activity (1/2)
 
 ### The Compounding Effect of Great Hires
 
@@ -27,13 +27,19 @@ footer: "CEU Vienna | Day 1 – Block B"
 - A great **data engineer** makes every analyst faster — reliable pipelines mean insight, not CSV cleaning at 2 AM
 - A great **analytics manager** attracts other great people — talent compounds on itself
 
+<!-- Talk track: I want to start by making the case that hiring is not just important — it is the single highest-leverage thing you do as a manager. Think about compounding. A great analyst does not just produce good analyses. They make every product manager smarter because they reframe questions, surface data nobody thought to ask for, and raise the quality of every decision in their orbit. A great data engineer does not just build pipelines — they make every analyst on the team faster because the data is reliable and well-documented. -->
+
+---
+
+# Why Hiring Is Your Highest-Leverage Activity (2/2)
+
 ### The Negative Compounding of Bad Hires
 
 - A bad analyst ships wrong numbers — stakeholders lose trust, the team loses its seat at the table
 - A bad data engineer builds fragile pipelines — every analyst inherits tech debt
 - **Trust in analytics is uniquely fragile** — one bad number in a board deck and your credibility is gone for a year
 
-<!-- Talk track: I want to start by making the case that hiring is not just important — it is the single highest-leverage thing you do as a manager. Think about compounding. A great analyst does not just produce good analyses. They make every product manager smarter because they reframe questions, surface data nobody thought to ask for, and raise the quality of every decision in their orbit. A great data engineer does not just build pipelines — they make every analyst on the team faster because the data is reliable and well-documented. And it works the other way too. A bad analyst ships a wrong number in a board deck, and suddenly the CFO does not trust anything from your team. Analytics is uniquely fragile here because our product is trust. -->
+<!-- Talk track: And it works the other way too. A bad analyst ships a wrong number in a board deck, and suddenly the CFO does not trust anything from your team. A bad data engineer builds fragile pipelines and every analyst inherits tech debt. Analytics is uniquely fragile here because our product is trust. One bad number and your credibility is gone for a year. -->
 
 ---
 
@@ -74,7 +80,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# What We'll Build This Block
+# What We'll Build This Block (1/2)
 
 ### Four Deliverables, Connected
 
@@ -86,12 +92,20 @@ footer: "CEU Vienna | Day 1 – Block B"
                                                                you decide
 ```
 
+<!-- Talk track: Let me preview what we are building in the next 100 minutes. You will leave this block with four connected deliverables. First, a job description built around 90-day outcomes — not a skill shopping list. Second, a work sample exercise that simulates the actual job. Third, a scoring rubric with predefined dimensions and a four-point scale. Fourth, an interview loop design that specifies who evaluates what and how you make the final decision. These four things are not independent — they are a system. -->
+
+---
+
+# What We'll Build This Block (2/2)
+
+### The Four Deliverables
+
 - The **Job Description** grounds everything in outcomes, not skills
 - The **Work Sample** tests whether a candidate can actually do the job
 - The **Rubric** ensures consistent, fair evaluation across interviewers
 - The **Interview Loop** structures who evaluates what and how you decide
 
-<!-- Talk track: Let me preview what we are building in the next 100 minutes. You will leave this block with four connected deliverables. First, a job description built around 90-day outcomes — not a skill shopping list. Second, a work sample exercise that simulates the actual job. Third, a scoring rubric with predefined dimensions and a four-point scale. Fourth, an interview loop design that specifies who evaluates what and how you make the final decision. These four things are not independent — they are a system. -->
+<!-- Talk track: The job description grounds everything in outcomes, not skills. The work sample tests whether a candidate can actually do the job. The rubric ensures consistent, fair evaluation across interviewers. And the interview loop structures who evaluates what and how you decide. Each piece feeds the next — they form a coherent system. -->
 
 ---
 
@@ -109,19 +123,26 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# The Cost of a Bad Hire
+# The Cost of a Bad Hire (1/2)
 
 - Average cost of a mis-hire: **1.5–2x annual salary** (SHRM, Bradford Smart)
 - In analytics specifically, a wrong hire means:
   - **6 months of bad dashboards** that erode stakeholder trust
   - Broken credibility with the business — "analytics never delivers"
   - Team morale damage — good people leave when surrounded by poor performers
+
+<!-- Talk track: Let's start with stakes. Why does hiring matter so much in analytics? Because analytics is a trust business. The average cost of a mis-hire is one and a half to two times annual salary. But in analytics, the real cost is worse. If your first hire ships bad dashboards for six months, the VP of Product stops asking your team for help. They go hire a contractor or build their own spreadsheet. You lose your seat at the table. -->
+
+---
+
+# The Cost of a Bad Hire (2/2)
+
 - The **"brilliant jerk"** problem: technical skill without collaboration destroys team culture faster than incompetence
 
 > "The best thing a manager does is hire well. The second best thing is fire fast when they don't."
 > — Ben Horowitz
 
-<!-- Talk track: Let's start with stakes. Why does hiring matter so much in analytics? Because analytics is a trust business. If your first hire ships bad dashboards for six months, the VP of Product stops asking your team for help. They go hire a contractor or build their own spreadsheet. You lose your seat at the table. And the brilliant jerk — the person who is technically excellent but impossible to work with — they will drive away every collaborative person on your team. The cost is not just salary. It is organizational trust. -->
+<!-- Talk track: And the brilliant jerk — the person who is technically excellent but impossible to work with — they will drive away every collaborative person on your team. The cost is not just salary. It is organizational trust. As Ben Horowitz puts it, the best thing a manager does is hire well. The second best thing is fire fast when they don't. -->
 
 ---
 
@@ -141,35 +162,35 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 # Role Design: An Example
 
-### First Analytics Hire at a Seed-Stage Startup
-
-| 90-Day Outcome | Capability Needed |
+| 90-Day Outcome | Capability |
 |:---|:---|
-| Instrumented top-3 user flows with event tracking | SQL + analytics engineering |
-| Delivered weekly KPI dashboard to founders | Visualization + communication |
-| Scoped first A/B test for onboarding | Experimental design basics |
+| Instrument top-3 user flows | SQL + analytics engineering |
+| Deliver weekly KPI dashboard | Visualization + communication |
+| Scope first A/B test | Experimental design basics |
 
-> You will be shocked at how different the resulting job description looks compared to a skills shopping list.
+> The resulting JD looks nothing like a skills shopping list.
 
 <!-- Talk track: Here is a concrete example. A seed-stage startup needs their first analytics hire. Instead of listing 25 skills, you write down three 90-day outcomes: instrument the top user flows, deliver a weekly KPI dashboard, and scope the first A/B test. Now work backward — what capabilities are actually required? SQL and analytics engineering, visualization and communication, and basic experimental design. That is your job description. Notice how different this looks from "PhD required, 10 years of Python." -->
 
 ---
 
-# The Job Description Anti-Pattern Gallery
-
-### Pattern 1: The 25-Bullet Requirements List
+# JD Anti-Pattern: The 25-Bullet Requirements List
 
 > *"Required: Python, R, SQL, Spark, Hadoop, Tableau, Power BI, Looker, dbt, Airflow, Docker, Kubernetes, AWS, GCP, machine learning, deep learning, NLP, time series forecasting, A/B testing, causal inference, stakeholder management..."*
 
 **What this signals:** "We do not know what this person will actually do."
 
-### Pattern 2: The Unicorn
+<!-- Talk track: Before you write your JD, let me show you the anti-patterns. I have collected these from real job postings — names removed to protect the guilty. Pattern one: the 25-bullet requirements list. Python, R, SQL, Spark, Hadoop, Tableau, Power BI — it goes on and on. What this tells a candidate is that you have no idea what this person will actually do. Good candidates self-select out because they do not have all 25, even though no human does. -->
+
+---
+
+# JD Anti-Pattern: The Unicorn
 
 > *"PhD in Statistics required. 10+ years of experience. Must thrive in a fast-paced startup." — Compensation: €75K–€85K*
 
 **What this signals:** "We want Staff-level talent at Junior-level comp."
 
-<!-- Talk track: Before you write your JD, let me show you the anti-patterns. I have collected these from real job postings — names removed to protect the guilty. Pattern one: the 25-bullet requirements list. Python, R, SQL, Spark, Hadoop, Tableau, Power BI — it goes on and on. What this tells a candidate is that you have no idea what this person will actually do. Good candidates self-select out because they do not have all 25, even though no human does. Pattern two: the unicorn. PhD required, ten years of experience, startup mentality — for 80K. This tells senior candidates you either do not understand the market or you are hoping to find someone desperate. -->
+<!-- Talk track: Pattern two: the unicorn. PhD required, ten years of experience, startup mentality — for 80K. This tells senior candidates you either do not understand the market or you are hoping to find someone desperate. -->
 
 ---
 
@@ -187,7 +208,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# What Level Do You Actually Need?
+# What Level Do You Actually Need? (1/2)
 
 | Level | What They Do | Autonomy | Scope |
 |:---|:---|:---|:---|
@@ -196,10 +217,20 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 | **Senior** | Influences strategy, mentors others | Navigates ambiguity | Team-wide |
 | **Staff/Principal** | Org-wide impact, shapes practice | Sets direction | Cross-team |
 
+<!-- Talk track: Before you write the job description, get honest about what level you actually need. This is where a lot of managers get it wrong. A seed-stage startup does not need a Staff Data Scientist. They need someone who can write SQL, build dashboards, and communicate clearly — that is a strong mid-level hire. -->
+
+---
+
+# What Level Do You Actually Need? (2/2)
+
+### Common Leveling Mistakes
+
 - Hiring **senior** when you need **mid** — you pay for strategy but need execution
 - Hiring **mid** when you need **senior** — they cannot navigate your ambiguity
 
-<!-- Talk track: Before you write the job description, get honest about what level you actually need. This is where a lot of managers get it wrong. A seed-stage startup does not need a Staff Data Scientist. They need someone who can write SQL, build dashboards, and communicate clearly — that is a strong mid-level hire. Conversely, if you are at a Series B and your entire analytics function is one person embedded with a product team, you probably need a senior who can navigate ambiguity and influence without authority. Leveling mistakes are expensive because the wrong-level hire will either be bored or overwhelmed, and both lead to attrition. -->
+> Leveling mistakes are expensive because the wrong-level hire will either be bored or overwhelmed, and both lead to attrition.
+
+<!-- Talk track: Conversely, if you are at a Series B and your entire analytics function is one person embedded with a product team, you probably need a senior who can navigate ambiguity and influence without authority. Leveling mistakes are expensive because the wrong-level hire will either be bored or overwhelmed, and both lead to attrition. -->
 
 ---
 
@@ -212,21 +243,23 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 **The tension:**
 - You need a Senior Analyst who can navigate ambiguity and influence PMs
 - Finance approved headcount for a Mid-level role
-- Your recruiter says "let's post it as Senior and see who applies" — this is a trap
+- Recruiter: "post as Senior, see who applies" — it's a trap
 
 <!-- Talk track: This is the conversation nobody teaches you to have. You have done your role design, you know you need a Senior Analyst who can navigate ambiguity and influence product managers. You take this to your recruiter or your finance partner and they say "the budget is for a mid-level hire." Now what? Some managers cave and post a mid-level role hoping to find a unicorn. Others post "Senior" in the title but offer mid-level comp, which is the unicorn JD anti-pattern we just talked about. -->
 
 ---
 
-# The Leveling Conversation: Pressure and Tactics
-
-### The Pressure to Level Down
+# The Leveling Conversation: Pressure to Level Down
 
 - **"We can train them up"** — Sometimes true for Junior to Mid. Rarely true for Mid to Senior. The gap is judgment, not skills.
 - **"Let's hire two juniors instead of one senior"** — Two juniors without a senior mentor means two people making the same mistakes.
 - **The hidden cost:** A mis-leveled hire costs more than the salary difference between Mid and Senior.
 
-### How to Have the Conversation
+<!-- Talk track: Let me talk about the pressure to level down. You will hear "we can train them up" — sometimes true for junior to mid, but rarely true for mid to senior because the gap is judgment, not skills. You will hear "let's hire two juniors instead of one senior" — but two juniors without a senior mentor means two people making the same mistakes. The hidden cost of a mis-leveled hire is always more than the salary difference. -->
+
+---
+
+# The Leveling Conversation: How to Have It
 
 1. **Bring the outcomes list** — "Here is what this person needs to accomplish in 90 days. What level can do this?"
 2. **Name the trade-offs** — "If we hire Mid, I need to budget 30% of my time for mentoring. Is that what we want?"
@@ -236,33 +269,42 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# The Research on Structured Interviews
+# The Research on Structured Interviews (1/2)
 
-### Predictive Validity of Selection Methods
+### Predictive Validity (Schmidt & Hunter, 1998)
 
-| Method | Correlation with Job Performance |
+| Method | Correlation |
 |:---|:---|
 | Unstructured interviews | **~0.20** |
 | Structured interviews | **~0.51** |
 | Work samples | **~0.54** |
+
+<!-- Talk track: This is the most important table in the deck. These numbers come from decades of industrial-organizational psychology research, primarily Schmidt and Hunter's landmark 1998 meta-analysis. An unstructured interview predicts job performance at a 0.20 correlation — barely better than flipping a coin. A structured interview jumps to 0.51. Work samples hit 0.54. -->
+
+---
+
+# The Research on Structured Interviews (2/2)
+
+| Method | Correlation |
+|:---|:---|
 | Cognitive ability tests | **~0.51** |
 | Reference checks | **~0.26** |
 | Years of experience | **~0.18** |
 
-<small>Source: Schmidt & Hunter (1998), updated meta-analyses</small>
+> Years of experience is the worst predictor — yet most JDs filter on it first.
 
-<!-- Talk track: This is the most important table in the deck. These numbers come from decades of industrial-organizational psychology research, primarily Schmidt and Hunter's landmark 1998 meta-analysis. An unstructured interview predicts job performance at a 0.20 correlation — barely better than flipping a coin. A structured interview jumps to 0.51. Work samples hit 0.54. And notice that years of experience is at the very bottom at 0.18. The thing most JDs filter on first is the worst predictor on the list. -->
+<!-- Talk track: Cognitive ability tests also hit 0.51. Reference checks are at 0.26. And notice that years of experience is at the very bottom at 0.18. The thing most JDs filter on first is the worst predictor on the list. That should change how you write every job description. -->
 
 ---
 
 # What the Research Tells Us
 
-**Key insight: Your gut feeling is mostly noise. Structure = fairness + signal.**
+**Key insight: Gut feeling is mostly noise. Structure = fairness + signal.**
 
-- Moving from unstructured to structured interviews is the **single biggest improvement** you can make — and it costs nothing
+- Structured interviews are the **single biggest improvement** you can make — free
 - Work samples outperform every other method because they **directly observe** the work
-- Years of experience is the **worst predictor** — yet it is the first filter on most JDs
-- "I just know a good hire when I see one" is **noise dressed up as intuition**
+- Years of experience is the **worst predictor** — yet it's the top filter on most JDs
+- "I know a good hire when I see one" = **noise as intuition**
 
 <!-- Talk track: So what do we do with this? The takeaway is that moving from unstructured to structured interviews is the single biggest improvement you can make to your hiring process, and it is free. You do not need to buy software or hire a consultant. You need to write down the questions in advance, ask every candidate the same questions, and score the answers against predefined criteria. That is it. -->
 
@@ -280,7 +322,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# Designing Work Samples
+# Designing Work Samples (1/2)
 
 ### What Makes a Good Work Sample?
 
@@ -289,11 +331,17 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 - **Respects candidate time** — 2–4 hours maximum, clearly communicated
 - **Tests judgment, not just technique** — "What would you do next?" matters more than "Can you write a LEFT JOIN?"
 
+<!-- Talk track: The work sample is the centerpiece of your hiring process. For analytics roles, this is not a coding test. It is a simulation of the actual job. A good work sample reflects actual job tasks, has clear evaluation criteria defined in advance, respects candidate time, and tests judgment — not just technique. -->
+
+---
+
+# Designing Work Samples (2/2)
+
 ### Analytics Work Sample Example
 
 > *"Here is a messy dataset of user activity logs and a business question from the VP of Product: 'Should we invest in improving our onboarding flow?' Walk us through your approach, your analysis, and your recommendation."*
 
-<!-- Talk track: The work sample is the centerpiece of your hiring process. For analytics roles, this is not a coding test. It is a simulation of the actual job. You give candidates a realistic dataset — messy, with some known issues — and a business question. Then you evaluate how they frame the problem, how they execute the analysis, and how they communicate the findings. -->
+<!-- Talk track: Here is a concrete example. You give candidates a realistic dataset — messy, with some known issues — and a business question. Then you evaluate how they frame the problem, how they execute the analysis, and how they communicate the findings. -->
 
 ---
 
@@ -305,13 +353,19 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 - **Execution** — is the analysis sound? Do they handle missing data thoughtfully?
 - **Communication** — can they explain findings to a non-technical stakeholder?
 
-> The framing question reveals whether someone can operate independently or needs everything spelled out.
-
 <!-- Talk track: Let me break down what you are really evaluating in order of importance. First, how they frame the problem. Do they ask clarifying questions? Do they identify what is out of scope? Second, how they execute. Is the analysis sound? Do they handle missing data thoughtfully? Third, how they communicate. Can they explain their findings to a non-technical stakeholder? The framing question is the most diagnostic because it reveals whether someone can operate independently or needs everything spelled out for them. -->
 
 ---
 
-# Work Sample Design: Realism and Respect
+# What Work Samples Really Evaluate (cont.)
+
+> The framing question reveals whether someone can operate independently or needs everything spelled out.
+
+<!-- Talk track: Framing is the highest-signal dimension: someone who can operate independently will naturally ask clarifying questions and define what is out of scope before diving in. If they skip straight to the data, that tells you something too. -->
+
+---
+
+# Work Sample Design: Realism and Respect (1/2)
 
 ### Balancing Realism and Candidate Time
 
@@ -319,13 +373,19 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 - State the expected time upfront: **"This should take 2–4 hours. We do not expect or want you to spend more."**
 - Provide the dataset, the business question, and the context — do not make candidates guess what you want
 
+<!-- Talk track: Let me get specific about work sample design because the details matter a lot. First, respect candidate time. State the expected time commitment upfront and mean it. Provide the dataset, the business question, and the context. Do not make candidates guess what you want. -->
+
+---
+
+# Work Sample Design: Realism and Respect (2/2)
+
 ### Making Work Samples Inclusive
 
 - **Do not assume tool access** — "Use whatever tool you are comfortable with: Python, R, Excel, SQL, pen and paper"
 - **Provide the rubric upfront** — candidates should know what dimensions they are being evaluated on
 - **Allow flexible formats** — slide deck, written memo, Jupyter notebook, or recorded video
 
-<!-- Talk track: Let me get specific about work sample design because the details matter a lot. First, respect candidate time. State the expected time commitment upfront and mean it. Second, make the exercise inclusive. Do not require a specific tool. Some of the best analysts I have worked with do their exploratory work in Excel before moving to Python. If you require Python, you are filtering for tool familiarity, not analytical ability. Third — share the rubric with the candidate. This is not a trick. You want to see their best work on the things that matter. -->
+<!-- Talk track: Second, make the exercise inclusive. Do not require a specific tool. Some of the best analysts I have worked with do their exploratory work in Excel before moving to Python. If you require Python, you are filtering for tool familiarity, not analytical ability. Third — share the rubric with the candidate. This is not a trick. You want to see their best work on the things that matter. Allow flexible formats — slide deck, memo, notebook, or video. -->
 
 ---
 
@@ -334,23 +394,33 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 - **Include a data dictionary** and note known data quality issues
 - **Provide a contact for clarifying questions** — set up for success, not gotchas
 
-### When Candidates Go Above and Beyond
+<!-- Talk track: Set candidates up to succeed. Include a data dictionary, note known data quality issues, and give them a contact for clarifying questions. You want to evaluate their analytical thinking, not their ability to reverse-engineer your data model. -->
+
+---
+
+# When Candidates Go Above and Beyond
 
 - Some candidates will spend 15 hours on a 4-hour exercise. **Do not reward this.** Score against the rubric, not effort or volume.
 - Doing the minimum well is a **signal of prioritization and judgment** — exactly what you want in an analyst.
 - Going above and beyond is not a negative, but it should not substitute for quality on core dimensions.
 
-<!-- Talk track: Set candidates up to succeed. Include a data dictionary, note known data quality issues, and give them a contact for clarifying questions. Now, when candidates go above and beyond — and some will spend 15 hours on a 4-hour exercise — do not reward that. It actually tells you something concerning about their ability to scope and prioritize. A clear, concise deliverable that nails the core dimensions is more impressive than a 40-slide deck. You are evaluating thinking, not production value. -->
+<!-- Talk track: Now, when candidates go above and beyond — and some will spend 15 hours on a 4-hour exercise — do not reward that. It actually tells you something concerning about their ability to scope and prioritize. A clear, concise deliverable that nails the core dimensions is more impressive than a 40-slide deck. You are evaluating thinking, not production value. -->
 
 ---
 
-# Why a Rubric?
+# Why a Rubric? (1/2)
 
 ### The Case for Predefined Dimensions
 
 - Score on **predefined dimensions**, not overall impression
 - Prevents: halo effect, anchoring, recency bias, "culture fit" as a catch-all
 - Forces interviewers to articulate *what* they are evaluating
+
+<!-- Talk track: Let me make the case for why a rubric is not optional. You score on predefined dimensions, not overall impression. This prevents the halo effect, anchoring, recency bias, and the use of "culture fit" as a catch-all. It forces interviewers to articulate what they are actually evaluating. -->
+
+---
+
+# Why a Rubric? (2/2)
 
 ### What Happens Without a Rubric
 
@@ -359,14 +429,14 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 - **Halo effect** takes over — one strong dimension inflates all scores
 - **"Culture fit"** becomes a catch-all for affinity bias in disguise
 
-<!-- Talk track: Let me make the case for why a rubric is not optional. Without a rubric, your debrief meeting becomes a storytelling contest. The most articulate interviewer, or the most senior person in the room, tells a compelling anecdote about the candidate, and everyone else anchors to that story. You end up evaluating the interviewer's narrative skills, not the candidate's abilities. The halo effect takes over — a candidate who is great at communication gets inflated scores on technical execution. And "culture fit" becomes a catch-all for "I would want to get a beer with this person." -->
+<!-- Talk track: Without a rubric, your debrief meeting becomes a storytelling contest. The most articulate interviewer, or the most senior person in the room, tells a compelling anecdote about the candidate, and everyone else anchors to that story. You end up evaluating the interviewer's narrative skills, not the candidate's abilities. The halo effect takes over — a candidate who is great at communication gets inflated scores on technical execution. And "culture fit" becomes a catch-all for "I would want to get a beer with this person." -->
 
 ---
 
 # What a Rubric Makes Possible
 
 - Each interviewer independently rates **specific dimensions** with **behavioral anchors**
-- The debrief becomes a **calibration conversation**: "I gave a 2 on Business Context because they never connected the analysis to a decision"
+- The debrief shifts to **calibration**: "I gave a 2 on Business Context because they never connected the analysis to a decision"
 - Disagreements become **productive** — they reveal information, not just preferences
 
 > Without a rubric, disagreements are opinion collisions. With a rubric, they surface the most important information about a candidate.
@@ -388,42 +458,54 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# The 1–4 Scale (No Fence-Sitting)
+# The 1–4 Scale (No Fence-Sitting) (1/2)
 
-Use a 4-point scale. A 3-point scale lets everyone hide in the middle. A 5-point scale creates the illusion of precision you do not have.
+Use a 4-point scale. Not three, not five.
 
 | Score | Meaning |
 |:---|:---|
 | **1** | Below the bar — significant concerns |
 | **2** | Approaching the bar — some gaps |
-| **3** | Meets the bar — would be effective in this role |
+| **3** | Meets the bar — effective in this role |
 | **4** | Exceeds the bar — exceptional, raises the team |
 
-> Most scores should be 2s and 3s. If you are giving many 1s and 4s, your calibration is off or your pipeline needs work.
-
-<!-- Talk track: Now, the scale. Use a four-point scale. Not three, not five. A three-point scale lets everyone pick the middle and avoid making a real evaluation. A five-point scale creates the illusion of precision — nobody can reliably distinguish between a 3 and a 4 on a five-point scale in a 45-minute interview. Four points forces a meaningful distinction. A 1 means below the bar. A 2 means approaching but there are gaps. A 3 means they meet the bar. A 4 means exceptional. Most of your scores should be 2s and 3s. -->
+<!-- Talk track: Now, the scale. Use a four-point scale. Not three, not five. A three-point scale lets everyone pick the middle and avoid making a real evaluation. A five-point scale creates the illusion of precision — nobody can reliably distinguish between a 3 and a 4 on a five-point scale in a 45-minute interview. -->
 
 ---
 
-# Calibrating Scorers: The Problem
+# The 1–4 Scale (No Fence-Sitting) (2/2)
+
+> Most scores should be 2s and 3s. If you are giving many 1s and 4s, your calibration is off or your pipeline needs work.
+
+- A **1** means below the bar — significant concerns
+- A **4** means exceptional — this person raises the team
+- Four points forces a meaningful distinction
+
+<!-- Talk track: Four points forces a meaningful distinction. A 1 means below the bar. A 2 means approaching but there are gaps. A 3 means they meet the bar. A 4 means exceptional. Most of your scores should be 2s and 3s. If you are giving many 1s and 4s, your calibration is off or your pipeline needs work. -->
+
+---
+
+# Calibrating Scorers: The Problem (1/2)
 
 ### Without Calibration, Scores Are Meaningless
 
 - Interviewer A thinks "3" means "could do the job"
 - Interviewer B thinks "3" means "among the best I have seen"
 
-### Real Example
+<!-- Talk track: Let me show you why calibration matters. Imagine two interviewers — one thinks a 3 means "could do the job" and the other thinks a 3 means "among the best I have seen." Without calibration, your scores are just numbers without a shared reference point. -->
 
-Four interviewers evaluate the same candidate's work sample:
+---
 
-| Interviewer | Technical | Communication | Business Context | Curiosity |
+# Calibrating Scorers: The Problem (2/2)
+
+| Interviewer | Tech | Comm | Biz Context | Curiosity |
 |:---|:---|:---|:---|:---|
 | Hiring Manager | 3 | 3 | 2 | 3 |
 | Tech Peer | 2 | 2 | 2 | 2 |
 | PM Partner | 3 | 4 | 3 | 3 |
 | Skip-Level | 3 | 3 | 3 | 4 |
 
-<!-- Talk track: Let me show you why calibration matters with a concrete example. Imagine four interviewers evaluate the same candidate. The hiring manager gives mostly 3s. The technical peer gives mostly 2s. The PM partner gives a 4 on communication. The skip-level gives a 4 on curiosity. Now — is this a hire? You cannot answer that question without knowing what each person means by their scores. -->
+<!-- Talk track: Four interviewers evaluate the same candidate. The hiring manager gives mostly 3s. The technical peer gives mostly 2s. The PM partner gives a 4 on communication. The skip-level gives a 4 on curiosity. Now — is this a hire? You cannot answer that question without knowing what each person means by their scores. -->
 
 ---
 
@@ -455,7 +537,7 @@ Four interviewers evaluate the same candidate's work sample:
 
 ---
 
-# What Norming Prevents
+# What Norming Prevents (1/2)
 
 ### Biases Addressed
 
@@ -465,26 +547,30 @@ Four interviewers evaluate the same candidate's work sample:
 - **Similarity bias** — rating candidates higher when they remind you of yourself
 - **Contrast effect** — a mediocre candidate looks great after a terrible one
 
+<!-- Talk track: Let me name the biases that norming prevents. Anchoring to the first interviewer's opinion. The halo effect where one strong dimension inflates all scores. Recency bias where the last candidate always seems freshest. Similarity bias where you rate candidates higher when they remind you of yourself. And the contrast effect where a mediocre candidate looks great after a terrible one. -->
+
+---
+
+# What Norming Prevents (2/2)
+
 ### The Investment
 
 - A norming session takes **20–30 minutes**
 - It saves **hours of circular debrief arguments**
 - It produces **better hires** because you compare candidates to a standard, not to each other
 
-<!-- Talk track: Let me name the biases that norming prevents. Anchoring, halo effect, recency bias, similarity bias, and the contrast effect. Twenty minutes of norming prevents hours of circular debrief arguments later. It is the highest-ROI meeting in your entire hiring process. You are comparing candidates to a calibrated standard, not to each other or to each interviewer's personal interpretation of the scale. -->
+<!-- Talk track: Twenty minutes of norming prevents hours of circular debrief arguments later. It is the highest-ROI meeting in your entire hiring process. You are comparing candidates to a calibrated standard, not to each other or to each interviewer's personal interpretation of the scale. -->
 
 ---
 
 # The Interview Loop: Who Interviews for What
 
-### Structured Assignment of Focus Areas
-
-| Interviewer | Focus Area | Why This Person |
+| Interviewer | Focus Area | Why |
 |:---|:---|:---|
 | **Hiring Manager** | Role fit + team dynamics | Owns the decision |
-| **Technical Peer** | Depth of craft | Can evaluate real skill |
-| **Cross-Functional Partner** | Collaboration + communication | Will work with this person daily |
-| **Skip-Level Manager** | Judgment + growth potential | Longer-term perspective |
+| **Technical Peer** | Depth of craft | Evaluates real skill |
+| **Cross-Func Partner** | Collaboration + comms | Works with them daily |
+| **Skip-Level** | Judgment + growth | Longer-term view |
 
 <!-- Talk track: The interview loop is the structure around who evaluates what. Four interviewers, each with a distinct focus. The hiring manager looks at role fit and team dynamics. A technical peer evaluates depth of craft. A cross-functional partner tests collaboration and communication. And a skip-level manager assesses judgment and growth potential over a longer horizon. -->
 
@@ -527,20 +613,29 @@ Four interviewers evaluate the same candidate's work sample:
 
 ---
 
-# The Debrief Meeting
+# The Debrief Meeting (1/2)
 
 ### Running an Effective Debrief
 
 1. **Before the meeting:** All scores submitted independently. Hiring manager reviews for major disagreements.
 2. **Round-robin:** Each interviewer shares scores and **one key insight** per dimension — not a 10-minute monologue.
-3. **Discuss disagreements first:** "You gave a 2 on Business Context and you gave a 4. Walk us through what you saw."
-4. **Separate signal from preference:** "I did not like their style" is preference. "They could not connect analysis to a decision" is signal.
 
-<!-- Talk track: Let me talk about the debrief meeting because this is where many structured processes fall apart. The debrief should take 30 to 45 minutes. Start with a round-robin — each interviewer shares their scores and one key insight per dimension. Not a 10-minute narrative. Then go straight to the disagreements. If one person gave a 2 on Business Context and another gave a 4, that is the most interesting thing in the room. Have them both explain what they saw. -->
+<!-- Talk track: Let me talk about the debrief meeting because this is where many structured processes fall apart. The debrief should take 30 to 45 minutes. Before the meeting, all scores are submitted independently. The hiring manager reviews for major disagreements. Start with a round-robin — each interviewer shares their scores and one key insight per dimension. Not a 10-minute narrative. -->
 
 ---
 
-# Debrief: Reading the Patterns
+# The Debrief Meeting (2/2)
+
+### Focus on Disagreements and Signal
+
+3. **Discuss disagreements first:** "You gave a 2 on Business Context and you gave a 4. Walk us through what you saw."
+4. **Separate signal from preference:** "I did not like their style" is preference. "They could not connect analysis to a decision" is signal.
+
+<!-- Talk track: Then go straight to the disagreements. If one person gave a 2 on Business Context and another gave a 4, that is the most interesting thing in the room. Have them both explain what they saw. And always separate signal from preference. "I did not like their style" is preference. "They could not connect analysis to a decision" is signal. -->
+
+---
+
+# Debrief: Reading the Patterns (1/2)
 
 ### When Interviewers Disagree
 
@@ -548,17 +643,23 @@ Four interviewers evaluate the same candidate's work sample:
 - **Consistent 3s across all dimensions** — often a "weak hire" signal. No one is excited. Be cautious.
 - **One dimension drags the average down** — ask: is this coachable? A 2 on Technical Execution is harder to fix than a 2 on Communication.
 
+<!-- Talk track: Watch out for the "consistent 3s" pattern. When every interviewer gives 3s across the board, it feels like a hire because the average is above the bar. But what it often means is that nobody is excited. That is a weak hire signal. When one dimension drags the average down, ask whether it is coachable. A 2 on Technical Execution is harder to fix than a 2 on Communication. -->
+
+---
+
+# Debrief: Reading the Patterns (2/2)
+
 ### The Hiring Manager's Call
 
 - You have heard all the data. **You decide.** Do not hide behind consensus.
 - A "strong hire" from the technical peer is worth more than lukewarm 3s from everyone else.
 - When in doubt, do not hire. A false positive (bad hire) is far more expensive than a false negative.
 
-<!-- Talk track: Watch out for the "consistent 3s" pattern. When every interviewer gives 3s across the board, it feels like a hire because the average is above the bar. But what it often means is that nobody is excited. That is a weak hire signal. Finally, the hiring manager makes the call. Do not hide behind consensus. If you are not excited, pass. The cost of a false positive — hiring the wrong person — is much higher than the cost of a false negative. -->
+<!-- Talk track: The hiring manager makes the call. Do not hide behind consensus. If you are not excited, pass. A "strong hire" from the technical peer is worth more than lukewarm 3s from everyone else. The cost of a false positive — hiring the wrong person — is much higher than the cost of a false negative. -->
 
 ---
 
-# Candidate Experience: Your Employer Brand
+# Candidate Experience: Your Employer Brand (1/2)
 
 ### Your Employer Brand Is Built in Rejection Emails
 
@@ -566,13 +667,19 @@ Four interviewers evaluate the same candidate's work sample:
 - **Communication:** Proactive updates even when there is no update. "We are still reviewing" beats silence.
 - **Rejection:** Specific, kind, and fast.
 
+<!-- Talk track: Let me give you a number that changes how you think about hiring. For every person you hire, you reject about 19. Those 19 people will tell their friends, their colleagues, their social media followers about their experience with your company. If you ghosted them or made them wait three weeks, they will tell everyone. -->
+
+---
+
+# Candidate Experience: Your Employer Brand (2/2)
+
 ### The Math
 
 - You will interview ~20 candidates for each hire
 - 19 of them will tell their network about the experience
 - **19 negative stories vs. 1 hire** — the ratio matters
 
-<!-- Talk track: Let me give you a number that changes how you think about hiring. For every person you hire, you reject about 19. Those 19 people will tell their friends, their colleagues, their social media followers about their experience with your company. If you ghosted them or made them wait three weeks, they will tell everyone. Your employer brand is not built in the offer letter. It is built in the rejection email. The analytics community is small — the analyst you reject today might be the hiring manager you need to impress in two years. -->
+<!-- Talk track: Your employer brand is not built in the offer letter. It is built in the rejection email. The analytics community is small — the analyst you reject today might be the hiring manager you need to impress in two years. Nineteen negative stories versus one hire — the ratio matters. -->
 
 ---
 
@@ -589,29 +696,40 @@ Four interviewers evaluate the same candidate's work sample:
 
 ---
 
-# Going Beyond the Minimum
+# Going Beyond the Minimum (1/2)
 
 - **Send the work sample rubric in advance** — this signals that you respect their time
 - **Offer a 15-minute feedback call** to any candidate who completed a work sample
 - **Close the loop quickly** — the best candidates have other offers. A 6-week process loses them.
 - **Be honest about the role** — if the data infrastructure is a mess, say so. Candidates who join with realistic expectations stay longer.
 
-> Even candidates you reject will walk away thinking "that was the most professional interview process I have been through." That is your employer brand.
-
-<!-- Talk track: If you want to go above the minimum, offer a 15-minute feedback call to anyone who did the work sample. Even candidates you reject will walk away thinking "that was the most professional interview process I have been through." Close the loop quickly because the best candidates have multiple offers. And be honest about the role — candidates who join with realistic expectations stay longer than those who discover problems after starting. -->
+<!-- Talk track: If you want to go above the minimum, offer a 15-minute feedback call to anyone who did the work sample. Close the loop quickly because the best candidates have multiple offers. And be honest about the role — candidates who join with realistic expectations stay longer than those who discover problems after starting. -->
 
 ---
 
-# Building Your Employer Brand in Analytics
+# Going Beyond the Minimum (2/2)
 
-### How to Be Known as a Great Place for Data People
+> Even candidates you reject will walk away thinking "that was the most professional interview process I have been through." That is your employer brand.
+
+<!-- Talk track: Even candidates you reject become ambassadors when you treat them well. The analytics community is small — the person you reject today might be your next hire's manager in two years. Your process is your employer brand. -->
+
+---
+
+# Building Your Employer Brand in Analytics (1/2)
 
 - **Open-source contributions** — if your team builds tools that could help others, open-source them. Nothing says "serious data work" like a well-maintained GitHub repo.
 - **Blog posts about your stack** — write about problems you solved, architecture decisions, mistakes you learned from. Candidates read these.
+
+<!-- Talk track: I want to talk about the long game of employer brand in analytics. There are a few things that signal to the market that your team is a great place to work. First, open-source contributions — nothing attracts senior data talent like a well-maintained GitHub repo. Second, write about your work. Blog posts about your data stack and architecture decisions — candidates read these before they apply. -->
+
+---
+
+# Building Your Employer Brand in Analytics (2/2)
+
 - **Speaking at meetups** — encourage team members to present at local data meetups or conferences. Visibility attracts talent.
 - **Treating rejected candidates well** — every person who thinks "that was fair" becomes an ambassador.
 
-<!-- Talk track: I want to talk about the long game of employer brand in analytics. There are a few things that signal to the market that your team is a great place to work. First, open-source contributions — nothing attracts senior data talent like a well-maintained GitHub repo. Second, write about your work. Blog posts about your data stack and architecture decisions — candidates read these before they apply. Third, encourage your team to speak at meetups. A 20-minute talk at a local PyData meetup puts your team on the radar. And fourth, treat your rejected candidates well. Every person who thinks "that was fair" becomes an ambassador. -->
+<!-- Talk track: Third, encourage your team to speak at meetups. A 20-minute talk at a local PyData meetup puts your team on the radar. And fourth, treat your rejected candidates well. Every person who thinks "that was fair" becomes an ambassador. -->
 
 ---
 
@@ -637,11 +755,17 @@ Four interviewers evaluate the same candidate's work sample:
 
 ---
 
-# Activity Brief: Build Your Hiring Packet
+# Activity Brief: Build Your Hiring Packet (1/2)
 
 ### Your Case Context
 
 Use the company scenario you chose in Block A (small / medium / large)
+
+<!-- Talk track: Here is the specific breakdown. Use the company scenario you chose in Block A. Start with the job description template and fill in the 90-day outcomes first. That is your anchor. -->
+
+---
+
+# Activity Brief: Build Your Hiring Packet (2/2)
 
 ### Deliverables (35 min)
 
@@ -650,7 +774,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 3. **Scoring Rubric** — Dimensions, 1–4 scale with behavioral anchors
 4. **Interview Loop Design** — Stages, interviewers, focus areas, debrief protocol
 
-<!-- Talk track: Here is the specific breakdown. Start with the job description template and fill in the 90-day outcomes first. That is your anchor. Then design a work sample that tests whether a candidate can accomplish those outcomes. Build your rubric next — make sure every dimension maps to something in the work sample or interviews. Finally, design the interview loop: who interviews, what they evaluate, and how you debrief. -->
+<!-- Talk track: You have four deliverables. First the job description with 90-day outcomes. Then design a work sample that tests whether a candidate can accomplish those outcomes. Build your rubric next — make sure every dimension maps to something in the work sample or interviews. Finally, design the interview loop: who interviews, what they evaluate, and how you debrief. -->
 
 ---
 
@@ -667,7 +791,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Role-Play Setup
+# Role-Play Setup (1/2)
 
 ### In 15 minutes, you will pair up
 
@@ -675,13 +799,19 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 **Round 2 (10 min):** Swap roles.
 
+<!-- Talk track: After the 35 minutes of building, we are going to do something uncomfortable and valuable. You are going to pair up and run actual structured interviews. One person plays the candidate using a profile card I will give you. The other person runs the interview using the rubric they just built. Then you swap. -->
+
+---
+
+# Role-Play Setup (2/2)
+
 ### How It Works
 
 1. You will receive a **Candidate Profile Card** — play this person authentically, including their weaknesses
 2. The interviewer uses their rubric and asks questions from their interview loop
 3. After each round, the interviewer shares scores and explains reasoning
 
-<!-- Talk track: After the 35 minutes of building, we are going to do something uncomfortable and valuable. You are going to pair up and run actual structured interviews. One person plays the candidate using a profile card I will give you. The other person runs the interview using the rubric they just built. Then you swap. -->
+<!-- Talk track: Here is how it works. You will receive a candidate profile card — play this person authentically, including their weaknesses. The interviewer uses their rubric and asks questions from their interview loop. After each round, the interviewer shares scores and explains their reasoning. -->
 
 ---
 
@@ -697,22 +827,26 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Candidate Profile Cards
-
-### You Will Receive One of Four Profiles
+# Candidate Profile Cards (1/2)
 
 | Profile | Archetype | Key Trait |
 |:---|:---|:---|
-| **Profile A** | The Strong Candidate | Solid all-around; might be slightly overqualified |
-| **Profile B** | The Borderline | Good technical skills but communication gaps |
-| **Profile C** | The Wrong Level | Impressive resume, but too senior/junior for the role |
-| **Profile D** | The Culture Fit Trap | Likable and articulate but shallow technical depth |
+| **A** | Strong Candidate | Solid all-around; slightly overqualified |
+| **B** | Borderline | Good technical but communication gaps |
+| **C** | Wrong Level | Impressive resume, wrong seniority |
+| **D** | Culture Fit Trap | Likable but shallow technical depth |
+
+<!-- Talk track: I am going to hand out candidate profile cards. Each profile is a different archetype you will encounter in real hiring. Profile A is the strong candidate. Profile B is the borderline. Profile C is the wrong level. Profile D is the culture-fit trap — charming and articulate but shallow technically. -->
+
+---
+
+# Candidate Profile Cards (2/2)
 
 Each card includes: background, strengths, weaknesses, a "tell" the interviewer should catch, and suggested responses.
 
 **Play the profile, not yourself.**
 
-<!-- Talk track: I am going to hand out candidate profile cards. Each profile is a different archetype you will encounter in real hiring. Profile A is the strong candidate. Profile B is the borderline. Profile C is the wrong level. Profile D is the culture-fit trap — charming and articulate but shallow technically. Each card has suggested responses and a tell that the interviewer should catch if their rubric is well-designed. Play the profile, not yourself. -->
+<!-- Talk track: Each card has suggested responses and a tell that the interviewer should catch if their rubric is well-designed. Play the profile, not yourself. The goal is to stress-test the rubric, not to practice being impressive. -->
 
 ---
 
@@ -740,7 +874,7 @@ Each card includes: background, strengths, weaknesses, a "tell" the interviewer 
 
 A rubric is a living document. Your first version will be wrong. The goal is to **iterate** after every interview loop.
 
-> After every real interview loop, update your rubric. Add a missing dimension. Sharpen a vague score definition. Remove a dimension that was not diagnostic. The rubric is a living document, not a form you fill out once.
+> After every real interview loop, update your rubric. Add a missing dimension. Sharpen a vague score definition. Remove a dimension that was not diagnostic.
 
 <!-- Talk track: Now candidates: what felt fair about the process? What felt arbitrary or unclear? After every real interview loop, you should update your rubric based on what you learned. Add a dimension you were missing. Sharpen a vague score definition. Remove a dimension that was not actually diagnostic. The rubric is a living document, not a form you fill out once and file away. -->
 
@@ -754,15 +888,19 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 
 - **The 20-hour take-home** — Disrespects candidate time, biases toward people without caregiving responsibilities, and the best candidates will drop out. Two to four hours, clearly scoped.
 
+<!-- Talk track: Before we close, let me walk through the hiring anti-patterns I see most often in analytics. First, culture fit as a criterion. This almost always means "this person is like me" and it is how you build a homogeneous team with blind spots. Replace it with culture add or specific collaboration behaviors. Second, the 20-hour take-home. The best candidates have options and will not spend a weekend on your exercise. And it biases toward people who have free weekends. -->
+
+---
+
+# Hiring Anti-Patterns (Part 1, cont.)
+
 - **The "rockstar/ninja" JD** — Signals immaturity. Senior candidates run from these because they have seen what "rockstar culture" actually means: no process and no work-life balance.
 
-<!-- Talk track: Before we close, let me walk through the hiring anti-patterns I see most often in analytics. First, culture fit as a criterion. This almost always means "this person is like me" and it is how you build a homogeneous team with blind spots. Replace it with culture add or specific collaboration behaviors. Second, the 20-hour take-home. The best candidates have options and will not spend a weekend on your exercise. And it biases toward people who have free weekends. Third, the rockstar or ninja job description. Every experienced person reading it assumes your org has no process. -->
+<!-- Talk track: Third, the rockstar or ninja job description. Every experienced person reading it assumes your org has no process and no work-life balance. If your job posting uses these terms, delete them and describe what the person will actually do. -->
 
 ---
 
 # Hiring Anti-Patterns (Part 2)
-
-### More Quick Hits
 
 - **Ghosting candidates** — Especially after a work sample. The analytics community is small — the person you ghost today is the hiring manager you need to impress in two years.
 
@@ -770,19 +908,30 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 
 - **Hiring for potential without structure** — "I see myself in them" is bias. Define potential in measurable terms: learning velocity, ability to navigate ambiguity, trajectory of increasing scope.
 
-### The Meta Anti-Pattern
-
-All of these share a common root: **substituting gut feeling for structured evaluation.** The research is clear — structure beats intuition. Every time.
-
-<!-- Talk track: Three more anti-patterns. Ghosting candidates after a work sample is reputation destruction. Consensus-based decisions select for the person nobody objects to, which is not the same as the person someone is excited about. And hiring for potential without structure — if you cannot articulate what "potential" means in measurable terms, you are just pattern-matching to your own background. Notice the common thread: substituting gut feeling for structured evaluation. That is the meta anti-pattern. Structure beats intuition. The research is unambiguous. -->
+<!-- Talk track: Three more anti-patterns. Ghosting candidates after a work sample is reputation destruction. Consensus-based decisions select for the person nobody objects to, which is not the same as the person someone is excited about. And hiring for potential without structure — if you cannot articulate what "potential" means in measurable terms, you are just pattern-matching to your own background. -->
 
 ---
 
-# Key Takeaways
+# The Meta Anti-Pattern
+
+All of these share a common root: **substituting gut feeling for structured evaluation.** The research is clear — structure beats intuition. Every time.
+
+<!-- Talk track: Notice the common thread across all these anti-patterns: substituting gut feeling for structured evaluation. That is the meta anti-pattern. Structure beats intuition. The research is unambiguous. -->
+
+---
+
+# Key Takeaways (1/2)
 
 1. **Start with outcomes**, not skills — the 90-day scorecard drives everything
 2. **Structure beats intuition** — 0.51 vs. 0.20, every time
 3. **Work samples are your best tool** — test real judgment, not trivia
+
+<!-- Talk track: Let me leave you with the five things I want you to remember from this block. First, start with outcomes, not skills. The 90-day scorecard is your anchor. Second, structure beats intuition — the research is unambiguous. Third, work samples are your best tool for analytics hiring because they test real judgment. -->
+
+---
+
+# Key Takeaways (2/2)
+
 4. **Calibrate before you interview** — 20 min of norming prevents hours of debate
 5. **Candidate experience is employer brand** — 19 rejections for every 1 hire
 
@@ -790,7 +939,7 @@ All of these share a common root: **substituting gut feeling for structured eval
 
 **Hiring Packet DRAFT due Thursday (23:59 Vienna)** for instructor feedback. It will be used in Day 2 role-plays.
 
-<!-- Talk track: Let me leave you with the five things I want you to remember from this block. First, start with outcomes, not skills. The 90-day scorecard is your anchor. Second, structure beats intuition — the research is unambiguous. Third, work samples are your best tool for analytics hiring because they test real judgment. Fourth, calibrate your scorers before you start interviewing. And fifth, candidate experience is employer brand — treat every candidate like they might be your next hire's best friend, because in data science, they probably are. Your hiring packet draft is due Thursday by midnight Vienna time. I will give written feedback, and you will use the polished version in Day 2 role-plays. -->
+<!-- Talk track: Fourth, calibrate your scorers before you start interviewing. And fifth, candidate experience is employer brand — treat every candidate like they might be your next hire's best friend, because in data science, they probably are. Your hiring packet draft is due Thursday by midnight Vienna time. I will give written feedback, and you will use the polished version in Day 2 role-plays. -->
 
 ---
 

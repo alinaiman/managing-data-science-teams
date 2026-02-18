@@ -21,26 +21,33 @@
 |------|-----|----------|----------|----------|
 | 11:00 | 0 | 3 min | 1 | Title slide, welcome, learning outcomes |
 | 11:03 | 3 | 4 min | 2 | Welcome back — Day 1 recap, Day 2 overview |
-| 11:07 | 7 | 5 min | 3 | Career ladders for analytics |
-| 11:12 | 12 | 6 min | 4 | What "Senior" actually means — expect discussion |
-| 11:18 | 18 | 7 min | 5 | Personal Growth Plan (PGP) — structure and PGP vs. PIP |
-| 11:25 | 25 | 7 min | 6 | Feedback that lands — SBI model and Radical Candor |
-| 11:32 | 32 | 5 min | 7 | Feedback anti-patterns |
-| 11:37 | 37 | 6 min | 8 | Performance cycles — cadences and the brag doc |
-| 11:43 | 43 | 6 min | 9 | Calibration sessions |
-| 11:49 | 49 | 6 min | 10 | Writing a calibration summary — good vs. bad |
-| 11:55 | 55 | 5 min | 11 | The ethical PIP |
-| 12:00 | 60 | 4 min | 12 | Difficult conversations — COIN model |
-| 12:04 | 64 | 25 min | 13 | **Activity: Draft a PGP** |
-| 12:29 | 89 | 3 min | 14 | **Activity Brief: Calibration Summary** (instructions) |
-| 12:32 | 92 | — | — | *Note: Students may not finish the calibration summary in class. See notes below.* |
-| 12:32 | 92 | 5 min | 15 | Debrief discussion |
-| 12:37 | 97 | 3 min | 16-17 | Key takeaways + transition to Block E |
+| 11:07 | 7 | 3 min | 3–4 | Why growth & performance matter |
+| 11:10 | 10 | 3 min | 5–6 | The growth paradox |
+| 11:13 | 13 | 3 min | 7–8 | What we'll build this block |
+| 11:16 | 16 | 4 min | 9–10 | Career ladders for analytics |
+| 11:20 | 20 | 4 min | 11–12 | Building a ladder that works |
+| 11:24 | 24 | 5 min | 13–14 | What "Senior" actually means — expect discussion |
+| 11:29 | 29 | 4 min | 15–16 | The promotion conversation |
+| 11:33 | 33 | 4 min | 17–18 | Personal Growth Plan (PGP) — structure and PGP vs. PIP |
+| 11:37 | 37 | 4 min | 19–20 | Feedback that lands — SBI model and Radical Candor |
+| 11:41 | 41 | 3 min | 21–22 | Giving positive feedback well |
+| 11:44 | 44 | 3 min | 23–24 | Feedback anti-patterns |
+| 11:47 | 47 | 4 min | 25–27 | Performance cycles — cadences and the brag doc |
+| 11:51 | 51 | 4 min | 28–30 | The manager log in practice |
+| 11:55 | 55 | 4 min | 31–32 | Calibration sessions |
+| 11:59 | 59 | 4 min | 33–34 | Writing a calibration summary — good vs. bad |
+| 12:03 | 63 | 4 min | 35–37 | The ethical PIP |
+| 12:07 | 67 | 4 min | 38–39 | When the problem isn't performance |
+| 12:11 | 71 | 3 min | 40–41 | Difficult conversations — COIN model and preparation |
+| 12:14 | 74 | 25 min | 42–44 | **Activity: Draft a PGP** |
+| 12:39 | 99 | — | — | *Note: Students may not finish the calibration summary in class. Assign slides 45–46 as portfolio work.* |
+| 12:39 | 99 | 4 min | 47–48 | Debrief discussion |
+| 12:43 | 103 | 4 min | 49–52 | Key takeaways + transition to Block E |
 
 **Timing notes:**
 - The two activities together need 45 minutes (25 + 20). If lecture runs long, compress the calibration summary activity to 15 minutes and tell students to finish it for their portfolio.
-- The "What Senior Means" slide (slide 4) tends to generate discussion. Let it breathe for a minute or two, but don't let it consume the block. You can say: "This is a rich topic — let's carry it into the PGP exercise."
-- The PIP slide (slide 11) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it: "Thank you for sharing that. That's exactly the kind of experience I want us to learn from."
+- The "What Senior Means" slides (slides 13–14) tend to generate discussion. Let it breathe for a minute or two, but don't let it consume the block. You can say: "This is a rich topic — let's carry it into the PGP exercise."
+- The PIP slides (slides 35–37) are emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it: "Thank you for sharing that. That's exactly the kind of experience I want us to learn from."
 
 ---
 

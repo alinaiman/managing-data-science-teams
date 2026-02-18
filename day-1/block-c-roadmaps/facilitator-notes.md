@@ -19,26 +19,26 @@
 
 | Time | Minutes | Slide(s) | Activity |
 |------|---------|----------|----------|
-| 15:30 | 0-2 | Title | Welcome, block overview, learning outcomes. Frame the energy: "Last block of the day, hard stop at 17:10 for submissions." |
-| 15:32 | 2-8 | Roadmaps Are Not Gantt Charts | Concept introduction. Ask: "Who has seen a roadmap that was actually a Gantt chart?" Get 2-3 quick responses. |
-| 15:38 | 8-14 | Analytics Roadmap Structure | Walk through Now/Next/Later. Use a whiteboard to show a quick example from one of the case contexts. |
-| 15:44 | 14-20 | RICE Prioritization | Explain the formula. Do one live example together: pick an initiative from the DataPulse case context and score it as a class. |
-| 15:50 | 20-25 | North Star vs. Guardrails | Concept slide. Ask: "What would be the North Star for DataPulse? For MarketBridge? For FinGuard?" Quick callouts. |
-| 15:55 | 25-30 | Metrics Tree | Draw the tree live on the whiteboard. Start from a business outcome and work down. Have students call out each level. |
-| 16:00 | 30-34 | Communicating Trade-offs | Quick concept. Read the "instead of / say" table aloud. Ask for one more example from the room. |
-| 16:04 | 34-38 | Executive Narrative | Walk through the 5-section structure. Emphasize prose over bullet points. |
-| 16:08 | 38-41 | Writing for Executives | BLUF concept. Read the bad/good example aloud. This should feel punchy and fast. |
-| 16:11 | 41-44 | Risk Registers | Quick concept. Emphasize "top 3 risks on slide 2 of every exec deck." |
-| 16:14 | 44-45 | Activity Brief: Roadmap | Hand out or display the template. Answer any questions about the exercise. |
+| 15:30 | 0-2 | 2 (Title) | Welcome, block overview, learning outcomes. Frame the energy: "Last block of the day, hard stop at 17:10 for submissions." |
+| 15:32 | 2-8 | 3-13 (Roadmap Problem through Roadmap Alternative) | Concept introduction. Cover why roadmaps are hard, what good ones do, the block roadmap, Gantt chart trap, and roadmap alternative. Ask: "Who has seen a roadmap that was actually a Gantt chart?" Get 2-3 quick responses. |
+| 15:38 | 8-14 | 14-15 (Analytics Roadmap Structure, Horizons Examples) | Walk through Now/Next/Later. Use a whiteboard to show a quick example from one of the case contexts. |
+| 15:44 | 14-20 | 16-23 (Roadmap Items, RICE Prioritization, RICE in Practice) | Explain RICE formula. Do one live example together: pick an initiative from the DataPulse case context and score it as a class. Walk through the sensitivity analysis. |
+| 15:50 | 20-25 | 24-31 (North Star, Guardrails, Input Metrics, Common Mistakes, Test) | Concept slides. Ask: "What would be the North Star for DataPulse? For MarketBridge? For FinGuard?" Quick callouts. |
+| 15:55 | 25-30 | 32-33 (Metrics Tree) | Draw the tree live on the whiteboard. Start from a business outcome and work down. Have students call out each level. |
+| 16:00 | 30-34 | 34-40 (Communicating Trade-offs, Cost of Delay, Partners, Trade-off Conversation) | Quick concept. Read the "instead of / say" table aloud. Ask for one more example from the room. Walk through the scripted trade-off conversation. |
+| 16:04 | 34-38 | 41-47 (Executive Narrative structure and examples) | Walk through the 5-section structure. Emphasize prose over bullet points. Show each example section. |
+| 16:08 | 38-41 | 48-50 (Writing for Executives, BLUF, Rules) | BLUF concept. Read the bad/good example aloud. This should feel punchy and fast. |
+| 16:11 | 41-44 | 51-52 (Risk Registers) | Quick concept. Emphasize "top 3 risks on slide 2 of every exec deck." |
+| 16:14 | 44-45 | 53-54 (Activity Brief: Roadmap) | Hand out or display the template. Answer any questions about the exercise. |
 | 16:15 | 45-75 | **ACTIVITY: 12-Month Roadmap** | 30 minutes. Circulate, help students who are stuck on RICE scoring or North Star selection. Nudge students who are overthinking — done is better than perfect. |
-| 16:45 | 75-76 | Activity Brief: Exec Narrative | Quick transition. Emphasize: first page only, Context + What's Next. |
+| 16:45 | 75-76 | 55-56 (Activity Brief: Exec Narrative) | Quick transition. Emphasize: first page only, Context + What's Next. |
 | 16:46 | 76-91 | **ACTIVITY: Executive Narrative Draft** | 15 minutes. Circulate. Watch for students reverting to bullet points — gently redirect to prose. |
-| 17:01 | 91-92 | Red-Team Brief | Pair students across case contexts. Explain the rules: 5 minutes each direction, find the fatal flaw. |
+| 17:01 | 91-92 | 57-58 (Red-Team Brief) | Pair students across case contexts. Explain the rules: 5 minutes each direction, find the fatal flaw. |
 | 17:02 | 92-102 | **RED-TEAM: Kill the Project** | 10 minutes. This should be high-energy. Walk around and listen — if pairs are being too polite, prompt them with harder questions. |
 | 17:02 | 92-95 | Red-Team Round 1 | Partner A presents, Partner B attacks. |
 | 17:05 | 95-98 | Red-Team Round 2 | Switch roles. |
-| 17:08 | 98-100 | Debrief + Update | Quick show of hands: "Who learned something from the red-team?" 2 minutes to update roadmaps. |
-| 17:10 | 100 | **HARD STOP** | Day 1 Checkpoint, What's Coming, Close. Remind students to upload NOW. |
+| 17:08 | 98-100 | 59-60 (Debrief + Update) | Quick show of hands: "Who learned something from the red-team?" 2 minutes to update roadmaps. |
+| 17:10 | 100 | 61-66 (Checkpoint, What's Coming, Close) | **HARD STOP.** Day 1 Checkpoint, What's Coming, Close. Remind students to upload NOW. |
 
 **Total: 100 minutes. No slack. Manage transitions tightly.**
 
@@ -55,7 +55,7 @@
 ### Keeping It Constructive
 
 - Frame the exercise clearly: "Your job is to make their roadmap stronger, not to win an argument."
-- Provide the specific questions from the slide as prompts. Students who have never done red-teaming tend to default to vague feedback ("looks good") unless given specific angles of attack.
+- Provide the specific questions from slides 57-58 as prompts. Students who have never done red-teaming tend to default to vague feedback ("looks good") unless given specific angles of attack.
 - If you hear a pair getting adversarial rather than constructive, step in and redirect: "What would you suggest instead?"
 - Remind them: the best roadmaps survive criticism because the criticism was incorporated.
 
@@ -84,7 +84,7 @@
 
 If you are running more than 5 minutes behind by 16:00:
 
-1. **First cut: Communicating Trade-offs slide.** Mention the concept in 30 seconds ("frame as choices, not complaints") and move on. Students can read the slide later.
+1. **First cut: Communicating Trade-offs slides (34-40).** Mention the concept in 30 seconds ("frame as choices, not complaints") and move on. Students can read the slides later.
 
 2. **Second cut: Reduce roadmap activity to 25 minutes.** Tell students they can finish RICE scoring after class — the important thing is to have the Now column populated and the North Star defined.
 
@@ -142,9 +142,9 @@ A: The risk register is NOT required for today's checkpoint. It is part of the f
 This is the last block of the day. Students have been in class since 11:00 with a lunch break. Energy will be lower at the start of this block compared to Block A.
 
 **Strategy:**
-- **Minutes 0-44 (concept slides):** Keep these brisk and interactive. Ask questions frequently. Do not lecture for more than 4 minutes without engaging the room.
-- **Minutes 45-91 (activities):** The roadmap and narrative activities are individual work, which can feel low-energy. Circulate actively. Ask students to share interesting decisions with their neighbors. If energy is flagging at minute 70, consider a 60-second stretch break before the narrative exercise.
-- **Minutes 91-102 (red-team):** This is the energy injection. The red-team exercise is competitive, social, and slightly uncomfortable — all of which wake people up. Lean into it. Be visibly enthusiastic. If pairs are going through the motions, jump in with a provocative question to raise the stakes.
+- **Minutes 0-44 (concept slides 2-52):** Keep these brisk and interactive. Ask questions frequently. Do not lecture for more than 4 minutes without engaging the room.
+- **Minutes 45-91 (activities, slides 53-56):** The roadmap and narrative activities are individual work, which can feel low-energy. Circulate actively. Ask students to share interesting decisions with their neighbors. If energy is flagging at minute 70, consider a 60-second stretch break before the narrative exercise.
+- **Minutes 91-102 (red-team, slides 57-60):** This is the energy injection. The red-team exercise is competitive, social, and slightly uncomfortable — all of which wake people up. Lean into it. Be visibly enthusiastic. If pairs are going through the motions, jump in with a provocative question to raise the stakes.
 - **Do not let the narrative writing drag.** If students are struggling with prose, tell them to write ugly sentences now and edit later. The goal is structure, not elegance.
 
 ---

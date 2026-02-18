@@ -21,12 +21,18 @@ By the end of this block you will be able to:
 
 ---
 
-## Welcome Back — Where We Are
+## Welcome Back — Where We Are (1/2)
 
 **Day 1 recap — you built:**
 - A **Manager OS** with cadences, rituals, artifacts, and decision hygiene
 - A **hiring plan** with structured interviews and work samples
 - A **roadmap** tied to business outcomes
+
+<!-- Talk track: Let me orient you. A week ago, you left here with a Team Charter, a Stakeholder Map, a hiring packet draft, and a roadmap. You've submitted your hiring packet drafts — nice work. -->
+
+---
+
+## Welcome Back — Where We Are (2/2)
 
 **Today — Day 2:**
 - **Block D (now):** Career development, feedback, performance
@@ -39,23 +45,29 @@ By the end of this block you will be able to:
 
 ---
 
-## Why Growth & Performance Matter More Than You Think
+## Why Growth & Performance Matter (1/2)
 
 **The #1 reason data scientists leave:** They don't feel like they're growing.
 
-- Turnover costs **1.5-2x salary** — for a senior data scientist making $180K, that's $270K-$360K walking out the door
-- The best analytics people have options. LinkedIn recruiters are in their inbox every week.
+- Turnover costs **1.5-2x salary** — for a senior DS making $180K, that's $270K-$360K
+- The best analytics people have options. Recruiters are in their inbox every week.
 - Your job as a manager is to make **staying the obvious choice**
+
+<!-- Talk track: Before we dive into frameworks, I want to make the business case for everything we're about to cover. The number one reason data scientists leave their jobs is not compensation — it's that they don't feel like they're growing. And when they leave, it costs you. Recruiting, onboarding, lost productivity, the institutional knowledge that walks out the door — conservatively 1.5 to 2 times their salary. For a senior data scientist, that's a quarter million dollars. The best people on your team have options. They get recruiter messages every week. Your job is not to lock them in — it's to make staying the obvious choice. -->
+
+---
+
+## Why Growth & Performance Matter (2/2)
 
 **Growth isn't a perk — it's retention strategy.**
 
 If your people don't see a path forward on your team, they'll find one somewhere else. And they won't tell you they're looking until they've already accepted the offer.
 
-<!-- Talk track: Before we dive into frameworks, I want to make the business case for everything we're about to cover. The number one reason data scientists leave their jobs is not compensation — it's that they don't feel like they're growing. And when they leave, it costs you. Recruiting, onboarding, lost productivity, the institutional knowledge that walks out the door — conservatively 1.5 to 2 times their salary. For a senior data scientist, that's a quarter million dollars. The best people on your team have options. They get recruiter messages every week. Your job is not to lock them in — it's to make staying the obvious choice. And the way you do that is by investing in their growth, giving them honest feedback, and showing them a path forward. Everything in this block is in service of that goal. -->
+<!-- Talk track: And the way you do that is by investing in their growth, giving them honest feedback, and showing them a path forward. Everything in this block is in service of that goal. -->
 
 ---
 
-## The Performance Management Paradox
+## The Growth Paradox (1/2)
 
 **Most people hate performance reviews.** Most managers hate giving them. And yet, done well, they're one of the **most valuable things a manager does.**
 
@@ -65,27 +77,39 @@ If your people don't see a path forward on your team, they'll find one somewhere
 - Fair evaluation requires judgment — and judgment feels risky
 - Career conversations create accountability through promises
 
+<!-- Talk track: Here's the paradox we need to sit with. Performance management is uncomfortable. Writing reviews is tedious. Giving constructive feedback makes your stomach turn. Having the conversation where you tell someone they're not ready for promotion — that's genuinely hard. And yet, every piece of research on management effectiveness says the same thing: the managers people value most are the ones who gave them honest feedback, helped them see their blind spots, and had the courage to have difficult conversations. -->
+
+---
+
+## The Growth Paradox (2/2)
+
 **The managers people remember — and stay for — told them the truth, even when it was hard.**
 
 Avoidance feels kind. It isn't. It's how you end up with surprised, frustrated people who leave.
 
-<!-- Talk track: Here's the paradox we need to sit with. Performance management is uncomfortable. Writing reviews is tedious. Giving constructive feedback makes your stomach turn. Having the conversation where you tell someone they're not ready for promotion — that's genuinely hard. And yet, every piece of research on management effectiveness says the same thing: the managers people value most are the ones who gave them honest feedback, helped them see their blind spots, and had the courage to have difficult conversations. The discomfort is not a bug — it is the feature. If performance management felt easy, you'd be doing it wrong. You'd be rubber-stamping everyone as "meets expectations" and avoiding the conversations that actually matter. So if this block makes you uncomfortable, good. That means we're doing it right. -->
+<!-- Talk track: The discomfort is not a bug — it is the feature. If performance management felt easy, you'd be doing it wrong. You'd be rubber-stamping everyone as "meets expectations" and avoiding the conversations that actually matter. So if this block makes you uncomfortable, good. That means we're doing it right. -->
 
 ---
 
-## What We'll Build This Block
+## What We'll Build This Block (1/2)
 
 **Three artifacts that separate managers who develop their people from managers who just assign work:**
 
 1. **A Personal Growth Plan (PGP)** — Aspirational, not corrective. A document that says "here's where you're going and here's how I'll help you get there."
 
-2. **A Calibration-Ready Performance Summary** — Evidence-based, specific enough to survive peer scrutiny. The kind of summary that actually gets your people the ratings they deserve.
+2. **A Calibration-Ready Performance Summary** — Evidence-based, specific enough to survive peer scrutiny.
+
+<!-- Talk track: Let me preview what we're building in the next hundred minutes. First, a Personal Growth Plan — this is the aspirational document that shows your direct report you're invested in their career, not just their output. Second, a calibration-ready performance summary — this is the artifact that gets your people fair ratings at review time. If you can't write a compelling summary, your people lose, no matter how good their work is. -->
+
+---
+
+## What We'll Build This Block (2/2)
 
 3. **Practice with Feedback Frameworks** — SBI for in-the-moment feedback, COIN for difficult conversations. Structured approaches that keep feedback specific and fair.
 
 **By 12:40 today, you'll have drafted the first two and practiced the third.**
 
-<!-- Talk track: Let me preview what we're building in the next hundred minutes. First, a Personal Growth Plan — this is the aspirational document that shows your direct report you're invested in their career, not just their output. Second, a calibration-ready performance summary — this is the artifact that gets your people fair ratings at review time. If you can't write a compelling summary, your people lose, no matter how good their work is. Third, we'll practice feedback frameworks — SBI for real-time feedback and COIN for difficult conversations. These are the tools you reach for when a conversation matters and you can't afford to wing it. By the time we break for lunch, you'll have drafted the first two and practiced the third. Let's start with career ladders — the foundation that everything else builds on. -->
+<!-- Talk track: Third, we'll practice feedback frameworks — SBI for real-time feedback and COIN for difficult conversations. These are the tools you reach for when a conversation matters and you can't afford to wing it. By the time we break for lunch, you'll have drafted the first two and practiced the third. Let's start with career ladders — the foundation that everything else builds on. -->
 
 ---
 
@@ -115,7 +139,7 @@ Avoidance feels kind. It isn't. It's how you end up with surprised, frustrated p
 
 ---
 
-## Building a Ladder That Works
+## Building a Ladder That Works (1/2)
 
 **What if you only have 3 people?** You still need levels.
 
@@ -123,10 +147,16 @@ Avoidance feels kind. It isn't. It's how you end up with surprised, frustrated p
 - Levels create **growth paths** — even on a tiny team
 - Levels enable **fair compensation** — without them, pay is arbitrary
 
+<!-- Talk track: Even on a three-person team, you need levels. Without them, expectations are vague, growth feels random, and compensation decisions are arbitrary. Levels are the foundation of everything else in this block. -->
+
+---
+
+## Building a Ladder That Works (2/2)
+
 **How to write level descriptions for analytics:**
 
-1. **Skip generic HR templates.** Write descriptions referencing actual work: types of analyses, stakeholder interactions, ambiguity of problems.
-2. **Define each level on 3 axes:** Scope (problem size), Autonomy (direction needed), Impact (who uses their work).
+1. **Skip generic HR templates.** Write descriptions referencing actual work.
+2. **Define each level on 3 axes:** Scope, Autonomy, Impact.
 
 <!-- Talk track: I know what some of you are thinking — "I have three people on my team, I don't need a career ladder." You do. Even on a tiny team, levels matter because they set expectations and create growth paths. Without them, your people have no way to know what "good" looks like or what they're working toward. The key is to write level descriptions that are specific to analytics work — not the generic HR boilerplate that says things like "demonstrates strategic thinking." What does that mean for a data analyst? Instead, describe the work: at this level, you run analyses that are scoped for you. At the next level, you identify what analyses need to be run and scope them yourself. -->
 
@@ -169,18 +199,25 @@ Avoidance feels kind. It isn't. It's how you end up with surprised, frustrated p
 
 ---
 
-## The Promotion Conversation — When They're Ready
+## The Promotion Conversation — When They're Ready (1/2)
 
 **How to handle: "I want to be promoted to Senior."**
 
 **Use the scope / autonomy / ambiguity framework:**
-- "Let me show you what Senior looks like on our team. Here are the three dimensions..."
-- Compare their current work against each dimension — with specific examples
+- "Let me show you what Senior looks like on our team..."
+- Compare their current work against each dimension
 - Be honest about where they are and where the gaps are
 
+<!-- Talk track: When someone says they want to be promoted, the best response is to pull out the framework and make it concrete. Show them the three dimensions. Walk through their recent work together. Be specific about where they're strong and where the gaps are. -->
+
+---
+
+## The Promotion Conversation — When They're Ready (2/2)
+
 **When they're ready:**
-- Advocate hard. Bring evidence to calibration. Make the case before they have to ask.
-- The best promotions happen when the person is *already operating at the next level* — the title is catching up to reality.
+- Advocate hard. Bring evidence to calibration.
+- Make the case before they have to ask.
+- The best promotions happen when they're *already operating at the next level* — the title catches up to reality.
 
 <!-- Talk track: At some point, someone on your team will sit in your 1:1 and say "I want to be promoted to Senior." This is a moment that matters. Handle it well and you build trust and motivation. Handle it poorly and you lose them. The scope, autonomy, ambiguity framework gives you an honest, transparent way to have this conversation. Pull it out. Walk through each dimension together. Show them specific examples from their own work. If they're ready — and ideally you should know this before they ask — advocate for them aggressively. Bring the evidence to calibration. The best promotions happen when the person has already been operating at the next level for months and the title is just catching up to reality. -->
 
@@ -263,7 +300,7 @@ Most new managers default to **Ruinous Empathy** — they care about the person 
 **Positive feedback is just as important as constructive feedback.** Most managers are bad at it.
 
 **Vague:** "Great job on the analysis!"
-**Specific:** "The way you structured the cohort analysis by acquisition channel gave the growth team exactly what they needed to reallocate the paid search budget — that's the strategic framing I want to see more of."
+**Specific:** "Your cohort analysis by acquisition channel gave the growth team exactly what they needed to reallocate the paid search budget."
 
 **Why specific praise matters:**
 - Reinforces the **exact behaviors** you want repeated
@@ -284,36 +321,54 @@ Most new managers default to **Ruinous Empathy** — they care about the person 
 
 ---
 
-## The Feedback Anti-Patterns
+## Feedback Anti-Patterns (1/2)
 
 **Patterns that undermine trust and growth:**
 
-- **The Feedback Sandwich** — positive / negative / positive. People learn to ignore the bread. Nobody hears the middle.
+- **The Feedback Sandwich** — positive / negative / positive. People learn to ignore the bread.
 - **The Vague Praise** — "Great job!" Great job at WHAT? Teaches nothing.
 - **The Delayed Feedback** — Telling someone in March about December. Feedback has a half-life.
+
+<!-- Talk track: Now let me name the anti-patterns — the ways managers give feedback that actually makes things worse. The feedback sandwich is the most popular and the most useless. Everyone knows the pattern: say something nice, deliver the real message, say something nice again. Your team will learn to brace themselves every time you start with a compliment. Just give the feedback directly. Vague praise teaches nothing. Delayed feedback is incredibly common — you save it up for the quarterly review and by then nobody remembers. -->
+
+---
+
+## Feedback Anti-Patterns (2/2)
+
 - **The Public Criticism** — Praise in public, criticize in private. Always.
 - **The Unactionable** — "Be more strategic." Give a concrete behavior to change instead.
 
 **Rule of thumb:** Feedback should be specific enough that the person knows exactly what to do differently.
 
-<!-- Talk track: Now let me name the anti-patterns — the ways managers give feedback that actually makes things worse. The feedback sandwich is the most popular and the most useless. Everyone knows the pattern: say something nice, deliver the real message, say something nice again. Your team will learn to brace themselves every time you start with a compliment. Just give the feedback directly. Vague praise teaches nothing. Delayed feedback is incredibly common — you save it up for the quarterly review and by then nobody remembers. Public criticism destroys trust. And "be more strategic" is the laziest feedback in corporate America. Always ask yourself: is this specific enough that the person knows exactly what to do differently next time? If not, it's not ready to deliver. -->
+<!-- Talk track: Public criticism destroys trust. And "be more strategic" is the laziest feedback in corporate America. Always ask yourself: is this specific enough that the person knows exactly what to do differently next time? If not, it's not ready to deliver. -->
 
 ---
 
-## Performance Cycles
+## Performance Cycles (1/2)
 
 **Annual reviews are insufficient.** They encourage recency bias, surprise people, and create perverse incentives.
 
 **A better cadence:**
 
-| Cadence | What happens | Purpose |
-|---|---|---|
-| **Continuous** | Real-time feedback (SBI) | Course-correct in the moment |
-| **Monthly** | 1:1 growth check-in (10 min of your 1:1) | Track PGP progress; surface issues early |
-| **Quarterly** | Written self-assessment + manager assessment | Formal reflection; calibration prep |
-| **Annual** | Calibration + compensation review | Holistic evaluation; pay decisions |
+| Cadence | What happens |
+|---|---|
+| **Continuous** | Real-time feedback (SBI) |
+| **Monthly** | 1:1 growth check-in (10 min) |
 
-<!-- Talk track: If you only do annual reviews, you are failing your people. Annual reviews encourage recency bias — you remember what happened in the last month, not the last twelve months. They surprise people — nobody should learn they're underperforming at their annual review. And they create perverse incentives — people ramp up effort right before review season instead of performing consistently. Here's what works better: continuous feedback in the moment using SBI, monthly growth check-ins as part of your regular 1:1, quarterly written assessments for formal reflection, and annual calibration for pay and promotion decisions. -->
+<!-- Talk track: If you only do annual reviews, you are failing your people. Annual reviews encourage recency bias — you remember what happened in the last month, not the last twelve months. They surprise people — nobody should learn they're underperforming at their annual review. And they create perverse incentives — people ramp up effort right before review season instead of performing consistently. -->
+
+---
+
+## Performance Cycles (2/2)
+
+| Cadence | What happens |
+|---|---|
+| **Quarterly** | Written self-assessment + manager assessment |
+| **Annual** | Calibration + compensation review |
+
+The goal: **no surprises at review time.** Continuous feedback and monthly check-ins mean annual reviews are a summary, not a reveal.
+
+<!-- Talk track: Here's what works better: continuous feedback in the moment using SBI, monthly growth check-ins as part of your regular 1:1, quarterly written assessments for formal reflection, and annual calibration for pay and promotion decisions. -->
 
 ---
 
@@ -328,21 +383,27 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 
 ---
 
-## The Manager Log in Practice
+## The Manager Log in Practice (1/2)
 
 **What a real weekly entry looks like — 5 minutes per report:**
 
 **Sarah Chen — Week of Jan 13**
-- Shipped the retention cohort analysis; Product team used it in their planning meeting.
-- Gave SBI feedback on dashboard presentation — needs to lead with the "so what."
+- Shipped the retention cohort analysis; Product team used it in planning.
+- Gave SBI feedback on dashboard presentation — lead with the "so what."
 - Career conversation: interested in Staff track. Discussed L5 scope.
+
+<!-- Talk track: Let me make the manager log concrete. Here's what an actual entry looks like. Three bullet points. Took me three minutes to write. First bullet: what they shipped and who used it. Second bullet: feedback I gave — I note the topic so I can track patterns over time. Third bullet: career conversation notes. That's it. Three bullets, three minutes, once a week. -->
+
+---
+
+## The Manager Log in Practice (2/2)
 
 **Template: 2-3 bullets covering:**
 1. **What they shipped** — concrete output with business context
 2. **Feedback given/received** — what you told them, what you heard
 3. **Career notes** — anything related to growth or promotion path
 
-<!-- Talk track: Let me make the manager log concrete. Here's what an actual entry looks like. Three bullet points. Took me three minutes to write. First bullet: what they shipped and who used it. Second bullet: feedback I gave — I note the topic so I can track patterns over time. Third bullet: career conversation notes. That's it. Three bullets, three minutes, once a week. -->
+<!-- Talk track: That's the template. Three categories. What they shipped, feedback you exchanged, and career notes. Keep it simple and consistent. The power comes from doing it every single week. -->
 
 ---
 
@@ -410,18 +471,25 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 
 ---
 
-## The Ethical PIP
+## The Ethical PIP (1/2)
 
 **When someone isn't performing, follow a principled sequence:**
 
-1. **Clarity** — Do they know the expectations? Have you been explicit? (Often the answer is no, and the problem is yours, not theirs.)
-2. **Support** — Have you provided what they need? Training, resources, context, time?
-3. **Feedback** — Have you given specific, timely, actionable feedback? (Not once. Multiple times.)
+1. **Clarity** — Do they know the expectations? Have you been explicit?
+2. **Support** — Have you provided what they need? Training, resources, time?
+3. **Feedback** — Have you given specific, timely, actionable feedback? Multiple times?
+
+<!-- Talk track: This is the hardest slide in the deck, and I want to handle it carefully. Some of you in this room may have been on the receiving end of a PIP. Some of you may have seen a PIP used unfairly — as a tool to manage someone out rather than to help them improve. That happens, and it's a failure of management. Here's what an ethical PIP looks like. Before you ever get to a PIP, you need to check yourself. First, clarity — does this person actually know what's expected of them? I have seen managers put people on PIPs for not meeting expectations that were never communicated. That's the manager's failure, not the employee's. Second, support — have you given them what they need? Third, feedback — have you told them, specifically, multiple times, what needs to change? -->
+
+---
+
+## The Ethical PIP (2/2)
+
 4. **Documentation** — Is the situation documented fairly and specifically?
-5. **Timeline** — Is the improvement period reasonable? (30-90 days, depending on scope)
+5. **Timeline** — Is the improvement period reasonable? (30-90 days)
 6. **Dignity** — Always. A PIP is not punishment. It is a last attempt to help someone succeed.
 
-<!-- Talk track: This is the hardest slide in the deck, and I want to handle it carefully. Some of you in this room may have been on the receiving end of a PIP. Some of you may have seen a PIP used unfairly — as a tool to manage someone out rather than to help them improve. That happens, and it's a failure of management. Here's what an ethical PIP looks like. Before you ever get to a PIP, you need to check yourself on six things. First, clarity — does this person actually know what's expected of them? I have seen managers put people on PIPs for not meeting expectations that were never communicated. That's the manager's failure, not the employee's. Second, support — have you given them what they need? Third, feedback — have you told them, specifically, multiple times, what needs to change? Fourth, documentation — is it fair? Fifth, timeline — is it reasonable? And through all of it, dignity. A PIP is not punishment. If you're using it as punishment, you're doing it wrong. -->
+<!-- Talk track: Fourth, documentation — is it fair? Fifth, timeline — is it reasonable? And through all of it, dignity. A PIP is not punishment. If you're using it as punishment, you're doing it wrong. -->
 
 ---
 
@@ -460,7 +528,7 @@ Sometimes what looks like underperformance is actually:
 - **Toxic team dynamics** — A colleague is undermining them, or the culture is broken. The problem is the system, not the person.
 - **Manager's own failure** — You haven't provided direction, context, or feedback. They're failing because you are.
 
-**The diagnostic before the PIP:** Have an honest, curious conversation. "I've noticed a change in your work. I want to understand what's going on — not to judge, but to help."
+**The diagnostic before the PIP:** Have an honest, curious conversation: "I've noticed a change in your work. I want to understand what's going on."
 
 <!-- Talk track: I've seen top performers get put on PIPs after two years of unsustainable workload finally caught up with them. That's burnout, and a PIP is the cruelest possible response. And — this is the hardest one — sometimes the underperformance is actually the manager's fault. If you never set clear expectations, never gave feedback, and never provided direction, you don't get to blame the person for not meeting a standard they didn't know existed. Before you reach for a PIP, have a genuinely curious conversation. You might discover the fix is something completely different. -->
 
@@ -493,7 +561,7 @@ Sometimes what looks like underperformance is actually:
 
 ---
 
-## Activity: Draft a Personal Growth Plan
+## Activity: Draft a Personal Growth Plan (1/2)
 
 **Time: 25 minutes** | Use the PGP template provided
 
@@ -502,10 +570,20 @@ Write a PGP — either for yourself or for a fictional direct report in your cas
 **Your PGP must include:**
 1. **Current Role & Context** — Where is this person right now?
 2. **Strengths & Superpowers** — 3-5 things they're known for, with evidence
+
+<!-- Talk track: Time to write. Open the PGP template. You have 25 minutes. You can write this for yourself — which is a genuinely valuable exercise — or for a fictional direct report in your case context. Either way, be specific and honest. -->
+
+---
+
+## Activity: Draft a Personal Growth Plan (2/2)
+
+**Your PGP must also include:**
 3. **Growth Areas** — 2-3 specific, actionable development areas
 4. **Development Actions** — Concrete steps with timelines and success measures
 
-<!-- Talk track: Time to write. Open the PGP template. You have 25 minutes. You can write this for yourself — which is a genuinely valuable exercise — or for a fictional direct report in your case context. Either way, be specific and honest. Here's my biggest tip: growth areas are not the same as weaknesses. A growth area is the next frontier for someone who's already good. "Improve communication" is too vague. "Learn to present technical findings to non-technical stakeholders in under 5 minutes, starting by presenting at the next product review" — that's specific, measurable, and actionable. -->
+**Tip:** Growth areas are not weaknesses. They're the next frontier for someone who's already good.
+
+<!-- Talk track: Here's my biggest tip: growth areas are not the same as weaknesses. A growth area is the next frontier for someone who's already good. "Improve communication" is too vague. "Learn to present technical findings to non-technical stakeholders in under 5 minutes, starting by presenting at the next product review" — that's specific, measurable, and actionable. -->
 
 ---
 
@@ -515,9 +593,7 @@ Write a PGP — either for yourself or for a fictional direct report in your cas
 5. **6-Month Vision** — Where should this person be in 6 months?
 6. **Check-in Cadence** — How often will you review this plan?
 
-**Tips:**
-- Be specific. "Improve communication" is not a growth area. "Learn to present technical findings to non-technical stakeholders in under 5 minutes" is.
-- Growth areas are not weaknesses. They're the next frontier.
+**Tip:** Don't just say "good at SQL." Say "recognized as the team's go-to for complex cohort analyses; her retention study was cited by the VP in the board meeting."
 
 <!-- Talk track: For the strengths section, don't just say "good at SQL." Say "recognized as the team's go-to person for complex cohort analyses; her retention study was cited by the VP of Product in the board meeting." Evidence makes it real. And remember to include the six-month vision — where should this person be by then? That forward-looking framing turns the PGP from a checklist into a narrative. I'll circulate and help. Go. -->
 
@@ -551,23 +627,29 @@ Write a calibration-ready performance summary for a fictional team member.
 
 ---
 
-## Debrief
+## Debrief (1/2)
 
 **Let's discuss:**
 - What was hardest to write — the PGP or the calibration summary? Why?
 - Did anyone find it harder to write about strengths than growth areas?
 - How would you feel receiving the PGP you just wrote?
 
+<!-- Talk track: Let's come back together. I want to hear from the room. What was harder — the PGP or the calibration summary? In my experience, people find the calibration summary harder because it requires you to make a judgment and defend it. The PGP is aspirational — it feels generous. The calibration summary is evaluative — it feels high-stakes. Here's a question that might make you squirm: how would you feel receiving the PGP you just wrote? Would you feel seen? Would you feel motivated? Or would you feel like your manager was checking a box? -->
+
+---
+
+## Debrief (2/2)
+
 **Key insights:**
 - If you can't articulate strengths with evidence, you don't know them well enough
 - If growth areas aren't specific enough to act on, they're not useful
 - If your calibration summary wouldn't survive peer challenge, your evidence is too thin
 
-<!-- Talk track: Let's come back together. I want to hear from the room. What was harder — the PGP or the calibration summary? In my experience, people find the calibration summary harder because it requires you to make a judgment and defend it. The PGP is aspirational — it feels generous. The calibration summary is evaluative — it feels high-stakes. Here's a question that might make you squirm: how would you feel receiving the PGP you just wrote? Would you feel seen? Would you feel motivated? Or would you feel like your manager was checking a box? That emotional reaction is data. If your PGP feels generic, it IS generic. Take a minute to reflect on what you'd revise. -->
+<!-- Talk track: That emotional reaction is data. If your PGP feels generic, it IS generic. Take a minute to reflect on what you'd revise. -->
 
 ---
 
-## Key Takeaways
+## Key Takeaways (1/2)
 
 **What to remember from this block:**
 
@@ -575,15 +657,24 @@ Write a calibration-ready performance summary for a fictional team member.
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
 - **Feedback has a half-life.** Give it within 48 hours using SBI.
 - **Document continuously.** The manager log defeats recency bias.
+
+<!-- Talk track: Let me leave you with the key takeaways. PGP is not a PIP — that's a message you'll need to repeat to your team every single time you introduce growth plans. Senior means scope, autonomy, and ambiguity tolerance — not tenure. Feedback has a half-life — give it fast or lose it. Document continuously — your manager log is the foundation of fair performance management. -->
+
+---
+
+## Key Takeaways (2/2)
+
 - **Calibration is where fairness happens.** Lead with evidence, not emotion.
 - **Difficult conversations require preparation.** Use COIN. Lead with curiosity.
 - **Dignity is non-negotiable.** In PIPs, feedback, calibration — always.
 
-<!-- Talk track: Let me leave you with the key takeaways. PGP is not a PIP — that's a message you'll need to repeat to your team every single time you introduce growth plans. Senior means scope, autonomy, and ambiguity tolerance — not tenure. Feedback has a half-life — give it fast or lose it. Document continuously — your manager log is the foundation of fair performance management. Calibration is where fairness happens — bring evidence, not feelings. Prepare for difficult conversations — don't wing them. And dignity is non-negotiable, in every interaction, no matter how hard. These aren't just frameworks. They're commitments you make to the people who report to you. -->
+**These aren't just frameworks. They're commitments you make to the people who report to you.**
+
+<!-- Talk track: Calibration is where fairness happens — bring evidence, not feelings. Prepare for difficult conversations — don't wing them. And dignity is non-negotiable, in every interaction, no matter how hard. These aren't just frameworks. They're commitments you make to the people who report to you. -->
 
 ---
 
-## Transition to Block E
+## Transition to Block E (1/2)
 
 **After lunch: Block E — XFN, Vendor, IT & Data Infrastructure (13:30–15:10)**
 
@@ -591,11 +682,17 @@ You've hired your team. You're growing them. Now they need **tools and partnersh
 
 > **"What's the first tool you'd buy for your case context? And who do you need to convince to buy it?"**
 
+<!-- Talk track: We're breaking for lunch. When you come back, we'll shift from people to infrastructure and partnerships. Block E covers cross-functional collaboration — working with Product, Engineering, Legal, and IT — plus vendor management and data infrastructure planning. -->
+
+---
+
+## Transition to Block E (2/2)
+
 **Think about over lunch:**
-- What does your data infrastructure look like today? (Hint: probably messy.)
+- What does your data infrastructure look like today?
 - Who controls your data access — engineering? IT? A platform team?
 - If you had $50K for tools, where would you spend it first?
 
 See you at 13:30.
 
-<!-- Talk track: We're breaking for lunch. When you come back, we'll shift from people to infrastructure and partnerships. Block E covers cross-functional collaboration — working with Product, Engineering, Legal, and IT — plus vendor management and data infrastructure planning. Here's what I want you to think about while you eat. Look at your case context. What does the data infrastructure look like right now? It's probably messy — it almost always is. Who controls your access to data? Is it an engineering team? IT? A platform team? Nobody? And if someone gave you $50K for tools, what would you buy first? A BI tool? A data warehouse? A transformation layer? That question reveals your priorities. Enjoy lunch, and I'll see you at 1:30. -->
+<!-- Talk track: Here's what I want you to think about while you eat. Look at your case context. What does the data infrastructure look like right now? It's probably messy — it almost always is. Who controls your access to data? Is it an engineering team? IT? A platform team? Nobody? And if someone gave you $50K for tools, what would you buy first? A BI tool? A data warehouse? A transformation layer? That question reveals your priorities. Enjoy lunch, and I'll see you at 1:30. -->

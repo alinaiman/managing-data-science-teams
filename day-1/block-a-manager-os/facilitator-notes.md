@@ -2,7 +2,7 @@
 
 **Course:** ECBS5256 – Managing Data Science Teams
 **Block:** Day 1, Block A (11:00–12:40, 100 minutes)
-**Instructor:** Eduardo Ariño de la Rubia
+**Instructor:** Eduardo Arino de la Rubia
 
 ---
 
@@ -27,24 +27,69 @@
 
 ---
 
+## Slide Map (59 slides)
+
+| Slide | Title |
+|---|---|
+| 1 | The Manager's Operating System (Title) |
+| 2–3 | Welcome & Course Overview (1/2, 2/2) |
+| 4–5 | Why This Course Exists (1/2, 2/2) |
+| 6–7 | How This Course Works (1/2, 2/2) |
+| 8–10 | Choose Your Case Context (1/3, 2/3, 3/3) |
+| 11 | What Is a Manager? |
+| 12 | Manager vs. Tech Lead vs. PM |
+| 13–14 | The Analytics Manager Is Unique (1/2, 2/2) |
+| 15–16 | When the VP Asks "Why Is Churn Up?" (1/2, 2/2) |
+| 17 | Team Topologies for Analytics |
+| 18 | Applying Team Topologies to Your Case Context |
+| 19 | The Manager OS Concept |
+| 20–21 | What Happens Without a Manager OS? (1/2, 2/2) |
+| 22–23 | Cadences That Work (1/2, 2/2) |
+| 24–26 | Designing Your Cadence (1/3, 2/3, 3/3) |
+| 27 | 1:1s That Actually Work |
+| 28–29 | 1:1 Anti-Patterns (1/2, 2/2) |
+| 30–31 | Handling Difficult 1:1s: The Silent Report (1/2, 2/2) |
+| 32 | Handling Difficult 1:1s: The Complainer |
+| 33–35 | Decision Logs & Memos (1/3, 2/3, 3/3) |
+| 36–38 | Example Decision Memo (1/3, 2/3, 3/3) |
+| 39–40 | The Team Charter (1/2, 2/2) |
+| 41 | The Stakeholder Map |
+| 42–43 | Stakeholder Map: What to Capture (1/2, 2/2) |
+| 44 | Stakeholder Map: Hidden Stakeholders by Context |
+| 45 | RACI in 60 Seconds |
+| 46 | RACI: Common Mistakes |
+| 47 | RACI: When to Use It |
+| 48–49 | Activity: Draft Your Team Charter (1/2, 2/2) |
+| 50–52 | Activity: Map Your Stakeholders (1/2, 2/3, 3/3) |
+| 53–54 | Pair Share (1/2, 2/2) |
+| 55 | Debrief |
+| 56–57 | Your Manager OS So Far (1/2, 2/2) |
+| 58–59 | Transition to Block B (1/2, 2/2) |
+
+---
+
 ## Timing Breakdown (Minute-by-Minute)
 
 | Time | Duration | Activity | Slide(s) |
 |---|---|---|---|
-| 11:00–11:05 | 5 min | Welcome, introductions, learning outcomes | 1 (Title) |
-| 11:05–11:12 | 7 min | What Is a Manager? — Grove quote, discussion | 2 |
-| 11:12–11:20 | 8 min | Manager vs. Tech Lead vs. PM + Team Topologies | 3–4 |
-| 11:20–11:30 | 10 min | The Manager OS Concept + Cadences | 5–6 |
-| 11:30–11:38 | 8 min | 1:1s That Work + Decision Logs & Memos | 7–8 |
-| 11:38–11:43 | 5 min | Team Charter concept + Stakeholder Map + RACI | 9–11 |
-| 11:43–11:45 | 2 min | Activity brief — Team Charter | 12 |
-| 11:45–12:10 | 25 min | **Activity: Draft Team Charter** | 12 |
-| 12:10–12:12 | 2 min | Activity brief — Stakeholder Map | 13 |
-| 12:12–12:32 | 20 min | **Activity: Map Stakeholders** | 13 |
-| 12:32–12:37 | 5 min | Pair Share | 14 |
-| 12:37–12:40 | 3 min | Debrief + Recap + Transition to Block B | 15–17 |
+| 11:00–11:05 | 5 min | Welcome, introductions, learning outcomes | 1–3 (Title, Welcome & Course Overview) |
+| 11:05–11:12 | 7 min | Why This Course Exists, How This Course Works, Choose Context | 4–10 |
+| 11:12–11:20 | 8 min | What Is a Manager? — Grove quote, Manager vs. TL vs. PM | 11–12 |
+| 11:20–11:28 | 8 min | Analytics Manager Is Unique, VP Asks scenario | 13–16 |
+| 11:28–11:33 | 5 min | Team Topologies + Applying to Case Context | 17–18 |
+| 11:33–11:38 | 5 min | Manager OS Concept + What Happens Without an OS | 19–21 |
+| 11:38–11:43 | 5 min | Cadences That Work + Designing Your Cadence | 22–26 |
+| 11:43–11:48 | 5 min | 1:1s That Work + Anti-Patterns + Difficult 1:1s | 27–32 |
+| 11:48–11:53 | 5 min | Decision Logs & Memos + Example Memo | 33–38 |
+| 11:53–11:58 | 5 min | Team Charter + Stakeholder Map + RACI | 39–47 |
+| 11:58–12:00 | 2 min | Activity brief — Team Charter | 48–49 |
+| 12:00–12:25 | 25 min | **Activity: Draft Team Charter** | 48–49 |
+| 12:25–12:27 | 2 min | Activity brief — Stakeholder Map | 50 |
+| 12:27–12:47 | 20 min | **Activity: Map Stakeholders** | 50–52 |
+| 12:47–12:52 | 5 min | Pair Share | 53–54 |
+| 12:52–12:55 | 3 min | Debrief + Recap + Transition to Block B | 55–59 |
 
-**Total: 100 minutes**
+**Total: 100 minutes (approximately — adjust lecture pacing to stay on track)**
 
 ---
 
@@ -58,8 +103,8 @@
 5. **Specificity in charters matters.** Push students away from generic statements. "We value quality" means nothing. "Every dashboard has a documented owner and a review date" is actionable.
 
 ### Skip If Short on Time
-- **RACI slide (slide 11)** — Can be covered in 60 seconds or skipped entirely; the template is self-explanatory. Students can fill in the RACI template as homework.
-- **Team Topologies details (slide 4)** — If pressed, mention the framework and tell students to read the book. The key takeaway is just "there are different types of analytics teams."
+- **RACI slides (slides 45–47)** — Can be covered in 60 seconds or skipped entirely; the template is self-explanatory. Students can fill in the RACI template as homework.
+- **Team Topologies details (slides 17–18)** — If pressed, mention the framework and tell students to read the book. The key takeaway is just "there are different types of analytics teams."
 - **Pair Share can be shortened to 6 minutes total (3 min each)** if running behind.
 
 ### Do Not Skip
@@ -111,17 +156,17 @@ This is the **opening block** of a two-day intensive. Energy management is criti
 - **Praise specificity.** When a student shares a charter principle or a stakeholder insight, say "That's specific and actionable — that's exactly what a good charter looks like."
 
 ### Energy Through the Block
-- **11:00–11:30 (lecture portion):** Keep pace brisk. These slides are concept-heavy. If energy dips, ask a question: "Quick show of hands — who has been in a meeting that should have been a memo?"
-- **11:30–11:45 (final concepts + activity brief):** Students may check out briefly. The activity brief re-engages them. Be crisp: "Here's what you're doing, here's how long you have, go."
-- **11:45–12:30 (activities):** This is the high-energy portion. Circulate, coach, encourage. Students working on real artifacts stay engaged.
-- **12:30–12:40 (pair share + debrief):** Energy often dips at the end. Keep the debrief tight and end with a forward-looking question: "What role would you hire first?" This primes them for Block B.
+- **11:00–11:30 (lecture portion):** Keep pace brisk. These slides are concept-heavy. Many topics are now split across two or three slides, so advance slides quickly to maintain visual momentum. If energy dips, ask a question: "Quick show of hands — who has been in a meeting that should have been a memo?"
+- **11:30–12:00 (final concepts + activity brief):** Students may check out briefly. The activity brief re-engages them. Be crisp: "Here's what you're doing, here's how long you have, go."
+- **12:00–12:47 (activities):** This is the high-energy portion. Circulate, coach, encourage. Students working on real artifacts stay engaged.
+- **12:47–12:55 (pair share + debrief):** Energy often dips at the end. Keep the debrief tight and end with a forward-looking question: "What role would you hire first?" This primes them for Block B.
 
 ---
 
 ## Contingencies
 
 ### If Running 10 Minutes Behind
-- **Cut the RACI slide** (slide 11) — students can learn RACI from the template. Save 3 minutes.
+- **Cut the RACI slides** (slides 45–47) — students can learn RACI from the template. Save 3 minutes.
 - **Shorten the pair share** from 10 minutes to 5 minutes (2.5 min each). Save 5 minutes.
 - **Shorten the debrief** from 3 minutes to 1 minute — just ask one question and give the recap. Save 2 minutes.
 - Do NOT cut the Team Charter or Stakeholder Map activities. These are the core deliverables.
@@ -167,7 +212,7 @@ Block B (13:30–15:10) covers **Hiring & Team Formation**. The bridge should fe
 
 ## Instructor Preparation Checklist
 
-- [ ] Read through all slides and talk tracks; internalize the flow
+- [ ] Read through all 59 slides and talk tracks; internalize the flow
 - [ ] Print or distribute templates (team-charter, stakeholder-map, raci, decision-memo)
 - [ ] Test Marp rendering of slides on the classroom projector
 - [ ] Prepare case context cards/handouts if not already distributed

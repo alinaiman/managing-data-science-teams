@@ -52,21 +52,23 @@ Prepare four fictional candidate profiles for the role-play exercise:
 
 | Time | Duration | Activity | Notes |
 |:---|:---|:---|:---|
-| 13:30–13:35 | 5 min | **Opening: The Cost of a Bad Hire** | Post-lunch energy reset. Start provocative. Ask: "Has anyone worked somewhere that made a bad hire? What happened?" |
-| 13:35–13:45 | 10 min | **Role Design & Leveling** | Slides 3–4. Move briskly. The role scorecard is the key concept. |
-| 13:45–13:55 | 10 min | **Structured Interviews & Research** | Slide 5. The Schmidt & Hunter data is the anchor. Pause for reactions. |
-| 13:55–14:10 | 15 min | **Work Samples, Rubrics, Calibration** | Slides 6–8. Spend more time on rubric design — this is where students struggle most. |
-| 14:10–14:15 | 5 min | **Interview Loop & Candidate Experience** | Slides 9–10. Quick but important. |
-| 14:15–14:20 | 5 min | **Activity Brief** | Slides 11–12. Clear instructions, distribute templates. |
+| 13:30–13:35 | 5 min | **Opening: The Cost of a Bad Hire** | Post-lunch energy reset. Start provocative. Slides 1–11 (title, compounding, cost of bad hire). Ask: "Has anyone worked somewhere that made a bad hire? What happened?" |
+| 13:35–13:45 | 10 min | **Role Design & Leveling** | Slides 12–21 (role design, JD anti-patterns, leveling). Move briskly. The role scorecard is the key concept. |
+| 13:45–13:55 | 10 min | **Structured Interviews & Research** | Slides 22–25 (Schmidt & Hunter data, fairness). The research data is the anchor. Pause for reactions. |
+| 13:55–14:10 | 15 min | **Work Samples, Rubrics, Calibration** | Slides 26–44 (work samples, rubrics, calibration, norming). Spend more time on rubric design — this is where students struggle most. |
+| 14:10–14:15 | 5 min | **Interview Loop & Candidate Experience** | Slides 45–59 (interview loop, debrief, candidate experience, employer brand). Quick but important. |
+| 14:15–14:20 | 5 min | **Activity Brief** | Slides 60–63 (activity divider, brief, tips). Clear instructions, distribute templates. |
 | 14:20–14:55 | 35 min | **Individual Work: Build Hiring Packet** | Circulate, answer questions, check progress at 15 min and 25 min. |
-| 14:55–15:00 | 5 min | **Role-Play Setup** | Distribute candidate profile cards, pair students, explain logistics. |
+| 14:55–15:00 | 5 min | **Role-Play Setup** | Slides 64–68 (role-play setup, candidate profile cards). Distribute cards, pair students, explain logistics. |
 | 15:00–15:05 | 5 min | **Role-Play Round 1** | One pair member interviews, the other plays the candidate profile. (Shortened from 10 min if time is tight.) |
 | 15:05–15:07 | 2 min | **Quick Swap** | Switch roles, new candidate profile card. |
 | 15:07–15:12 | 5 min | **Role-Play Round 2** | Reversed roles. |
-| 15:12–15:18 | 6 min | **Debrief & Anti-Patterns** | Slides 14–15. Capture key observations on the board. |
-| 15:18–15:20 | 2 min | **Transition to Block C** | Slide 16. Remind about Thursday deadline. |
+| 15:12–15:18 | 6 min | **Debrief & Anti-Patterns** | Slides 69–73 (debrief, anti-patterns, meta anti-pattern). Capture key observations on the board. |
+| 15:18–15:20 | 2 min | **Transition to Block C** | Slides 74–76 (key takeaways, up next). Remind about Thursday deadline. |
 
 **Total: 110 min** (buffer: you will likely need the full 100 min; the role-play rounds can be compressed to 5 min each if needed)
+
+**Note:** The deck has 76 slides total. Many conceptual topics are split across two slides for readability. You do not need to pause on every slide — advance through split pairs (1/2, 2/2) fluidly as a single topic.
 
 ---
 
@@ -76,7 +78,7 @@ This is the first block after lunch — the "graveyard slot" in teaching. Specif
 
 1. **Open with provocation, not lecture.** The "cost of a bad hire" framing works because everyone has a story. Ask the room: "Who has experienced a bad hire? What happened to the team?" Get 2-3 short stories before moving to the slides.
 
-2. **Keep the lecture portion to 40 minutes maximum.** Slides 2–10 should be done by 14:15. If you are running long, skip the calibration slide (slide 8) — students will encounter calibration naturally during the role-play.
+2. **Keep the lecture portion to 40 minutes maximum.** Slides 2–59 should be done by 14:15. If you are running long, skip the calibration slides (slides 39–44) — students will encounter calibration naturally during the role-play.
 
 3. **The activity is the energy.** The 35-minute individual work period and the role-play get students moving and talking. Do not sacrifice activity time for more lecture.
 
@@ -119,14 +121,14 @@ This is the first block after lunch — the "graveyard slot" in teaching. Specif
 
 ### Cover If Time Allows
 
-- Calibration/norming session details (slide 8)
-- Candidate experience specifics (slide 10) — important but students intuitively grasp this
-- Detailed interview loop roles (slide 9) — the table is self-explanatory if students read it
+- Calibration/norming session details (slides 39–44)
+- Candidate experience specifics (slides 53–59) — important but students intuitively grasp this
+- Detailed interview loop roles (slides 45–48) — the table is self-explanatory if students read it
 
 ### Skip If Short on Time
 
-- Candidate experience slide (slide 10) — can be mentioned in one sentence during activity brief
-- Hiring anti-patterns slide (slide 15) — entertaining but not essential; can be shared as a handout
+- Candidate experience and employer brand slides (slides 53–59) — can be mentioned in one sentence during activity brief
+- Hiring anti-patterns slides (slides 71–73) — entertaining but not essential; can be shared as a handout
 - Second role-play round — one round is sufficient if time is genuinely tight
 
 ---
@@ -185,7 +187,7 @@ The power of this block is the role-play. Students who have never been on either
 
 ### Common Failure Modes
 
-- **Running long on lecture and cutting the activity.** The lecture is context; the activity is the learning. If you are behind, cut slides 8 and 10.
+- **Running long on lecture and cutting the activity.** The lecture is context; the activity is the learning. If you are behind, cut the calibration slides (39–44) and candidate experience slides (53–59).
 - **Students writing generic job descriptions.** Push them to be specific to their case context. "What does a data scientist at a seed-stage B2C app actually do in their first 90 days?"
 - **Role-play awkwardness.** Acknowledge it: "This will feel weird. That's the point. Real interviews feel weird too." Setting explicit permission to feel uncomfortable reduces resistance.
 - **Debrief running long.** Cap at 6 minutes. Capture 3-4 key observations and move on. The debrief can continue informally during the break.

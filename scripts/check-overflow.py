@@ -2,26 +2,38 @@
 """
 check-overflow.py — Heuristic overflow detection for Marp slides.
 
-Marp's default slide is 1280x720 with padding. Based on empirical testing,
-a slide comfortably fits approximately:
-  - ~14 lines of body text (with default theme)
-  - Each table row counts as ~1.3 lines
-  - Each heading counts as ~2 lines
-  - Each bullet point counts as ~1.2 lines
-  - Code blocks: ~1 line per code line + 1 for wrapper
-  - ASCII art / pre-formatted blocks count per line
+Marp's default slide is 1280x720 with padding.  The content area is
+roughly 1160px wide.  At the default font size (~24px body text),
+a line of proportional text fits approximately 75 characters before
+wrapping.  Long Markdown "lines" (which are really paragraphs) therefore
+occupy ceil(len / 75) visual lines on the rendered slide.
 
-This uses a weighted line-count heuristic. It won't be pixel-perfect,
-but it catches the obvious overflows.
+The heuristic estimates visual height by summing wrapped-line counts
+for every piece of visible content, with multipliers for elements that
+take extra vertical space (headings, table chrome, bullet indent, etc.).
 """
 
+import math
 import re
 import sys
 from pathlib import Path
 
-# Approximate max "weighted lines" that fit on a Marp 16:9 slide
-# with the default theme. Conservative estimate.
-MAX_WEIGHTED_LINES = 15.0
+# ── Tuning knobs ────────────────────────────────────────────────────
+MAX_WEIGHTED_LINES = 14.0   # visual lines that fit on a 16:9 slide
+
+# Characters per visual line, by element type.
+# Bullets are indented → fewer chars per line.  Bold / Markdown
+# formatting eats some width, so body text is < raw terminal width.
+CHARS_BODY = 75
+CHARS_BULLET = 70
+CHARS_BLOCKQUOTE = 65
+
+
+def _wrap_lines(char_count: int, chars_per_line: int) -> float:
+    """Estimate how many visual lines a string wraps to."""
+    if char_count <= 0:
+        return 0.0
+    return math.ceil(char_count / chars_per_line)
 
 
 def count_weighted_lines(slide_text: str) -> float:
@@ -32,52 +44,44 @@ def count_weighted_lines(slide_text: str) -> float:
     for line in lines:
         stripped = line.strip()
 
-        # Skip empty lines (they add some space but Marp is compact)
+        # Empty lines — small vertical gap
         if not stripped:
-            weight += 0.3
+            weight += 0.4
             continue
 
-        # Skip HTML comments (speaker notes — not rendered on slide)
+        # HTML comments (speaker notes) — not rendered
         if stripped.startswith("<!--"):
-            # Multi-line comments handled: skip until -->
             continue
 
-        # Skip Marp directives
+        # Marp directives
         if stripped.startswith("<!-- _class"):
             continue
 
-        # Headings
+        # Headings — bigger font ⇒ extra vertical space
         if re.match(r"^#{1,2}\s", stripped):
-            weight += 2.0
+            weight += 2.5
             continue
         if re.match(r"^#{3,6}\s", stripped):
-            weight += 1.5
+            weight += 1.8
             continue
 
         # Table rows
         if stripped.startswith("|"):
-            # Header separator row (|---|---|)
             if re.match(r"^\|[\s\-:]+\|", stripped):
-                weight += 0.3
+                weight += 0.3          # separator row
             else:
-                weight += 1.3
+                weight += 1.3          # data / header row
             continue
 
-        # Bullet points
+        # Bullet points (-, *, +, 1.)
         if re.match(r"^[-*+]\s", stripped) or re.match(r"^\d+\.\s", stripped):
-            # Longer bullets take more space
-            char_count = len(stripped)
-            if char_count > 100:
-                weight += 2.0
-            elif char_count > 60:
-                weight += 1.5
-            else:
-                weight += 1.2
+            weight += _wrap_lines(len(stripped), CHARS_BULLET) + 0.2
             continue
 
         # Block quotes
         if stripped.startswith(">"):
-            weight += 1.3
+            inner = stripped.lstrip("> ").strip()
+            weight += _wrap_lines(len(inner), CHARS_BLOCKQUOTE) + 0.2
             continue
 
         # Code fence markers
@@ -90,14 +94,8 @@ def count_weighted_lines(slide_text: str) -> float:
             weight += 1.5
             continue
 
-        # Regular text paragraph lines
-        char_count = len(stripped)
-        if char_count > 100:
-            weight += 2.0
-        elif char_count > 60:
-            weight += 1.3
-        else:
-            weight += 1.0
+        # Regular text / paragraphs — estimate wrapping
+        weight += _wrap_lines(len(stripped), CHARS_BODY)
 
     return weight
 

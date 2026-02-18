@@ -6,7 +6,7 @@
 
 ## Pre-Class Setup
 
-- **Room:** Ensure projector is working and slides are loaded. Have the data infrastructure blueprint slide (Slide 5) ready as a persistent reference — consider printing it or keeping it visible on a secondary screen.
+- **Room:** Ensure projector is working and slides are loaded. Have the data infrastructure blueprint slides (Slides 23–24) ready as a persistent reference — consider printing it or keeping it visible on a secondary screen.
 - **Templates:** Confirm both templates (data-infra-blueprint.md, rfp-scoring-matrix.md) are accessible to students via LMS or shared folder.
 - **Reference materials:** If possible, have real vendor logos and screenshots ready (Snowflake UI, BigQuery console, dbt Cloud, Metabase dashboard). Concrete visuals help students who haven't used these tools.
 - **Vendor pricing pages:** Bookmark current pricing pages for BigQuery, Snowflake, Fivetran, Airbyte, Metabase, Preset, Statsig, Eppo. Students will reference these during the RFP activity.
@@ -14,22 +14,61 @@
 
 ---
 
+## Slide Map (65 slides)
+
+| Slide | Title |
+|-------|-------|
+| 1 | (Marp config) |
+| 2 | Title: XFN, Vendor, IT & Data Infrastructure |
+| 3–4 | Why Infrastructure Matters for Analytics Managers (1/2, 2/2) |
+| 5–6 | The Cross-Functional Reality (1/2, 2/2) |
+| 7–8 | What We'll Build This Block (1/2, 2/2) |
+| 9–11 | Your Cross-Functional Universe (1/2, 2/2, cont.) |
+| 12–13 | The XFN Failure Modes (1/2, 2/2) |
+| 14–16 | What Each Team Needs From You (1/2, 2/2, cont.) |
+| 17–18 | What You Need From Them (1/2, 2/2) |
+| 19–20 | Building Bidirectional SLAs — Template (1/2, 2/2) |
+| 21–22 | Building Bidirectional SLAs — Example (1/2, 2/2) |
+| 23–24 | The Data Infrastructure Blueprint (1/2, 2/2) |
+| 25–27 | Reading an Architecture Diagram (1/2, 2/2, 3/3) |
+| 28–31 | Small Org Stack (1/2, 2/2, What to Skip, cont.) |
+| 32–34 | Medium Org Stack (1/2, 2/2, cont.) |
+| 35–37 | Large Org Stack (1/2, 2/2, cont.) |
+| 38–39 | The Migration Trap (1/2, 2/2) |
+| 40–41 | Build vs. Buy (Framework, Total Cost of Ownership) |
+| 42–44 | The Hidden Costs of "Free" (Comparison 1/2, 2/2, Annual Total) |
+| 45 | The RFP Process |
+| 46–48 | RFP Scoring Dimensions (1/2, 2/3, 3/3) |
+| 49–51 | Working with IT & Procurement (main, cont. 1/2, cont. 2/2) |
+| 52–53 | The Procurement Timeline (Phases 1–4, Phases 5–8) |
+| 54–56 | Privacy & Governance Basics (main, cont. 1/2, cont. 2/2) |
+| 57–58 | Activity: Data Infrastructure One-Pager (main, cont.) |
+| 59–60 | Activity: RFP Scoring Matrix (main, cont.) |
+| 61 | Debrief |
+| 62–63 | Your Infrastructure Toolkit (1/2, 2/2) |
+| 64–65 | Transition to Block F (1/2, 2/2) |
+
+---
+
 ## Timing — Minute by Minute
 
 | Time | Min | Slide(s) | Activity |
 |------|-----|----------|----------|
-| 13:30 | 0-2 | Title | Welcome back, agenda, learning outcomes. Brief energy check. |
-| 13:32 | 2-10 | XFN Universe + What Each Team Needs + What You Need | Lecture: cross-functional interfaces. Connect to Block A stakeholder maps. |
-| 13:40 | 10-20 | Data Infra Blueprint | **Anchor slide.** Walk through each layer of the canonical flow. Take questions. This is the conceptual foundation for everything that follows. |
-| 13:50 | 20-30 | Small / Medium / Large Stack | Three slides in sequence. Emphasize that these are progressions, not choices. Ask students to identify where their case context sits. |
-| 14:00 | 30-38 | Build vs. Buy | Lecture + discussion. Ask for real-world examples from students' experience. The opportunity cost point resonates most — emphasize it. |
-| 14:08 | 38-44 | RFP Process | Lecture. Brief — the real learning happens in the activity. |
-| 14:14 | 44-50 | Working with IT + Privacy & Governance | Two slides, move briskly. These are awareness-level, not deep dives. |
-| 14:20 | 50-75 | Activity: Data Infra One-Pager | **25 minutes.** Circulate actively. Common questions will be about pricing and tool selection — redirect to the framework, not specific recommendations. |
-| 14:45 | 75-95 | Activity: RFP Scoring Matrix | **20 minutes.** Students pick one tool category and evaluate three vendors. Encourage use of real pricing from vendor websites. |
-| 15:05 | 95-100 | Debrief + Transition | **5 minutes.** Pull 2-3 observations from the room. Transition to Block F with clear instructions for the 10-minute prep period. |
+| 13:30 | 0-2 | 2 (Title) | Welcome back, agenda, learning outcomes. Brief energy check. |
+| 13:32 | 2-6 | 3–4 | Lecture: Why infrastructure matters. Set the management framing. |
+| 13:36 | 6-10 | 5–8 | Cross-functional reality + what we'll build. Connect to Block A stakeholder maps. |
+| 13:40 | 10-16 | 9–13 | XFN Universe + Failure Modes. Discussion-friendly — ask for real stories. |
+| 13:46 | 16-22 | 14–22 | What teams need, what you need, SLA templates and examples. Move briskly through these. |
+| 13:52 | 22-30 | 23–27 | **Anchor slides.** Data Infrastructure Blueprint + Reading an Architecture Diagram. Walk through each layer of the canonical flow. Take questions. This is the conceptual foundation for everything that follows. |
+| 14:00 | 30-40 | 28–39 | Small / Medium / Large Stack + Migration Trap. Emphasize these are progressions, not choices. Ask students to identify where their case context sits. |
+| 14:10 | 40-48 | 40–44 | Build vs. Buy + Hidden Costs of "Free". Lecture + discussion. Ask for real-world examples. The opportunity cost point resonates most — emphasize it. |
+| 14:18 | 48-54 | 45–48 | RFP Process + Scoring Dimensions. Brief — the real learning happens in the activity. |
+| 14:24 | 54-60 | 49–56 | Working with IT & Procurement + Privacy & Governance. Move briskly. These are awareness-level, not deep dives. |
+| 14:30 | 60-85 | 57–58 | **Activity: Data Infra One-Pager (25 minutes).** Circulate actively. Common questions will be about pricing and tool selection — redirect to the framework, not specific recommendations. |
+| 14:55 | 85-105 | 59–60 | **Activity: RFP Scoring Matrix (20 minutes).** Students pick one tool category and evaluate three vendors. Encourage use of real pricing from vendor websites. |
+| 15:15 | 105-110 | 61–65 | **Debrief + Toolkit recap + Transition to Block F (5 minutes).** Pull 2-3 observations from the room. Transition with clear instructions for the 10-minute prep period. |
 
-**Total: 100 minutes**
+**Total: ~100 minutes** (with slight buffer for discussion overflow)
 
 ---
 
@@ -37,7 +76,7 @@
 
 Students will have varying levels of technical depth. Some will know what dbt is; others will not. Calibrate accordingly:
 
-- **The blueprint slide is your anchor.** Whenever the conversation drifts into tool-specific details ("but what about the difference between Snowflake's micro-partitioning and BigQuery's slot-based pricing?"), bring it back to the blueprint. "That's a great detail — but zoom out. Where does that fit in the flow? What decision does it inform?"
+- **The blueprint slides (23–24) are your anchor.** Whenever the conversation drifts into tool-specific details ("but what about the difference between Snowflake's micro-partitioning and BigQuery's slot-based pricing?"), bring it back to the blueprint. "That's a great detail — but zoom out. Where does that fit in the flow? What decision does it inform?"
 - **Don't go deep on any one tool.** This is a management course, not a data engineering course. Students need to know what categories exist, what questions to ask, and how to evaluate options. They don't need to configure anything.
 - **Use the case contexts as leveling.** Small-context students should be thinking simple. If they're proposing Kubernetes and Kafka, gently redirect. Large-context students should be thinking about governance, procurement, and politics, not just tools.
 - **Approximate pricing is fine.** Students will stress about getting exact numbers. Reassure them: order of magnitude is what matters. "$500/month" vs. "$50,000/month" is the decision that matters, not "$12,350 vs. $12,800."
@@ -80,7 +119,7 @@ This block starts after lunch. Energy will be low. Strategies:
 1. **Start with movement.** Before the first slide, have students stand up and do a 30-second stretch. It sounds silly. It works.
 2. **Open with connection to morning.** "This morning you built growth plans. Now we're building the infrastructure those growth plans depend on." Link back to Block D to create continuity.
 3. **The XFN slides are discussion-friendly.** Ask students to share their own cross-functional horror stories. "Who has been burned by a surprise schema change?" or "Who has waited months for IT to approve a tool?" These stories wake people up.
-4. **Activities are the energy reset.** The two hands-on activities (minutes 50-95) are the core of this block. If lectures are running long, compress them to protect activity time. Students learn more by doing the scoring matrix than by hearing about it.
+4. **Activities are the energy reset.** The two hands-on activities (minutes 60-105) are the core of this block. If lectures are running long, compress them to protect activity time. Students learn more by doing the scoring matrix than by hearing about it.
 5. **Circulate during activities.** Don't sit down. Walk around, look over shoulders, ask questions. "What's your biggest gap in the current state?" "Which vendor is winning your scoring matrix so far?" This keeps energy up.
 
 ---
@@ -112,7 +151,7 @@ Use the scoring matrix and involve your team. Your data engineer or analytics en
 
 ## Transition to Block F
 
-At the 95-minute mark, shift to transition mode:
+At the 105-minute mark, shift to transition mode:
 
 1. **Debrief the activities** (3-4 minutes). Pull observations, don't lecture. Ask: "What surprised you?" and "What would IT push back on?"
 2. **Introduce Block F clearly:** "The final block is the QBR Simulation. You'll present your roadmap and narrative to a mock executive panel. Five minutes to present, five minutes of Q&A, five minutes of peer feedback."

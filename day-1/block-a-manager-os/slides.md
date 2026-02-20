@@ -258,6 +258,33 @@ Think of it like software: cadences are the scheduler, rituals are the processes
 
 ---
 
+## AI-Augmented Manager OS (1/2)
+
+LLMs add a **force multiplier** to every OS layer:
+
+| OS Layer | AI Augmentation |
+|---|---|
+| **Cadences** | Auto-generate 1:1 agendas from your manager log and team updates |
+| **Artifacts** | LLM-draft decision memos — you edit for judgment, not from scratch |
+| **Decision hygiene** | Red-team your own thinking: "What am I missing?" |
+| **Stakeholder comms** | Translate technical wins into exec-ready language in seconds |
+
+<!-- Talk track: I want to add a layer to the OS model. LLMs are becoming a force multiplier for every layer we just discussed. You can use an LLM to draft your 1:1 agendas from your manager log, draft decision memos in 5 minutes instead of 45, stress-test your own reasoning before sharing it, and translate technical work into business language for stakeholders. This isn't about replacing your judgment — it's about freeing up your time so you can focus on the judgment calls that actually require a human. -->
+
+---
+
+## AI-Augmented Manager OS (2/2)
+
+**The key principle:** AI handles the drafting. You own the judgment.
+
+- **Example:** Feed an LLM your last 3 weekly updates → get a draft exec summary in 30 seconds → spend 5 minutes editing for nuance and accuracy
+- **Example:** Before a difficult stakeholder meeting, role-play the conversation with an LLM to anticipate objections
+- **Hidden stakeholder:** Whoever controls your LLM/API budget is on your stakeholder map
+
+<!-- Talk track: Let me give you two concrete examples. First, take your last three weekly team updates, paste them into an LLM, and ask for a draft executive summary. You'll get a solid first draft in 30 seconds. Then you spend 5 minutes editing for nuance, accuracy, and judgment. That's 5 minutes instead of 30, and the quality is just as high because you're the editor. Second, before a difficult stakeholder meeting, role-play the conversation with the LLM. Ask it to play the skeptical CFO. Practice your responses. You'll walk in more prepared than you've ever been. And here's a new hidden stakeholder for your map: whoever controls your team's LLM and API budget. As AI-assisted workflows grow, compute costs can balloon. Map that person now. -->
+
+---
+
 ## What Happens Without a Manager OS? (1/2)
 
 Without an OS, you get **chaos that feels like busyness**:
@@ -545,9 +572,9 @@ This classification matters because it tells everyone "we don't need to agonize 
 ## Stakeholder Map: Hidden Stakeholders by Context
 
 **Examples of hidden stakeholders by case context:**
-- **DataPulse:** The CTO who controls your cloud budget. The sole backend engineer who maintains the API you need data from.
-- **MarketBridge:** The data engineering team that owns your pipeline. The compliance officer who approves new data collection.
-- **FinGuard:** Model risk management. Internal audit. The vendor management team that approves new tool purchases.
+- **DataPulse:** The CTO who controls your cloud budget. The sole backend engineer who maintains the API you need data from. The LLM/API budget controller (often the CTO themselves at this stage).
+- **MarketBridge:** The data engineering team that owns your pipeline. The compliance officer who approves new data collection. The platform team managing LLM API costs.
+- **FinGuard:** Model risk management. Internal audit. The vendor management team that approves new tool purchases. The AI governance committee.
 
 I once had a project blocked for six weeks because I didn't know I needed approval from the data privacy team before joining two datasets. If I had mapped them early, I could have gotten that approval in days.
 

@@ -8,11 +8,11 @@ Total portfolio weight: 100%
 
 ---
 
-## Participation & Preparedness (20%)
+## Participation & Preparedness (15%)
 
-Active, constructive engagement across both days of the intensive is essential. This is not merely attendance — it reflects the quality and consistency of your contributions.
+Active, constructive engagement across both days of the intensive is essential. This is not merely attendance — it reflects the quality and consistency of your contributions. Participation now includes observable moments in SBI role-plays, mock calibration, and portfolio peer review.
 
-| Criterion | Excellent (18–20%) | Good (14–17%) | Needs Work (0–13%) |
+| Criterion | Excellent (14–15%) | Good (10–13%) | Needs Work (0–9%) |
 |---|---|---|---|
 | **Active engagement in discussions** | Consistently contributes substantive points that advance the conversation; draws on case materials and course concepts; engages across multiple sessions. | Participates regularly with relevant comments but occasionally surface-level or reactive rather than proactive. | Rarely speaks, or contributions are off-topic, repetitive, or do not reflect engagement with the material. |
 | **Quality of contributions to role-plays** | Fully inhabits the assigned role; demonstrates preparation and creativity; adapts to unexpected dynamics in real time. | Completes the role-play adequately; stays in character but may miss opportunities to deepen the exercise. | Unprepared for the role-play; breaks character frequently; does not take the exercise seriously or contribute meaningfully. |
@@ -60,11 +60,11 @@ The Hiring Packet demonstrates your ability to design a rigorous, fair, and effe
 
 ---
 
-## Roadmap + Executive Narrative (25%)
+## Roadmap + Executive Narrative (20%)
 
-This is the highest-weighted component. It assesses your ability to translate technical possibilities into strategic priorities and communicate them to senior stakeholders.
+This component assesses your ability to translate technical possibilities into strategic priorities and communicate them to senior stakeholders.
 
-| Criterion | Excellent (22–25%) | Good (17–21%) | Needs Work (0–16%) |
+| Criterion | Excellent (18–20%) | Good (14–17%) | Needs Work (0–13%) |
 |---|---|---|---|
 | **Strategic alignment to business outcomes** | Every roadmap item is explicitly tied to a business outcome or organizational goal; prioritization reflects strategic value, not just technical interest. | Most items connect to business outcomes but some feel technically motivated without clear business justification. | Roadmap reads as a technical wish list; no clear connection between items and the organization's strategic priorities. |
 | **RICE rigor** | RICE scores are well-calibrated with clear justification for each dimension; scores differentiate meaningfully between items; assumptions are stated. | RICE scores are present and reasonable but may lack justification or show inconsistencies in how dimensions are estimated. | RICE scores are missing, perfunctory, or clearly not used to inform actual prioritization decisions. |
@@ -87,15 +87,16 @@ The Manager Operating System documents the cadences, rituals, and artifacts you 
 
 ---
 
-## PGP + Performance Summary (5%)
+## PGP + Performance Summary (15%)
 
-The Personal Growth Plan and Performance Summary demonstrate your ability to develop yourself and assess team member performance.
+The Personal Growth Plan and Performance Summary demonstrate your ability to develop yourself and assess team member performance. This weight reflects the depth of in-class practice — SBI feedback role-play, mock calibration, and PGP drafting — that feeds these artifacts.
 
-| Criterion | Excellent (5%) | Good (3–4%) | Needs Work (0–2%) |
+| Criterion | Excellent (13–15%) | Good (10–12%) | Needs Work (0–9%) |
 |---|---|---|---|
 | **Specificity of growth areas** | Growth areas are concrete and relevant to the manager role; connected to self-awareness about real gaps; not generic platitudes. | Growth areas are reasonable but may be vague or not clearly connected to the specific challenges of the case context role. | Growth areas are generic ("improve communication"), absent, or not reflective of genuine self-assessment. |
 | **Actionability of development plan** | Each growth area has specific, time-bound actions with measurable milestones; resources and support structures are identified. | Actions are identified but may lack specificity, timelines, or measurable indicators of progress. | No actionable plan; development section reads as aspirational statements rather than a concrete plan. |
-| **Calibration summary quality** | Performance summary demonstrates ability to differentiate performance levels fairly; uses specific evidence and behavioral examples; avoids recency bias and halo effects. | Summary is reasonable but may lack specificity or rely on impressions rather than documented evidence. | Summary is superficial, biased, or does not demonstrate ability to assess performance systematically. |
+| **Calibration summary quality** | Performance summary demonstrates ability to differentiate performance levels fairly; uses specific evidence and behavioral examples; avoids recency bias and halo effects. References level expectations explicitly. | Summary is reasonable but may lack specificity or rely on impressions rather than documented evidence. | Summary is superficial, biased, or does not demonstrate ability to assess performance systematically. |
+| **Evidence of SBI application** | Feedback examples within the PGP or summary use the SBI structure (Situation, Behavior, Impact); development actions reference observable behaviors rather than vague traits. | Some evidence of structured feedback thinking, but may fall back on judgments rather than behavioral observations. | No evidence of applying the SBI model; feedback examples are vague, judgmental, or missing. |
 
 ---
 
@@ -116,12 +117,12 @@ The quality of feedback you provide to your peers is itself assessed. This incen
 
 | Component | Weight |
 |---|---|
-| Participation & Preparedness | 20% |
+| Participation & Preparedness | 15% |
 | Day 1 Checkpoint | 10% |
 | Hiring Packet | 20% |
-| Roadmap + Executive Narrative | 25% |
+| Roadmap + Executive Narrative | 20% |
 | Manager OS | 15% |
-| PGP + Performance Summary | 5% |
+| PGP + Performance Summary | 15% |
 | Peer Feedback Quality | 5% |
 | **Total** | **100%** |
 

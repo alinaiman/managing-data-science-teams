@@ -45,6 +45,7 @@ def heading(title: str) -> None:
 # ====================================================================
 REQUIRED_FILES = [
     "marp-theme.css",
+    # Day 1
     "day-1/block-a-manager-os/slides.md",
     "day-1/block-a-manager-os/facilitator-notes.md",
     "day-1/block-a-manager-os/templates/team-charter.md",
@@ -62,18 +63,20 @@ REQUIRED_FILES = [
     "day-1/block-c-roadmaps/templates/roadmap-rice.md",
     "day-1/block-c-roadmaps/templates/exec-narrative.md",
     "day-1/block-c-roadmaps/templates/risk-register.md",
+    # Day 2
     "day-2/block-d-growth/slides.md",
     "day-2/block-d-growth/facilitator-notes.md",
     "day-2/block-d-growth/templates/pgp.md",
     "day-2/block-d-growth/templates/performance-summary.md",
-    "day-2/block-e-infra-vendor/slides.md",
-    "day-2/block-e-infra-vendor/facilitator-notes.md",
-    "day-2/block-e-infra-vendor/templates/data-infra-blueprint.md",
-    "day-2/block-e-infra-vendor/templates/rfp-scoring-matrix.md",
+    "day-2/block-d-growth/materials/sbi-scenario-cards.md",
+    "day-2/block-d-growth/materials/calibration-profiles.md",
+    "day-2/block-e-portfolio-workshop/slides.md",
+    "day-2/block-e-portfolio-workshop/facilitator-notes.md",
     "day-2/block-f-qbr-simulation/slides.md",
     "day-2/block-f-qbr-simulation/facilitator-notes.md",
     "day-2/block-f-qbr-simulation/templates/qbr-outline.md",
     "day-2/block-f-qbr-simulation/templates/portfolio-checklist.md",
+    # Supporting files
     "case-contexts/small-seed-stage.md",
     "case-contexts/medium-series-b.md",
     "case-contexts/large-enterprise.md",
@@ -81,6 +84,9 @@ REQUIRED_FILES = [
     "assessment/peer-feedback-form.md",
     "assessment/portfolio-checklist.md",
     "resources/manager-os-reference.md",
+    "resources/data-infrastructure-guide.md",
+    "resources/data-infra-blueprint-template.md",
+    "resources/rfp-scoring-matrix-template.md",
 ]
 
 heading("1. File Structure Completeness")
@@ -195,9 +201,9 @@ LO_CHECKS = [
     ("LO3 Roadmap", "day-1/block-c-roadmaps/slides.md", ["RICE", "roadmap", "narrative"]),
     ("LO4 PGP", "day-2/block-d-growth/slides.md", ["growth plan", "PGP", "performance"]),
     (
-        "LO5 Data infrastructure",
-        "day-2/block-e-infra-vendor/slides.md",
-        ["infrastructure", "build-vs-buy", "vendor"],
+        "LO5 Feedback & calibration",
+        "day-2/block-d-growth/slides.md",
+        ["SBI", "feedback", "calibration"],
     ),
     (
         "LO6 Align leadership",

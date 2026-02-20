@@ -20,31 +20,33 @@ Late submissions will be penalized unless prior arrangements have been made with
 
 ---
 
-## Required Artifacts Checklist
+## Required Artifacts (6)
 
-Use this table to track your progress. Check off each artifact as you complete it and add any notes about status or outstanding items.
+These six artifacts are required and graded. Check off each as you complete it.
 
-| # | Artifact | Source Block | Status | Notes |
+| # | Artifact | Source Block | Weight | Status | Notes |
+|---|---|---|---|---|---|
+| 1 | Manager OS Document (2–4 pp; absorbs charter + stakeholder map) | Block A | 15% | [ ] Complete | |
+| 2 | Hiring Packet (JD + work sample + rubric + interview loop) | Block B | 20% | [ ] Complete | |
+| 3 | Roadmap + Executive Narrative (includes risk register as section) | Block C | 20% | [ ] Complete | |
+| 4 | Personal Growth Plan | Block D | 7.5% | [ ] Complete | |
+| 5 | Performance Summary (calibration-ready) | Block D | 7.5% | [ ] Complete | |
+| 6 | QBR Outline | Block F | Included in Roadmap weight | [ ] Complete | |
+
+**Total required artifacts: 6**
+
+---
+
+## Optional Artifacts (4)
+
+These artifacts demonstrate additional depth in your portfolio. They are not graded separately but may strengthen your overall submission.
+
+| # | Artifact | Source | Status | Notes |
 |---|---|---|---|---|
-| 1 | Team Charter | Block A | [ ] Complete | |
-| 2 | Stakeholder Map | Block A | [ ] Complete | |
-| 3 | RACI Matrix | Block A | [ ] Complete | |
-| 4 | Decision Memo | Block A | [ ] Complete | |
-| 5 | Manager OS Document (2–4 pages) | Blocks A+F | [ ] Complete | |
-| 6 | Job Description | Block B | [ ] Complete | |
-| 7 | Work Sample Exercise | Block B | [ ] Complete | |
-| 8 | Scoring Rubric | Block B | [ ] Complete | |
-| 9 | Interview Loop Design | Block B | [ ] Complete | |
-| 10 | Roadmap with RICE Scores | Block C | [ ] Complete | |
-| 11 | Executive Narrative (2 pages) | Block C | [ ] Complete | |
-| 12 | Risk Register | Block C | [ ] Complete | |
-| 13 | Personal Growth Plan | Block D | [ ] Complete | |
-| 14 | Performance Summary | Block D | [ ] Complete | |
-| 15 | Data Infrastructure Blueprint | Block E | [ ] Complete | |
-| 16 | RFP Scoring Matrix | Block E | [ ] Complete | |
-| 17 | QBR Outline | Block F | [ ] Complete | |
-
-**Total artifacts: 17**
+| 7 | Data Infrastructure Blueprint | `resources/data-infra-blueprint-template.md` | [ ] Complete | |
+| 8 | RFP Scoring Matrix | `resources/rfp-scoring-matrix-template.md` | [ ] Complete | |
+| 9 | Decision Memo | Block A template | [ ] Complete | |
+| 10 | RACI Matrix | Block A template | [ ] Complete | |
 
 ---
 
@@ -61,9 +63,9 @@ Before submitting, verify that your portfolio meets the following formatting sta
 
 ## Self-Check Questions
 
-Before submitting each artifact, ask yourself the following questions. If you cannot answer "yes" to all three for every artifact, revisit that section.
+Before submitting each artifact, ask yourself the following questions. If you cannot answer "yes" to all three for every required artifact, revisit that section.
 
-**For each of the 17 artifacts:**
+**For each of the 6 required artifacts:**
 
 1. **Is it complete?**
    Does the artifact address all required elements? Are there any blank sections, placeholder text, or "TODO" notes remaining?
@@ -82,12 +84,12 @@ Your portfolio will be evaluated according to the following weight distribution.
 
 | Component | Weight | Key Evaluation Focus |
 |---|---|---|
-| Participation & Preparedness | 20% | Engagement, role-play quality, red-team critiques, case preparation, peer collaboration |
+| Participation & Preparedness | 15% | Engagement, role-play quality (SBI, calibration), peer review, red-team critiques, case preparation |
 | Day 1 Checkpoint | 10% | Pass/fail: Team Charter complete, 6+ stakeholders mapped, 5+ roadmap items with RICE scores |
-| Hiring Packet | 20% | Role clarity, work sample design, rubric specificity, interview loop logic, candidate experience |
-| Roadmap + Executive Narrative | 25% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism |
+| Hiring Packet | 20% | Role clarity, work sample design, rubric specificity, interview loop logic |
+| Roadmap + Executive Narrative | 20% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism |
 | Manager OS | 15% | Completeness, practicality, context adaptation, decision hygiene |
-| PGP + Performance Summary | 5% | Growth area specificity, plan actionability, calibration quality |
+| PGP + Performance Summary | 15% | Growth area specificity, plan actionability, calibration quality, SBI application |
 | Peer Feedback Quality | 5% | Specificity, actionability, balance, timeliness |
 | **Total** | **100%** | |
 

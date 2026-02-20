@@ -30,14 +30,14 @@ Over Day 1 and Day 2, you have:
 - **Hired a team** — with structure, fairness, and signal
 - **Planned a roadmap** — with RICE scoring and executive alignment
 
-<!-- Talk track: Take a breath and look at how far you've come. Over two days, you've built the full stack of analytics management. You have a team charter, a hiring packet, a roadmap, growth plans, an infrastructure blueprint. That's an enormous amount of work. -->
+<!-- Talk track: Take a breath and look at how far you've come. Over two days, you've built the full stack of analytics management. You have a team charter, a hiring packet, a roadmap, growth plans, and you've refined your portfolio through peer review. That's an enormous amount of work. -->
 
 ---
 
 ## The Final Block (2/2)
 
-- **Grown your people** — through PGPs and performance conversations
-- **Designed infrastructure** — pragmatically, with vendor evaluation rigor
+- **Grown your people** — through PGPs, SBI feedback practice, and calibration
+- **Refined your portfolio** — through structured peer review and revision
 
 Now you **present it all to leadership**. This skill separates analytics managers who **get funded** from those who **get cut**.
 
@@ -485,25 +485,29 @@ How the 90-day plan varies by org size:
 
 ## Exec Panel Role Cards (1/2)
 
-Play one of these roles during Q&A. Stay in character.
+Play one of these roles during Q&A. Stay in character. **You MUST interrupt the presenter at least once during their 5 minutes.**
 
 **CEO:** "Show me the business impact. Why should I invest in this team over other priorities?"
+- Interrupt with: "Hold on — are we on track or not?" or "Skip ahead — what's the one thing I need to know?"
 
 **CTO:** "How does this integrate with our engineering roadmap? What are the technical risks?"
+- Interrupt with: "Wait — what happens if the data pipeline migration slips?" or "How does this connect to what engineering is building?"
 
-<!-- Talk track: Here are your role cards. When you're playing an executive, pick one of these four roles and commit to it. The CEO cares about strategic impact and resource allocation. The CTO cares about technical integration and risk. -->
+<!-- Talk track: Here are your role cards. When you're playing an executive, pick one of these four roles and commit to it. The CEO cares about strategic impact and resource allocation. The CTO cares about technical integration and risk. And here is the key instruction: you must interrupt the presenter at least once. Do not wait politely for them to finish. In real QBRs, executives interrupt constantly. They don't wait for slide 12 to ask the question they had on slide 3. Your job as a panelist is to simulate that reality. Presenters, your job is to handle it gracefully — answer briefly, then get back to your narrative. -->
 
 ---
 
 ## Exec Panel Role Cards (2/2)
 
 **CFO:** "What's the ROI? Can we do this with fewer people? What if I cut your budget 20%?"
+- Interrupt with: "Can you put a dollar figure on that?" or "What's the cost if we don't do this?"
 
 **VP Product:** "How will this help my team ship faster? What's your SLA?"
+- Interrupt with: "My team filed 15 requests last month — when does that get better?"
 
-**Tip:** Ask one hard question, then one follow-up. Don't pile on — give the presenter space to respond.
+**Rules:** Interrupt at least once during the presentation. Ask one hard follow-up during Q&A. Don't pile on — give the presenter space to respond.
 
-<!-- Talk track: The CFO cares about money — ROI, efficiency, headcount. The VP Product cares about speed and service to their teams. Each role has a signature question. Ask it. Then ask one follow-up based on what you hear. The goal is not to stump the presenter — it's to simulate what a real QBR feels like. In real life, these executives are usually supportive but they need to make decisions with limited information, so they'll push you to be crisp. -->
+<!-- Talk track: The CFO cares about money — ROI, efficiency, headcount. The VP Product cares about speed and service to their teams. Each role has a signature question and an interrupt prompt. Use them. The goal is not to stump the presenter — it's to simulate what a real QBR feels like. In real life, executives interrupt because they're time-constrained and they want to cut to what matters. Learning to handle that gracefully — answer the question, then smoothly return to your narrative — is one of the most important skills you can develop. -->
 
 ---
 

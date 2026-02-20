@@ -39,9 +39,9 @@
 | 15:50–15:53 | 3 min | Incident Postmortems + Communicating Failure + Adapting Manager OS | 22–30 |
 | 15:53–15:58 | 5 min | First 90 Days + QBR Simulation Brief + Evaluation Criteria + Role Cards | 31–40 |
 | 15:58–16:00 | 2 min | Form groups, assign first presenter, distribute role cards | — |
-| 16:00–16:45 | 45 min | **QBR Simulation** (4–5 rounds of presentations) | 41 |
-| 16:45–16:55 | 10 min | Simulation Debrief (whole room) | 42 |
-| 16:55–16:58 | 3 min | Portfolio Checklist walkthrough | 43–48 |
+| 16:00–16:50 | 50 min | **QBR Simulation** (5–6 rounds of presentations) | 41 |
+| 16:50–17:02 | 12 min | Simulation Debrief (whole room) | 42 |
+| 17:02–17:04 | 2 min | Portfolio Checklist walkthrough | 43–48 |
 | 16:58–17:02 | 4 min | Next 90 Days (individual writing) | 49–50 |
 | 17:02–17:04 | 2 min | Peer Feedback Reminder | 51–52 |
 | 17:04–17:10 | 6 min | Close — celebration, final words, thanks | 53–56 |
@@ -77,11 +77,12 @@
 
 ## QBR Simulation Logistics
 
-### Forming Groups
+### Forming Groups — Pre-Assign on LMS
+- **Post group assignments on the LMS the night before Day 2**, alongside the QBR simulation brief. This saves 2–3 minutes of in-class time and lets you deliberately mix case contexts.
 - **Ideal group size: 4 students.** This allows each person to present once and play 3 different exec roles.
 - **If 3 per group:** Each person presents once and plays 2 exec roles. Faster rotation.
-- **Mix case contexts within groups if possible.** A student presenting a startup roadmap to a panel that includes someone who chose the enterprise context creates richer Q&A.
-- **Form groups quickly.** Don't agonize. Count off by 4s, or let students self-select. Speed matters here — every minute spent forming groups is a minute lost from the simulation.
+- **Mix case contexts within groups.** A student presenting a startup roadmap to a panel that includes someone who chose the enterprise context creates richer Q&A. Pre-assignment makes this easy to guarantee.
+- **At 15:58, confirm groups.** "Your groups are posted on the LMS. Find your group. First presenter starts in 2 minutes." Skip the counting-off — go straight to first presenter.
 
 ### Rotation Mechanics
 - Within each group, students decide presentation order. First presenter starts immediately.
@@ -116,6 +117,21 @@
 - Encourage panelists to ask **follow-up questions**, not just the scripted ones. "You said you need 2 more analysts — what happens if I can only give you 1?"
 - If a panelist is too soft, gently push: "As the CFO, wouldn't you want to know the cost per analyst?"
 - If a panelist is too aggressive, intervene: "Good question — let's let them answer before the next one."
+
+### CRITICAL: Executives Must Interrupt
+
+**Explicit instruction to panelists:** Each executive MUST interrupt the presenter at least once during the 5-minute presentation. This is non-negotiable and must be stated clearly before the simulation begins.
+
+**Why this matters:** In real QBRs, executives interrupt constantly. They don't wait for you to finish slide 12 before asking the question they had on slide 3. Students who only practice presenting without interruption develop a false sense of readiness. The ability to handle interruptions gracefully — answering briefly, then returning to your narrative — is a core executive communication skill.
+
+**Specific interrupt prompts for exec role cards** (share these with panelists):
+
+- **CEO:** "Hold on — before you go further, what's the one thing I need to know?" or "Skip ahead — are we on track or not?"
+- **CTO:** "Wait — how does this connect to what engineering is building?" or "What happens if the data pipeline migration slips?"
+- **CFO:** "Can you put a dollar figure on that?" or "What's the cost if we don't do this?"
+- **VP Product:** "How does this help my team ship faster?" or "My team filed 15 requests last month — when does that get better?"
+
+**Facilitation tip:** Before the first round, say: "Executives, you MUST interrupt the presenter at least once. Don't wait for a pause — just jump in. That's what real executives do. Presenters, your job is to handle it gracefully: answer the question briefly, then get back to your narrative. If you can do that, you're ready for the real thing."
 
 ---
 
@@ -245,7 +261,7 @@
 - [ ] Print QBR evaluation criteria (one per student) or prepare to display on screen
 - [ ] Print portfolio checklist or ensure digital access
 - [ ] Prepare a timer (large, visible) — test it before class
-- [ ] Calculate exact groups: how many students, how many groups, how many rounds
+- [ ] Calculate and **post group assignments on LMS** the night before Day 2 (mix case contexts within groups)
 - [ ] Prepare a brief "best moments" list from Days 1 and 2 to reference during the close
 - [ ] Review portfolio submission logistics (LMS, format, deadline)
 - [ ] Draft the post-class follow-up email so you can send it quickly after class

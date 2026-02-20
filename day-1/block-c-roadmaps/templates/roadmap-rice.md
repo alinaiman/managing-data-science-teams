@@ -138,7 +138,7 @@ _Replace the placeholders above with your actual metrics tree._
 
 ## Evaluation Criteria
 
-This artifact will be assessed as part of the Roadmap + Exec Narrative portfolio component (25% of course grade). For the Day 1 Checkpoint (10%, pass/fail), only completeness is assessed — all sections must have content.
+This artifact will be assessed as part of the Roadmap + Exec Narrative portfolio component (20% of course grade). For the Day 1 Checkpoint (10%, pass/fail), only completeness is assessed — all sections must have content.
 
 **For the final portfolio submission, this roadmap will be evaluated on:**
 

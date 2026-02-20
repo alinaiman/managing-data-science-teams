@@ -48,27 +48,31 @@ Prepare four fictional candidate profiles for the role-play exercise:
 
 ---
 
-## Timing Breakdown (100 Minutes)
+## Timing Breakdown (100 Minutes) — REVISED
+
+**Key changes from original:** In-class activity scoped down to JD + Rubric only (25 min); work sample + interview loop = homework. Role-play extended from 10→20 min. Skip calibration/norming detail slides (39–44) and detailed candidate experience slides (53–59).
 
 | Time | Duration | Activity | Notes |
 |:---|:---|:---|:---|
-| 13:30–13:35 | 5 min | **Opening: The Cost of a Bad Hire** | Post-lunch energy reset. Start provocative. Slides 1–11 (title, compounding, cost of bad hire). Ask: "Has anyone worked somewhere that made a bad hire? What happened?" |
+| 13:30–13:35 | 5 min | **Opening: The Cost of a Bad Hire** | Post-lunch energy reset. Start provocative. Slides 1–11. Ask: "Has anyone worked somewhere that made a bad hire? What happened?" |
 | 13:35–13:45 | 10 min | **Role Design & Leveling** | Slides 12–21 (role design, JD anti-patterns, leveling). Move briskly. The role scorecard is the key concept. |
 | 13:45–13:55 | 10 min | **Structured Interviews & Research** | Slides 22–25 (Schmidt & Hunter data, fairness). The research data is the anchor. Pause for reactions. |
-| 13:55–14:10 | 15 min | **Work Samples, Rubrics, Calibration** | Slides 26–44 (work samples, rubrics, calibration, norming). Spend more time on rubric design — this is where students struggle most. |
-| 14:10–14:15 | 5 min | **Interview Loop & Candidate Experience** | Slides 45–59 (interview loop, debrief, candidate experience, employer brand). Quick but important. |
-| 14:15–14:20 | 5 min | **Activity Brief** | Slides 60–63 (activity divider, brief, tips). Clear instructions, distribute templates. |
-| 14:20–14:55 | 35 min | **Individual Work: Build Hiring Packet** | Circulate, answer questions, check progress at 15 min and 25 min. |
-| 14:55–15:00 | 5 min | **Role-Play Setup** | Slides 64–68 (role-play setup, candidate profile cards). Distribute cards, pair students, explain logistics. |
-| 15:00–15:05 | 5 min | **Role-Play Round 1** | One pair member interviews, the other plays the candidate profile. (Shortened from 10 min if time is tight.) |
-| 15:05–15:07 | 2 min | **Quick Swap** | Switch roles, new candidate profile card. |
-| 15:07–15:12 | 5 min | **Role-Play Round 2** | Reversed roles. |
-| 15:12–15:18 | 6 min | **Debrief & Anti-Patterns** | Slides 69–73 (debrief, anti-patterns, meta anti-pattern). Capture key observations on the board. |
-| 15:18–15:20 | 2 min | **Transition to Block C** | Slides 74–76 (key takeaways, up next). Remind about Thursday deadline. |
+| 13:55–14:05 | 10 min | **Work Samples & Rubrics** | Slides 26–38 (work samples, rubric design). Skip calibration/norming slides 39–44 (covered in Day 2 Block D). Focus on rubric design — this is where students struggle most. |
+| 14:05–14:10 | 5 min | **Interview Loop Overview** | Slides 45–52 (interview loop, debrief). Skip detailed candidate experience slides 53–59 — mention briefly. |
+| 14:10–14:15 | 5 min | **Activity Brief** | Slides 60–63. **REVISED scope:** "In class, focus on your JD and Rubric — 25 minutes. Work sample design and interview loop are part of your final portfolio — start them between now and Day 2." |
+| 14:15–14:40 | 25 min | **Individual Work: JD + Rubric** | Circulate, answer questions. Students build the Job Description and Scoring Rubric only. Check progress at 10 min and 20 min. Push for specificity in rubric criteria. |
+| 14:40–14:45 | 5 min | **Role-Play Setup** | Slides 64–68. Distribute candidate profile cards, pair students, explain logistics. |
+| 14:45–14:55 | 10 min | **Role-Play Round 1** | One pair member interviews using their rubric, the other plays the candidate profile. Full 10 minutes allows proper warm-up and practice. |
+| 14:55–14:57 | 2 min | **Quick Swap** | Switch roles, new candidate profile card. |
+| 14:57–15:07 | 10 min | **Role-Play Round 2** | Reversed roles. |
+| 15:07–15:15 | 8 min | **Debrief** | Slides 69–73. Capture key observations. Focus question: "Did your rubric capture what you were actually evaluating?" |
+| 15:15–15:20 | 5 min | **Transition to Block C** | Slides 74–76. Key takeaways. Remind: work sample + interview loop are portfolio deliverables — start them between Day 1 and Day 2. |
 
-**Total: 110 min** (buffer: you will likely need the full 100 min; the role-play rounds can be compressed to 5 min each if needed)
+**Total: 100 minutes**
 
-**Note:** The deck has 76 slides total. Many conceptual topics are split across two slides for readability. You do not need to pause on every slide — advance through split pairs (1/2, 2/2) fluidly as a single topic.
+**Notes on slide cuts:** Skip slides 39–44 (calibration/norming — moved to Day 2 Block D where students practice it experientially). Skip slides 53–59 (detailed candidate experience — mention in one sentence during activity brief). This saves ~12 minutes, reallocated to longer role-play rounds.
+
+**Between-session work:** Students complete work sample design and interview loop design between Day 1 and Day 2. These are part of the final portfolio. The JD and Rubric drafted in class provide the foundation; the work sample and loop extend from those. There is no mid-week deadline — this reduces pressure while preserving accountability through the portfolio submission.
 
 ---
 
@@ -118,6 +122,34 @@ This is the first block after lunch — the "graveyard slot" in teaching. Specif
 3. **Work sample design principles** — Reflects real work, respects candidate time, tests judgment
 4. **4-point rubric scale** — Specific enough to be actionable, forces a real evaluation
 5. **Independent scoring before debrief** — The single most important process design decision
+
+### Facilitator Prompt: Analyst vs. Analytics Engineer (Role Design Section)
+
+Before students start writing their JD, surface this question: **"Does your case context need an analyst, or an analytics engineer to untangle the data mess first?"**
+
+Many MSBA students underestimate the data engineering reality. Use this simple decision framework:
+
+| Signal | You need an **Analyst** | You need an **Analytics Engineer** |
+|---|---|---|
+| Data state | Clean, documented, warehouse exists | Messy, scattered, no single source of truth |
+| First 90-day priority | Deliver insights and dashboards | Build pipelines and a metrics layer |
+| Key skill | SQL + storytelling + business context | SQL + dbt + pipeline orchestration |
+| Stakeholder need | "Tell me what the data says" | "Get me reliable data so I can ask questions" |
+
+**DataPulse students** almost certainly need an analytics engineer first — there's no warehouse, data lives in Mixpanel and Stripe. An analyst can't analyze data that doesn't exist in a queryable form. **MarketBridge students** face conflicting metrics — they may need an analytics engineer to build the canonical metrics layer before analysts can trust the numbers. **FinGuard students** likely have the infrastructure but may need an analytics engineer to handle the cloud migration.
+
+Push students: "If your case context has a data mess, your first hire shouldn't be the person who analyzes data — it should be the person who makes data analyzable."
+
+### Facilitator Prompt: Hiring in the AI Era (Work Sample Section)
+
+When covering work sample design, raise this discussion point:
+
+**"Your candidates will use AI. How does that change what your work sample tests?"**
+
+- If your work sample tests whether someone can write a SQL query, an LLM can do that. Your work sample now tests something different: **Can the candidate frame the right question, evaluate the LLM's output critically, and exercise judgment about what to do with the answer?**
+- Work samples should increasingly test **framing, judgment, and communication** — the skills AI can't replace — rather than raw execution speed.
+- Consider allowing (even encouraging) candidates to use AI tools during the work sample. Then evaluate: Did they use AI as a tool or as a crutch? Did they validate the output? Did they add judgment the AI couldn't?
+- The meta-skill you're hiring for in the AI era is **knowing when the AI is wrong** — and that requires domain knowledge, statistical intuition, and intellectual honesty.
 
 ### Cover If Time Allows
 
@@ -169,7 +201,7 @@ If the work sample takes more than 2 hours, strongly consider it. Paying candida
 
 At the close of Block B:
 
-1. **Remind students of the Thursday deadline:** "Your Hiring Packet draft is due Thursday at 23:59 Vienna time. I will provide written feedback, and you will use the polished version in Day 2 role-plays."
+1. **Remind students about the hiring packet:** "Your JD and rubric are drafted. Between now and Day 2, start on the work sample and interview loop. These are portfolio deliverables — you'll have until the portfolio deadline to polish everything."
 
 2. **Bridge to Block C:** "You have just designed how to find and evaluate the right people. Block C is about what those people will work on — how do you build a roadmap that connects analytics work to business outcomes, and how do you communicate priorities to leadership?"
 

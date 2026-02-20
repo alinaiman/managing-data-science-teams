@@ -219,11 +219,13 @@ If the answer is no, rewrite it.
 | Factor | Question | Scale |
 |--------|----------|-------|
 | **C**onfidence | How sure are we about R, I, and E? | 100% / 80% / 50% |
-| **E**ffort | How many person-months? | Person-months |
+| **E**ffort | How many person-months + compute costs? | Person-months (adjusted) |
 
 $$\text{RICE Score} = \frac{R \times I \times C}{E}$$
 
-<!-- Talk track: Confidence is your honest assessment of how sure you are about the other estimates. And Effort is person-months of work. You divide the top by the bottom and get a score. The formula is simple, but the real value is in the conversation it forces. When you sit down to score Reach for an initiative and you realize you have no idea how many people it affects, that tells you something important — you need to do more discovery before you commit. -->
+**Note:** Effort is not just human time. GPU-intensive model training, LLM API costs, and cloud compute can dwarf labor costs at scale.
+
+<!-- Talk track: Confidence is your honest assessment of how sure you are about the other estimates. And Effort is person-months of work. You divide the top by the bottom and get a score. The formula is simple, but the real value is in the conversation it forces. When you sit down to score Reach for an initiative and you realize you have no idea how many people it affects, that tells you something important — you need to do more discovery before you commit. One important nuance on Effort: it is not just human time anymore. If your churn model retraining costs fifteen thousand dollars a month in GPU compute, that is part of the Effort score. A GPU-intensive initiative may score very differently than a dashboard build even if both require the same person-months. Factor in compute costs, especially for ML-heavy or LLM-powered initiatives. -->
 
 ---
 
@@ -766,11 +768,11 @@ Missing sections are okay. Empty templates are not.
 # What's Coming on Day 2 (2/2)
 
 ### Before Day 2:
-- **Refine your hiring packet draft** (due Thursday 23:59)
+- **Continue your hiring packet** — work sample design and interview loop (portfolio deliverables)
 - **Read the QBR simulation brief** (posted on LMS tonight)
 - Review your roadmap — Day 2 Block F uses it
 
-<!-- Talk track: Before Day 2, you have homework. Refine your hiring packet draft and submit it by Thursday at 23:59. I will use those drafts in the Day 2 role-plays. Also read the QBR simulation brief, which I will post on the LMS tonight. And review your roadmap — you will be presenting it. -->
+<!-- Talk track: Before Day 2, you have homework. Continue building out your hiring packet — the work sample and interview loop build on the JD and rubric you drafted today. These are portfolio deliverables, so take your time and do them well. Also read the QBR simulation brief, which I will post on the LMS tonight. And review your roadmap — you will be presenting it. -->
 
 ---
 

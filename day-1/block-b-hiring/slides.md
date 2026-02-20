@@ -115,11 +115,11 @@ footer: "CEU Vienna | Day 1 – Block B"
 - Your rubric dimensions map to what the work sample reveals
 - Your interview loop assigns evaluators to rubric dimensions
 
-### Looking Ahead to Day 2
+### Later This Block
 
 Your hiring packet will be used in a **role-play exercise** where you will conduct a structured interview with a classmate acting as a candidate. You will experience both sides — interviewer and candidate — and stress-test your rubric against a real human being.
 
-<!-- Talk track: These four pieces form a system. The outcomes in your JD determine what your work sample tests. Your rubric dimensions map to what the work sample reveals. Your interview loop assigns evaluators to rubric dimensions. And here is why this matters beyond today: on Day 2, you will use this packet in a role-play. You will actually conduct a structured interview with a classmate playing a candidate from a profile card. So build something you are willing to use for real. -->
+<!-- Talk track: These four pieces form a system. The outcomes in your JD determine what your work sample tests. Your rubric dimensions map to what the work sample reveals. Your interview loop assigns evaluators to rubric dimensions. And here is why this matters: later this block, you will use this packet in a role-play. You will actually conduct a structured interview with a classmate playing a candidate from a profile card. So build something you are willing to use for real. -->
 
 ---
 
@@ -266,6 +266,49 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 3. **Get alignment in writing** — A verbal "sure, hire a senior" turns into "why did you approve that comp?" without documentation
 
 <!-- Talk track: Here is how to handle it. Bring your outcomes list. Say "here is what this person needs to accomplish in their first 90 days — scope their own work, influence product roadmaps, present to the exec team. What level of hire can do this?" Make the trade-offs explicit. If you hire mid-level, you need to budget 30 percent of your own time for mentoring and air cover. Is that what the organization wants? Sometimes the answer is yes — just make sure everyone agrees. And get the alignment in writing because memory is short when the comp review comes around. -->
+
+---
+
+# Your First Hire: Analyst vs. Analytics Engineer
+
+**Before writing your JD, ask:** Does my case context need someone to analyze data, or someone to make data analyzable?
+
+| Signal | Analyst | Analytics Engineer |
+|:---|:---|:---|
+| Data state | Clean, warehouse exists | Messy, no single source of truth |
+| First 90 days | Deliver insights | Build pipelines + metrics layer |
+| Key skill | SQL + storytelling | SQL + dbt + orchestration |
+
+> If the data is a mess, your first hire is the person who cleans it — not the person who analyzes it.
+
+<!-- Talk track: Before you write your job description, I need you to ask yourself an honest question. Does your case context need an analyst — someone who takes clean data and turns it into insights? Or does it need an analytics engineer — someone who takes messy, scattered data and turns it into something an analyst can actually use? MSBA students consistently underestimate the data engineering reality. If you picked DataPulse, your data lives in Mixpanel, Stripe, and spreadsheets. An analyst cannot analyze data that does not exist in a queryable form. You need an analytics engineer first. If you picked MarketBridge, you have conflicting metric definitions. You need someone to build the canonical metrics layer before anyone can trust the numbers. This is the most common hiring mistake in analytics — hiring the analyst before the plumbing is in place. -->
+
+---
+
+# Hiring in the AI Era (1/2)
+
+**Your candidates will use AI. Plan for it.**
+
+- LLMs can write SQL, draft analyses, and generate visualizations
+- If your work sample tests execution speed, you are testing the AI, not the candidate
+- **What to test instead:** Framing, judgment, communication, and knowing when the AI is wrong
+
+<!-- Talk track: I want to address something that changes hiring fundamentally. Your candidates are using AI tools. ChatGPT, Copilot, Claude — they are using them during your work sample exercise. And honestly, they should be. The question is not whether candidates use AI. The question is what you are testing. If your work sample asks a candidate to write a SQL query, an LLM can do that in seconds. So your work sample is no longer testing SQL skill — it is testing whether the candidate knows which LLM to use. That is not what you want. -->
+
+---
+
+# Hiring in the AI Era (2/2)
+
+**Redesign work samples for the AI era:**
+
+- **Allow AI use** — even encourage it. Then evaluate: did they validate the output?
+- **Test framing** — Can they define the right question before touching any tool?
+- **Test judgment** — Can they spot when the AI's answer is subtly wrong?
+- **Test communication** — Can they explain findings to a non-technical stakeholder?
+
+> The meta-skill for the AI era: **knowing when the AI is wrong.**
+
+<!-- Talk track: Here is how to redesign your work samples. Allow AI use — even encourage it. Then evaluate what the candidate did with the AI output. Did they validate it? Did they add judgment the AI could not provide? Did they catch the edge case the model missed? The framing question is now even more diagnostic than before. A candidate who jumps straight into prompting an AI without first defining the problem is doing the same thing as the candidate who jumps into writing code without thinking. Test whether they can frame the question, evaluate the answer critically, and communicate the findings in business terms. The meta-skill you are hiring for now is knowing when the AI is wrong. That requires domain knowledge, statistical intuition, and intellectual honesty — exactly the things you cannot automate. -->
 
 ---
 
@@ -935,11 +978,11 @@ All of these share a common root: **substituting gut feeling for structured eval
 4. **Calibrate before you interview** — 20 min of norming prevents hours of debate
 5. **Candidate experience is employer brand** — 19 rejections for every 1 hire
 
-### Deliverable Reminder
+### Between Now and Day 2
 
-**Hiring Packet DRAFT due Thursday (23:59 Vienna)** for instructor feedback. It will be used in Day 2 role-plays.
+Start your **work sample design** and **interview loop** — these are portfolio deliverables. Your JD and rubric from today are the foundation.
 
-<!-- Talk track: Fourth, calibrate your scorers before you start interviewing. And fifth, candidate experience is employer brand — treat every candidate like they might be your next hire's best friend, because in data science, they probably are. Your hiring packet draft is due Thursday by midnight Vienna time. I will give written feedback, and you will use the polished version in Day 2 role-plays. -->
+<!-- Talk track: Fourth, calibrate your scorers before you start interviewing. And fifth, candidate experience is employer brand — treat every candidate like they might be your next hire's best friend, because in data science, they probably are. Between now and Day 2, start on your work sample design and interview loop. These are portfolio deliverables. Your JD and rubric from today give you the foundation — the work sample and loop build from there. -->
 
 ---
 

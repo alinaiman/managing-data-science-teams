@@ -130,7 +130,7 @@ _Who is present at risk reviews?_
 
 ## Evaluation Criteria
 
-This artifact will be assessed as part of the Roadmap + Exec Narrative portfolio component (25% of course grade). The risk register is NOT required for the Day 1 Checkpoint but IS required for the final portfolio.
+This artifact will be assessed as part of the Roadmap + Exec Narrative portfolio component (20% of course grade). The risk register is NOT required for the Day 1 Checkpoint but IS required for the final portfolio.
 
 **For the final portfolio submission, this risk register will be evaluated on:**
 

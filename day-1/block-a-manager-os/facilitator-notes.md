@@ -68,28 +68,36 @@
 
 ---
 
-## Timing Breakdown (Minute-by-Minute)
+## Timing Breakdown (Minute-by-Minute) — REVISED
+
+**Key changes from original:** Lecture trimmed from 58→40 min. Added 8-min Manager OS skeleton micro-activity. Debrief extended from 3→8 min. Skip VP scenario slides (15–16), "What Happens Without OS" detail (20–21), detailed cadence design (24–26), example decision memo (36–38), and RACI deep-dive (45–47).
 
 | Time | Duration | Activity | Slide(s) |
 |---|---|---|---|
 | 11:00–11:05 | 5 min | Welcome, introductions, learning outcomes | 1–3 (Title, Welcome & Course Overview) |
-| 11:05–11:12 | 7 min | Why This Course Exists, How This Course Works, Choose Context | 4–10 |
-| 11:12–11:20 | 8 min | What Is a Manager? — Grove quote, Manager vs. TL vs. PM | 11–12 |
-| 11:20–11:28 | 8 min | Analytics Manager Is Unique, VP Asks scenario | 13–16 |
-| 11:28–11:33 | 5 min | Team Topologies + Applying to Case Context | 17–18 |
-| 11:33–11:38 | 5 min | Manager OS Concept + What Happens Without an OS | 19–21 |
-| 11:38–11:43 | 5 min | Cadences That Work + Designing Your Cadence | 22–26 |
-| 11:43–11:48 | 5 min | 1:1s That Work + Anti-Patterns + Difficult 1:1s | 27–32 |
-| 11:48–11:53 | 5 min | Decision Logs & Memos + Example Memo | 33–38 |
-| 11:53–11:58 | 5 min | Team Charter + Stakeholder Map + RACI | 39–47 |
-| 11:58–12:00 | 2 min | Activity brief — Team Charter | 48–49 |
-| 12:00–12:25 | 25 min | **Activity: Draft Team Charter** | 48–49 |
-| 12:25–12:27 | 2 min | Activity brief — Stakeholder Map | 50 |
-| 12:27–12:47 | 20 min | **Activity: Map Stakeholders** | 50–52 |
-| 12:47–12:52 | 5 min | Pair Share | 53–54 |
-| 12:52–12:55 | 3 min | Debrief + Recap + Transition to Block B | 55–59 |
+| 11:05–11:10 | 5 min | Why This Course Exists, How This Course Works, Choose Context | 4–10 |
+| 11:10–11:15 | 5 min | What Is a Manager? — Grove quote, Manager vs. TL vs. PM | 11–12 |
+| 11:15–11:18 | 3 min | Analytics Manager Is Unique | 13–14 (skip VP scenario slides 15–16) |
+| 11:18–11:21 | 3 min | Team Topologies + Applying to Case Context | 17–18 |
+| 11:21–11:24 | 3 min | Manager OS Concept (skip "What Happens Without OS" 20–21) | 19 |
+| 11:24–11:27 | 3 min | Cadences That Work (skip detailed cadence design 24–26) | 22–23 |
+| 11:27–11:30 | 3 min | 1:1s That Work + Anti-Patterns (skip difficult 1:1s 30–32) | 27–29 |
+| 11:30–11:33 | 3 min | Decision Logs & Memos (skip example memo 36–38) | 33–35 |
+| 11:33–11:37 | 4 min | Team Charter + Stakeholder Map (mention RACI, skip 45–47) | 39–44 |
+| 11:37–11:40 | 3 min | Activity brief — Team Charter | 48–49 |
+| **11:40–11:48** | **8 min** | **NEW: Manager OS Skeleton Micro-Activity** — Students spend 8 min sketching the 4 layers of their OS (cadences, rituals, artifacts, decision hygiene) for their case context. One sentence per layer. This becomes the seed for the full Manager OS document. |  |
+| 11:48–11:50 | 2 min | Activity brief — Team Charter | 48–49 |
+| 11:50–12:12 | 22 min | **Activity: Draft Team Charter** | 48–49 |
+| 12:12–12:14 | 2 min | Activity brief — Stakeholder Map | 50 |
+| 12:14–12:32 | 18 min | **Activity: Map Stakeholders** | 50–52 |
+| 12:32–12:37 | 5 min | Pair Share | 53–54 |
+| 12:37–12:45 | 8 min | **Debrief** + Recap + Transition to Block B | 55–59 |
 
-**Total: 100 minutes (approximately — adjust lecture pacing to stay on track)**
+**Total: ~100 minutes**
+
+**Notes on slide cuts:** The skipped slides (15–16, 20–21, 24–26, 30–32, 36–38, 45–47) remain in the deck for reference but should be advanced through without presenting. This saves ~18 minutes of lecture time, which is reallocated to the OS skeleton micro-activity (8 min) and extended debrief (5 min extra).
+
+**Manager OS Skeleton Micro-Activity instructions:** "Take 8 minutes. Open a blank document. Write one sentence for each of the four OS layers: (1) Cadences — what recurring meetings will you run and at what frequency? (2) Rituals — what are your team norms for standups, retros, demos? (3) Artifacts — what documents will your team maintain? (4) Decision hygiene — how will decisions be made and recorded? This skeleton becomes the seed for your full Manager OS document in the portfolio."
 
 ---
 
@@ -101,6 +109,17 @@
 3. **Type 1 vs. Type 2 decisions.** This framework from Bezos is the single most useful decision-making heuristic for new managers. Most decisions are Type 2 (reversible). Default to speed on those.
 4. **1:1s are sacred.** The anti-patterns slide usually generates strong reactions. Let students share their own bad 1:1 experiences — this builds rapport and drives the point home.
 5. **Specificity in charters matters.** Push students away from generic statements. "We value quality" means nothing. "Every dashboard has a documented owner and a review date" is actionable.
+
+### Facilitator Sidebar: AI as a Manager OS Layer
+
+Weave this into the Manager OS discussion naturally — it is not a separate section but an enrichment of the four-layer model. LLMs are becoming a fifth layer that augments every other layer:
+
+- **Cadences:** Use an LLM to draft 1:1 agendas from your manager log, prep stakeholder meeting briefs, and generate weekly status rollups from team Slack channels or standup notes. The manager who shows up to a 1:1 with a pre-drafted agenda informed by the last three weeks of notes is dramatically more effective.
+- **Artifacts:** LLM-drafted decision memos are a game-changer. Feed the LLM the context and options; have it draft the memo; then YOU edit for judgment and nuance. The drafting takes 5 minutes instead of 45, and the quality of thinking stays high because you're editing, not starting from scratch.
+- **Decision hygiene:** Use LLMs to stress-test your own reasoning. Before sending a decision memo, ask the LLM: "What am I missing? What would a skeptical CFO ask about this?" This is red-teaming on demand.
+- **Stakeholder comms:** Draft stakeholder updates, translate technical wins into business language, and prep for difficult conversations by role-playing with the LLM first.
+
+**Key framing for students:** The AI doesn't replace the manager's judgment — it amplifies the manager's reach. You still make the decisions. You still own the relationships. But the LLM handles the drafting, the prep, and the first pass so you can focus on the judgment calls that actually require a human.
 
 ### Skip If Short on Time
 - **RACI slides (slides 45–47)** — Can be covered in 60 seconds or skipped entirely; the template is self-explanatory. Students can fill in the RACI template as homework.
@@ -131,10 +150,13 @@
 ### 5. "Is the Team Charter a living document or a one-time thing?"
 **Response:** "Living, absolutely. Review it quarterly at minimum. The charter you write today is a draft — you'll refine it as you learn more throughout the course and especially after the hiring block. Real charters evolve as the team grows, the business changes, and you learn what works. The point is to have an explicit, written agreement rather than implicit assumptions that nobody ever validated."
 
-### 6. "How do I handle a stakeholder who is high power but actively hostile to analytics?"
+### 6. "What about AI/LLM costs — who controls that budget?"
+**Response:** "Great question. The person who controls your LLM API budget is a hidden stakeholder many analytics managers miss. As teams adopt AI-assisted workflows — automated summarization, LLM-based data exploration, copilot tools — compute costs can balloon quickly. Map whoever controls that budget (often IT, Finance, or a platform team) and build the relationship early. They can block your AI initiatives if surprised by the bill."
+
+### 7. "How do I handle a stakeholder who is high power but actively hostile to analytics?"
 **Response:** "That's a 'Keep Satisfied' stakeholder and potentially the most important one on your map. You can't ignore them. Your strategy is usually: find out what they care about, demonstrate value in their terms, and build the relationship before you need something from them. We'll talk more about 'leading up and across' on Day 2, Block F. For now, just map them honestly."
 
-### 7. "Should I use OKRs or KPIs for the success metrics in my charter?"
+### 8. "Should I use OKRs or KPIs for the success metrics in my charter?"
 **Response:** "Either framework works. The key is that your metrics are specific, measurable, and tied to business outcomes — not vanity metrics. 'Increase dashboard usage' is weak. 'Reduce time-to-insight for the Growth PM from 3 days to same-day for standard queries' is strong because it's outcome-oriented. Pick whichever framework your case context would realistically use."
 
 ---

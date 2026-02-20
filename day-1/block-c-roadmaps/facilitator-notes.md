@@ -15,32 +15,35 @@
 
 ---
 
-## Timing Breakdown (Minute-by-Minute)
+## Timing Breakdown (Minute-by-Minute) — REVISED
+
+**Key changes from original:** Teaching compressed from 44→35 min. Exec narrative activity extended from 15→20 min. Debrief extended from 3→8 min. Skip metrics tree "draw live" section (32–33), scripted trade-off conversation (38–40), and individual narrative example sections (point to template instead).
 
 | Time | Minutes | Slide(s) | Activity |
 |------|---------|----------|----------|
 | 15:30 | 0-2 | 2 (Title) | Welcome, block overview, learning outcomes. Frame the energy: "Last block of the day, hard stop at 17:10 for submissions." |
-| 15:32 | 2-8 | 3-13 (Roadmap Problem through Roadmap Alternative) | Concept introduction. Cover why roadmaps are hard, what good ones do, the block roadmap, Gantt chart trap, and roadmap alternative. Ask: "Who has seen a roadmap that was actually a Gantt chart?" Get 2-3 quick responses. |
-| 15:38 | 8-14 | 14-15 (Analytics Roadmap Structure, Horizons Examples) | Walk through Now/Next/Later. Use a whiteboard to show a quick example from one of the case contexts. |
-| 15:44 | 14-20 | 16-23 (Roadmap Items, RICE Prioritization, RICE in Practice) | Explain RICE formula. Do one live example together: pick an initiative from the DataPulse case context and score it as a class. Walk through the sensitivity analysis. |
-| 15:50 | 20-25 | 24-31 (North Star, Guardrails, Input Metrics, Common Mistakes, Test) | Concept slides. Ask: "What would be the North Star for DataPulse? For MarketBridge? For FinGuard?" Quick callouts. |
-| 15:55 | 25-30 | 32-33 (Metrics Tree) | Draw the tree live on the whiteboard. Start from a business outcome and work down. Have students call out each level. |
-| 16:00 | 30-34 | 34-40 (Communicating Trade-offs, Cost of Delay, Partners, Trade-off Conversation) | Quick concept. Read the "instead of / say" table aloud. Ask for one more example from the room. Walk through the scripted trade-off conversation. |
-| 16:04 | 34-38 | 41-47 (Executive Narrative structure and examples) | Walk through the 5-section structure. Emphasize prose over bullet points. Show each example section. |
-| 16:08 | 38-41 | 48-50 (Writing for Executives, BLUF, Rules) | BLUF concept. Read the bad/good example aloud. This should feel punchy and fast. |
-| 16:11 | 41-44 | 51-52 (Risk Registers) | Quick concept. Emphasize "top 3 risks on slide 2 of every exec deck." |
-| 16:14 | 44-45 | 53-54 (Activity Brief: Roadmap) | Hand out or display the template. Answer any questions about the exercise. |
-| 16:15 | 45-75 | **ACTIVITY: 12-Month Roadmap** | 30 minutes. Circulate, help students who are stuck on RICE scoring or North Star selection. Nudge students who are overthinking — done is better than perfect. |
-| 16:45 | 75-76 | 55-56 (Activity Brief: Exec Narrative) | Quick transition. Emphasize: first page only, Context + What's Next. |
-| 16:46 | 76-91 | **ACTIVITY: Executive Narrative Draft** | 15 minutes. Circulate. Watch for students reverting to bullet points — gently redirect to prose. |
-| 17:01 | 91-92 | 57-58 (Red-Team Brief) | Pair students across case contexts. Explain the rules: 5 minutes each direction, find the fatal flaw. |
-| 17:02 | 92-102 | **RED-TEAM: Kill the Project** | 10 minutes. This should be high-energy. Walk around and listen — if pairs are being too polite, prompt them with harder questions. |
-| 17:02 | 92-95 | Red-Team Round 1 | Partner A presents, Partner B attacks. |
-| 17:05 | 95-98 | Red-Team Round 2 | Switch roles. |
-| 17:08 | 98-100 | 59-60 (Debrief + Update) | Quick show of hands: "Who learned something from the red-team?" 2 minutes to update roadmaps. |
+| 15:32 | 2-7 | 3-13 (Roadmap Problem through Roadmap Alternative) | Concept introduction. Cover why roadmaps are hard, what good ones do, Gantt chart trap. Ask: "Who has seen a roadmap that was actually a Gantt chart?" Quick responses. |
+| 15:37 | 7-12 | 14-15 (Analytics Roadmap Structure, Horizons Examples) | Walk through Now/Next/Later. Brief whiteboard example. |
+| 15:42 | 12-18 | 16-23 (Roadmap Items, RICE Prioritization, RICE in Practice) | Explain RICE formula. Do one live example together. Walk through sensitivity analysis. |
+| 15:48 | 18-22 | 24-31 (North Star, Guardrails, Input Metrics, Common Mistakes, Test) | Concept slides. Skip metrics tree live drawing (32–33) — mention the concept, point to template. |
+| 15:52 | 22-25 | 34-37 (Communicating Trade-offs, Cost of Delay, Partners) | Quick concept. Read the "instead of / say" table. Skip scripted conversation (38–40). |
+| 15:55 | 25-30 | 41-47 (Executive Narrative structure and examples) | Walk through 5-section structure. Emphasize prose over bullet points. Skip individual example sections — point to template. |
+| 16:00 | 30-33 | 48-50 (Writing for Executives, BLUF, Rules) | BLUF concept. Read bad/good example aloud. Punchy and fast. |
+| 16:03 | 33-35 | 51-52 (Risk Registers) | Quick concept. Emphasize "top 3 risks on slide 2 of every exec deck." |
+| 16:05 | 35-36 | 53-54 (Activity Brief: Roadmap) | Hand out template. Clear instructions. |
+| 16:06 | 36-66 | **ACTIVITY: 12-Month Roadmap** | 30 minutes. Circulate, help students stuck on RICE scoring or North Star. |
+| 16:36 | 66-67 | 55-56 (Activity Brief: Exec Narrative) | Quick transition. Emphasize: first page, Context + What's Next. BLUF. |
+| 16:37 | 67-87 | **ACTIVITY: Executive Narrative Draft** | **20 minutes** (extended from 15). Circulate. Watch for students reverting to bullet points. |
+| 16:57 | 87-88 | 57-58 (Red-Team Brief) | Pair students across case contexts. Explain: 4 minutes each direction, find the fatal flaw. |
+| 16:58 | 88-96 | **RED-TEAM: Kill the Project** | 8 minutes. High-energy. Walk around, prompt with provocative questions. |
+| 16:58 | 88-92 | Red-Team Round 1 | Partner A presents, Partner B attacks. |
+| 17:02 | 92-96 | Red-Team Round 2 | Switch roles. |
+| 17:06 | 96-100 | 59-60 (Debrief + Update) | **Extended debrief (4 min):** "What did the red-team reveal?" + "What's one thing you'll change in your roadmap?" 2 min to update. |
 | 17:10 | 100 | 61-66 (Checkpoint, What's Coming, Close) | **HARD STOP.** Day 1 Checkpoint, What's Coming, Close. Remind students to upload NOW. |
 
 **Total: 100 minutes. No slack. Manage transitions tightly.**
+
+**Notes on slide cuts:** Skip slides 32–33 (metrics tree live drawing — mention concept, let students explore in template), 38–40 (scripted trade-off conversation — reference the "instead of / say" table instead), and individual narrative example sections within 41–47 (point to template). This saves ~9 minutes, reallocated to extended exec narrative activity (+5 min) and extended debrief (+4 min).
 
 ---
 
@@ -71,6 +74,8 @@
 1. **Roadmaps are communication tools.** If students are building Gantt charts with specific dates, redirect them. The question is "where and why," not "when exactly."
 
 2. **RICE is a conversation starter.** Some students will try to optimize the formula or argue about whether Impact should be 2 or 3. Redirect: the value is in the discussion, not the decimal. If two projects score similarly, the tie-breaker is strategic judgment, not arithmetic.
+
+   **Facilitator note on Effort:** When teaching RICE, emphasize that "Effort" now includes compute costs, not just human time. At scale, a GPU-intensive model retraining initiative may score differently than a dashboard build — even if both require the same person-months — because the cloud compute bill for model training can dwarf the human labor cost. Ask students: "If your churn model retraining costs $15K/month in GPU compute, does that change your RICE score? It should." This is especially relevant for FinGuard students dealing with large-scale ML workloads.
 
 3. **The North Star must connect to what the business cares about.** Common mistake: students pick a technical metric ("model accuracy") instead of a business metric ("decisions made with model support" or "revenue influenced by analytics"). Push them upstream.
 
@@ -152,7 +157,7 @@ This is the last block of the day. Students have been in class since 11:00 with 
 ## Transition to Day 2
 
 Before dismissing:
-- **Remind about the Thursday deadline:** Hiring packet draft due Thursday at 23:59. This is used in Day 2 Block B role-plays.
+- **Remind about the hiring packet:** Students should continue working on their work sample and interview loop between Day 1 and Day 2. These are portfolio deliverables — no mid-week deadline.
 - **QBR simulation brief:** Will be posted on the LMS tonight. Students should read it before Day 2.
 - **Roadmap refinement:** Encourage students to spend 30-60 minutes between now and Day 2 polishing their roadmap. They will present it during the QBR simulation.
 - **Office hours:** Remind students of your availability for questions between Day 1 and Day 2.

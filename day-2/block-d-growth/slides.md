@@ -118,15 +118,17 @@ If you promote people to senior just because they've been around for four years,
 
 ## PGP Structure
 
-**PGP has four parts:**
-1. **Strengths** — what you're known for (with evidence)
-2. **Growth areas** — what's holding you back (specific, not vague)
-3. **Actions** — concrete, time-bound development steps
-4. **Support needed** — from manager, team, and organization
+**PGP core sections:**
+1. **Context** — current role and what you're working with
+2. **Strengths** — what you're known for (with evidence)
+3. **Growth areas** — what's holding you back (specific, not vague)
+4. **Actions** — concrete, time-bound development steps
+5. **Vision** — where you want to be in 6 months
+6. **Check-in cadence** — how and when you revisit this
 
 The individual owns this document. You co-create it.
 
-<!-- Talk track: A PGP has four parts: strengths, growth areas, actions, and support needed. The individual owns this document — you co-create it. Push for specificity: "Improve communication" is not a growth area. "Learn to present technical findings to non-technical stakeholders in under 5 minutes" is. -->
+<!-- Talk track: The PGP template has six sections. Context grounds the plan in your current reality. Strengths and growth areas are the diagnosis. Actions are the treatment plan — concrete, time-bound steps. Vision gives a direction. And the check-in cadence makes sure this isn't a document you write once and forget. The individual owns this document — you co-create it. Push for specificity: "Improve communication" is not a growth area. "Learn to present technical findings to non-technical stakeholders in under 5 minutes" is. -->
 
 ---
 

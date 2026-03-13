@@ -111,8 +111,13 @@ If you are running more than 5 minutes behind by 16:00:
 
 ### What "Complete" Means for Pass/Fail
 
-- **Pass:** All three documents have been submitted. Each document has content in at least half of its sections. Sections can be rough, incomplete, or placeholder — but they cannot be empty.
-- **Fail:** Any document is missing entirely, or a document is submitted with all sections empty (just headers with no content).
+These criteria match the grading rubric in `assessment/grading-rubrics.md`. Use these exact thresholds:
+
+- **Pass:** All three documents submitted by 17:10 AND:
+  - **Team Charter:** All sections filled in (mission, roles, norms, communication plan, decision-making process). No placeholder text or blank fields.
+  - **Stakeholder Map:** At least **6 stakeholders** mapped with identified relationships, influence levels, and interest levels relevant to the case context.
+  - **Roadmap Outline:** At least **5 items** listed with preliminary **RICE scores** (Reach, Impact, Confidence, Effort) assigned to each. Items must be relevant to the case context.
+- **Fail:** Any artifact is missing entirely, contains only placeholder or boilerplate text, or is submitted after the 17:10 deadline without prior instructor approval.
 - **Edge cases:** If a student submits two of three documents by 17:10 and the third within 30 minutes with a reasonable explanation, use judgment. The goal is accountability, not punishment.
 
 ---
@@ -157,7 +162,7 @@ This is the last block of the day. Students have been in class since 11:00 with 
 ## Transition to Day 2
 
 Before dismissing:
-- **Between-days checklist:** Point students to `resources/between-days-checklist.md` (also posted on Moodle) for their between-days work including required reading for Day 2. The checklist covers reading assignments (Fournier Ch. 6, Grove Ch. 11, Larson §5.3), portfolio artifact work, and Day 2 logistics. Walk through it briefly so students know what is expected during the week.
+- **Between-days checklist:** Point students to `resources/between-days-checklist.md` (also posted on Moodle) for their between-days work including required reading for Day 2. The checklist covers reading assignments (Fournier Ch. 6, Grove Ch. 11, Larson Part 2 & §5.3), portfolio artifact work, and Day 2 logistics. Walk through it briefly so students know what is expected during the week.
 - **Remind about the hiring packet:** Students should continue working on their work sample and interview loop between Day 1 and Day 2. These are portfolio deliverables — no mid-week deadline.
 - **Required reading:** Emphasize that the three readings (especially Grove Ch. 11 on performance reviews and Fournier Ch. 6 on managing a team) are essential preparation for Block D's calibration and feedback exercises. Students who skip the reading will struggle with the mock calibration activity.
 - **QBR simulation brief:** Will be posted on the LMS tonight. Students should read it before Day 2.

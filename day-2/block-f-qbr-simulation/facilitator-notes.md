@@ -35,19 +35,19 @@
 | 15:32–15:38 | 6 min | The Final Block + Executive Communication intro | 2–5 |
 | 15:38–15:43 | 5 min | What We'll Do This Block + Executive Communication frameworks | 6–10 |
 | 15:43–15:47 | 4 min | Executive Attention Budget + What Executives Want to Know | 11–14 |
-| 15:47–15:50 | 3 min | Anti-Patterns + Decisions & Escalation | 15–21 |
-| 15:50–15:53 | 3 min | Incident Postmortems + Communicating Failure + Adapting Manager OS | 22–30 |
-| 15:53–15:58 | 5 min | First 90 Days + QBR Simulation Brief + Evaluation Criteria + Role Cards | 31–40 |
+| 15:47–15:50 | 3 min | Anti-Patterns + Decisions & Escalation + Art of the Ask | 15–22 |
+| 15:50–15:53 | 3 min | Incident Postmortems + Communicating Failure + Adapting Manager OS | 23–30 |
+| 15:53–15:58 | 5 min | Transition Trap + First 90 Days + QBR Simulation Brief + Evaluation Criteria + Role Cards | 31–42 |
 | 15:58–16:00 | 2 min | Form groups, assign first presenter, distribute role cards | — |
-| 16:00–16:50 | 50 min | **QBR Simulation** (5–6 rounds of presentations) | 41 |
-| 16:50–16:58 | 8 min | Simulation Debrief (whole room) | 42 |
-| 16:58–17:02 | 4 min | Next 90 Days (individual writing) | 49–50 |
-| 17:02–17:04 | 2 min | Portfolio Checklist + Peer Feedback Reminder | 43–52 |
-| 17:04–17:10 | 6 min | Close — celebration, final words, thanks | 53–56 |
+| 16:00–16:50 | 50 min | **QBR Simulation** (5–6 rounds of presentations) | 43 |
+| 16:50–16:58 | 8 min | Simulation Debrief (whole room) | 44 |
+| 16:58–17:02 | 4 min | Portfolio Checklist walkthrough | 45–49 |
+| 17:02–17:04 | 2 min | Your Next 90 Days (individual writing) + Peer Feedback Reminder | 50–53 |
+| 17:04–17:10 | 6 min | Close — celebration, final words, thanks | 54–57 |
 
 **Total: 100 minutes**
 
-**Note:** The deck has 56 slides (up from the original 35) due to splitting overflowing content slides. The additional slides are short continuation slides that advance quickly — total speaking time is unchanged.
+**Note:** The deck has 57 slides (up from the original 35) due to splitting overflowing content slides. The additional slides are short continuation slides that advance quickly — total speaking time is unchanged.
 
 ---
 
@@ -61,16 +61,16 @@
 5. **The portfolio is the culmination.** Be specific about what's due, when, and in what format. Ambiguity about assessment creates anxiety that undermines the closing energy.
 
 ### Skip If Short on Time
-- **Incident Postmortems slides (slides 22–25)** — Important but not essential for the simulation. Can be covered in 60 seconds: "Run blameless postmortems. Focus on systems. Use 5 Whys. Action items need owners and deadlines."
-- **Adapting Manager OS by Org Size (slide 29)** — Can be shortened to "Your OS must evolve as you grow. What works at 5 people fails at 50." One minute.
-- **Next 90 Days writing exercise (slides 49–50)** — Can be assigned as homework rather than done in class. Save 4 minutes.
+- **Incident Postmortems slides (slides 23–27)** — Important but not essential for the simulation. Can be covered in 60 seconds: "Run blameless postmortems. Focus on systems. Use 5 Whys. Action items need owners and deadlines."
+- **Adapting Manager OS by Org Size (slide 30)** — Can be shortened to "Your OS must evolve as you grow. What works at 5 people fails at 50." One minute.
+- **Next 90 Days writing exercise (slides 50–51)** — Can be assigned as homework rather than done in class. Save 4 minutes.
 
 ### Do Not Skip
-- **QBR Simulation Brief and Evaluation Criteria (slides 35–40)** — Students need clear instructions and expectations before the simulation.
-- **The simulation itself (slide 41)** — This is the core of the block. Protect at least 35 minutes.
-- **Simulation Debrief (slide 42)** — Without debrief, the simulation is just performance, not learning.
-- **Portfolio Checklist (slides 43–48)** — Students need clarity on what's due.
-- **The Close (slides 53–56)** — End the course well. This is their lasting impression.
+- **QBR Simulation Brief and Evaluation Criteria (slides 37–42)** — Students need clear instructions and expectations before the simulation.
+- **The simulation itself (slide 43)** — This is the core of the block. Protect at least 35 minutes.
+- **Simulation Debrief (slide 44)** — Without debrief, the simulation is just performance, not learning.
+- **Portfolio Checklist (slides 45–49)** — Students need clarity on what's due.
+- **The Close (slides 54–57)** — End the course well. This is their lasting impression.
 
 ---
 
@@ -178,7 +178,7 @@
 ## Portfolio Checklist Walkthrough
 
 ### Spend 2 Minutes on This
-- Project the portfolio checklist on screen (slides 43–48)
+- Project the portfolio checklist on screen (slides 45–49)
 - Walk through each artifact by name: "Team Charter — you started this in Block A. It should be 1–2 pages, final form."
 - Be specific about format: "Single PDF or a structured repo with a README that lists all artifacts."
 - Be specific about deadline: "One week from today, 23:59 Vienna time. That's [state the specific date]."
@@ -202,7 +202,7 @@
 
 ### The Final 2 Minutes
 - Stand at the front. Make eye contact. Slow down.
-- Deliver the close (slides 53–56) with warmth and conviction. This is the moment they'll remember.
+- Deliver the close (slides 54–57) with warmth and conviction. This is the moment they'll remember.
 - After the final slide, stay available for 10–15 minutes for students who want to ask questions, say thank you, or take photos.
 
 ---
@@ -255,7 +255,7 @@
 
 ## Instructor Preparation Checklist
 
-- [ ] Read through all 56 slides and talk tracks; internalize the flow
+- [ ] Read through all 57 slides and talk tracks; internalize the flow
 - [ ] Print exec role cards (one set per group) or prepare to display on screen
 - [ ] Print QBR evaluation criteria (one per student) or prepare to display on screen
 - [ ] Print portfolio checklist or ensure digital access

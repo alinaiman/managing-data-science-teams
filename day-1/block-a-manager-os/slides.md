@@ -23,13 +23,13 @@ By the end of this block you will be able to:
 
 ## Welcome & Course Overview (1/2)
 
-**Your instructor:** Eduardo Arino de la Rubia, Professor of Practice at CEU
+**Your instructor:** Eduardo Ariño de la Rubia, Professor of Practice at CEU
 
 **What this 2-day intensive covers:**
 - Day 1: Manager OS, Hiring & Team Formation, Roadmaps & Alignment
 - Day 2: Growth & Performance, Portfolio Workshop & Peer Review, QBR Simulation
 
-<!-- Talk track: Let me introduce myself. I'm Eduardo Arino de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams — I've done it at startups, mid-stage companies, and large enterprises. I've made every mistake we're going to talk about, and I've learned from most of them. This course is two days, and it is intense. We're going to cover the full lifecycle of analytics management — from building your operating system as a manager, to hiring, to roadmapping, to performance management, to executive communication, and a capstone QBR simulation. -->
+<!-- Talk track: Let me introduce myself. I'm Eduardo Ariño de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams — I've done it at startups, mid-stage companies, and large enterprises. I've made every mistake we're going to talk about, and I've learned from most of them. This course is two days, and it is intense. We're going to cover the full lifecycle of analytics management — from building your operating system as a manager, to hiring, to roadmapping, to performance management, to executive communication, and a capstone QBR simulation. -->
 
 ---
 
@@ -109,7 +109,7 @@ Pick one now. You will use this for every activity across both days.
 ## Choose Your Case Context (2/3)
 
 **MarketBridge (Series B Scale-Up)**
-- 200-person B2B SaaS company, $40M ARR, growing fast
+- ~150-person two-sided marketplace (think Thumbtack), Series B, $30M raised
 - You manage 4-6 analysts who previously reported to different PMs
 - Dashboards everywhere, conflicting metric definitions, no documentation
 
@@ -519,8 +519,9 @@ This classification matters because it tells everyone "we don't need to agonize 
 - **Principles** — 3-5 operating rules the team lives by
 - **Key Interfaces** — Who do you interact with and how?
 - **Success Metrics** — How do you know if you're winning?
+- **Cadences & Rituals** — Recurring meetings and their purpose
 
-<!-- Talk track: The Team Charter is the first artifact in your Manager OS. Think of it as your team's constitution. It answers the fundamental questions: why do we exist, what do we do, what don't we do, and how do we operate? -->
+<!-- Talk track: The Team Charter is the first artifact in your Manager OS. Think of it as your team's constitution. It answers the fundamental questions: why do we exist, what do we do, what don't we do, and how do we operate? The template has six sections — the last one, Cadences and Rituals, connects directly to what we covered earlier about management rhythms. -->
 
 ---
 
@@ -749,7 +750,7 @@ These are the **foundation** of your Manager OS. Every block builds on this.
 
 **Reminder:** Your Team Charter and Stakeholder Map are due as drafts at end of Day 1.
 
-<!-- Talk track: You have a framework for cadences and a toolkit for making good decisions. This is not theoretical — these are artifacts you will refine and submit. Your charter and stakeholder map are due as drafts by end of today. They don't need to be perfect, but they need to be substantive. Over the remaining blocks, we'll layer on hiring, roadmapping, performance management, and infrastructure. Everything connects back to what you built today. -->
+<!-- Talk track: You have a framework for cadences and a toolkit for making good decisions. This is not theoretical — these are artifacts you will refine and submit. Your charter and stakeholder map are due as drafts by end of today. They don't need to be perfect, but they need to be substantive. Over the remaining blocks, we'll layer on hiring, roadmapping, performance management, and executive communication. Everything connects back to what you built today. -->
 
 ---
 

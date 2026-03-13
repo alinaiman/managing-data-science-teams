@@ -518,11 +518,11 @@ This is the document that gets forwarded to the CEO's CEO.
 
 **A condensed example for a fictional analytics team at MarketBridge:**
 
-**Context:** "The Analytics team (5 ICs, 1 manager) supports MarketBridge's B2B SaaS platform, which serves 2,400 mid-market accounts. This quarter we operated at full capacity following the successful onboarding of two analysts hired in Q3."
+**Context:** "The Analytics team (5 ICs, 1 manager) supports MarketBridge's two-sided marketplace connecting homeowners with service professionals across 12 metro areas. This quarter we operated at full capacity following the successful onboarding of two analysts hired in Q3."
 
 *What makes this work: concrete numbers, no jargon, establishes scope in three sentences.*
 
-<!-- Talk track: Let me show you what each section looks like when it is done well. This is a condensed example for a fictional analytics team at MarketBridge, a B2B SaaS company. Look at the Context section — three sentences, and you know the team size, what they support, and where they stand. No jargon. -->
+<!-- Talk track: Let me show you what each section looks like when it is done well. This is a condensed example for a fictional analytics team at MarketBridge, the two-sided marketplace. Look at the Context section — three sentences, and you know the team size, what they support, and where they stand. No jargon. -->
 
 ---
 

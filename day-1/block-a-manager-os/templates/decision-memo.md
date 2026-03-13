@@ -141,7 +141,7 @@
 
 ## Evaluation Criteria
 
-Your Decision Memo will be assessed on the following dimensions:
+Use these dimensions to self-assess the quality of your Decision Memo:
 
 | Criterion | Weight | What "Good" Looks Like |
 |---|---|---|
@@ -151,4 +151,4 @@ Your Decision Memo will be assessed on the following dimensions:
 | **Risk awareness** | 15% | Risks are realistic (not paranoid, not dismissive). Mitigations are actionable and proportionate. |
 | **Decision type classification** | 15% | Correct Type 1/Type 2 classification with thoughtful implications. Demonstrates understanding of when to move fast vs. when to slow down. |
 
-**Note:** You will use this template for multiple decisions throughout the course. The first memo is a practice exercise; later memos (e.g., build-vs-buy decisions — see the optional Data Infrastructure resources) will be assessed as part of your Manager Portfolio.
+**Note:** Decision memos are optional practice exercises — they are not graded as a standalone portfolio component. However, well-crafted decision memos can strengthen other artifacts (e.g., a build-vs-buy memo supporting your roadmap). See the optional Data Infrastructure resources for advanced topics.

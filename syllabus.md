@@ -119,7 +119,7 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 **Block B (13:30–15:10) — Hiring & Team Formation**
 
 - Role design, leveling basics; structured interviews; work-sample design; rubric calibration; candidate experience  
-  **Role-play:** Live panel interview using your **role scorecard**
+  **Role-play:** Paired structured interview using your **scoring rubric**
   **Deliverable (portfolio):** JD \+ Work sample \+ Rubric \+ Interview loop
 
 **Block C (15:30–17:10) — Roadmaps, Bets, and Alignment**

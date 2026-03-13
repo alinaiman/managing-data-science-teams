@@ -29,26 +29,27 @@ This transition takes about 2 minutes. It's worth it — students who don't get 
 
 ---
 
-## Slide Map (16 slides)
+## Slide Map (17 slides)
 
 | Slide | Title |
 |-------|-------|
 | 1 | (Marp config) |
 | 2 | Title: Portfolio Workshop & Peer Review |
-| 3 | Where You Are — Portfolio Status Check |
-| 4 | The Revision Mindset |
-| 5 | Quick Self-Assessment |
-| 6 | Artifact Revision Workshop |
-| 7 | Revision Tips by Artifact |
-| 8 | Structured Peer Review — Setup |
-| 9 | Peer Review — What to Look For |
-| 10 | Peer Review — Giving Feedback with SBI |
-| 11 | Peer Review — Receiving Feedback |
-| 12 | QBR Prep |
-| 13 | QBR Prep — The Executive Test |
-| 14 | Instructor Q&A / Office Hours |
-| 15 | Block E Recap |
-| 16 | Transition to Block F |
+| 3 | Shifting Gears |
+| 4 | Where You Are — Portfolio Status Check |
+| 5 | The Revision Mindset |
+| 6 | Quick Self-Assessment |
+| 7 | Artifact Revision Workshop |
+| 8 | Revision Tips by Artifact |
+| 9 | Structured Peer Review — Setup |
+| 10 | Peer Review — What to Look For |
+| 11 | Peer Review — Giving Feedback with SBI |
+| 12 | Peer Review — Receiving Feedback |
+| 13 | QBR Prep |
+| 14 | QBR Prep — The Executive Test |
+| 15 | Instructor Q&A / Office Hours |
+| 16 | Block E Recap |
+| 17 | Transition to Block F |
 
 ---
 
@@ -56,19 +57,19 @@ This transition takes about 2 minutes. It's worth it — students who don't get 
 
 | Time | Min | Duration | Slide(s) | Activity |
 |------|-----|----------|----------|----------|
-| 13:30 | 0 | 2 min | 2 | Title, welcome back, block overview |
-| 13:32 | 2 | 3 min | 3–4 | Portfolio status check, revision mindset |
-| 13:35 | 5 | 3 min | 5 | Quick self-assessment — students rate their artifacts |
-| 13:38 | 8 | 2 min | 6–7 | Revision workshop instructions + tips |
+| 13:30 | 0 | 2 min | 2–3 | Title, welcome back, block overview, Shifting Gears reset |
+| 13:32 | 2 | 3 min | 4–5 | Portfolio status check, revision mindset |
+| 13:35 | 5 | 3 min | 6 | Quick self-assessment — students rate their artifacts |
+| 13:38 | 8 | 2 min | 7–8 | Revision workshop instructions + tips |
 | 13:40 | 10 | 30 min | — | **Activity: Artifact Revision Workshop.** Students work silently. Instructor circulates. |
-| 14:10 | 40 | 5 min | 8–11 | Peer review setup + instructions |
+| 14:10 | 40 | 5 min | 9–12 | Peer review setup + instructions |
 | 14:15 | 45 | 10 min | — | **Silent reading + written feedback.** Pairs exchange artifacts and read silently. |
 | 14:25 | 55 | 7 min | — | **Verbal feedback Round 1.** Partner A gives SBI feedback to Partner B. |
 | 14:32 | 62 | 7 min | — | **Verbal feedback Round 2.** Partner B gives SBI feedback to Partner A. |
 | 14:39 | 69 | 6 min | — | **Revision notes.** Each person writes 3 specific changes they'll make. |
-| 14:45 | 75 | 10 min | 12–13 | **QBR Prep.** Refine narrative, practice elevator pitch with partner. |
-| 14:55 | 85 | 15 min | 14 | **Instructor Q&A / Office Hours.** Open questions, portfolio review, QBR pitch practice. |
-| 15:10 | 100 | — | 15–16 | Block recap + transition to Block F |
+| 14:45 | 75 | 10 min | 13–14 | **QBR Prep.** Refine narrative, practice elevator pitch with partner. |
+| 14:55 | 85 | 15 min | 15 | **Instructor Q&A / Office Hours.** Open questions, portfolio review, QBR pitch practice. |
+| 15:10 | 100 | — | 16–17 | Block recap + transition to Block F |
 
 **Total: 100 minutes**
 

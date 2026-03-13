@@ -15,7 +15,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 **LO: Produce a structured hiring packet that improves signal and fairness**
 
-<!-- Talk track: Welcome back from lunch. This block is about the single highest-leverage activity you will do as a manager — hiring. A great hire compounds for years; a bad hire compounds damage for months. By the end of this block, you will have a complete hiring packet: job description, work sample exercise, scoring rubric, and interview loop design. Let's get into it. -->
+<!-- Talk track: Welcome back from lunch. This block is about the single highest-leverage activity you will do as a manager — hiring. A great hire compounds for years; a bad hire compounds damage for months. By the end of this block, you will draft a job description and scoring rubric in class, then complete the full hiring packet — including a work sample exercise and interview loop design — as portfolio work between sessions. Let's get into it. -->
 
 ---
 
@@ -92,7 +92,7 @@ footer: "CEU Vienna | Day 1 – Block B"
                                                                you decide
 ```
 
-<!-- Talk track: Let me preview what we are building in the next 100 minutes. You will leave this block with four connected deliverables. First, a job description built around 90-day outcomes — not a skill shopping list. Second, a work sample exercise that simulates the actual job. Third, a scoring rubric with predefined dimensions and a four-point scale. Fourth, an interview loop design that specifies who evaluates what and how you make the final decision. These four things are not independent — they are a system. -->
+<!-- Talk track: Let me preview what we are building. Your hiring packet has four connected deliverables. First, a job description built around 90-day outcomes — not a skill shopping list. Second, a work sample exercise that simulates the actual job. Third, a scoring rubric with predefined dimensions and a four-point scale. Fourth, an interview loop design that specifies who evaluates what and how you make the final decision. These four things are not independent — they are a system. In this block, you will draft the JD and rubric in class. The work sample and interview loop you will complete as portfolio work between sessions. -->
 
 ---
 
@@ -316,11 +316,11 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 | Method | Correlation |
 |:---|:---|
-| Unstructured interviews | **~0.20** |
+| Unstructured interviews | **~0.38** |
 | Structured interviews | **~0.51** |
 | Work samples | **~0.54** |
 
-<!-- Talk track: This is the most important table in the deck. These numbers come from decades of industrial-organizational psychology research, primarily Schmidt and Hunter's landmark 1998 meta-analysis. An unstructured interview predicts job performance at a 0.20 correlation — barely better than flipping a coin. A structured interview jumps to 0.51. Work samples hit 0.54. -->
+<!-- Talk track: This is the most important table in the deck. These numbers come from decades of industrial-organizational psychology research, primarily Schmidt and Hunter's landmark 1998 meta-analysis. An unstructured interview predicts job performance at a 0.38 correlation — better than nothing, but far less reliable than you might think. A structured interview jumps to 0.51. Work samples hit 0.54. The gap between unstructured and structured is the whole argument for this block. -->
 
 ---
 
@@ -965,7 +965,7 @@ All of these share a common root: **substituting gut feeling for structured eval
 # Key Takeaways (1/2)
 
 1. **Start with outcomes**, not skills — the 90-day scorecard drives everything
-2. **Structure beats intuition** — 0.51 vs. 0.20, every time
+2. **Structure beats intuition** — 0.51 vs. 0.38, every time
 3. **Work samples are your best tool** — test real judgment, not trivia
 
 <!-- Talk track: Let me leave you with the five things I want you to remember from this block. First, start with outcomes, not skills. The 90-day scorecard is your anchor. Second, structure beats intuition — the research is unambiguous. Third, work samples are your best tool for analytics hiring because they test real judgment. -->

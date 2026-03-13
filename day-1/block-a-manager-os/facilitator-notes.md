@@ -2,7 +2,7 @@
 
 **Course:** ECBS5256 – Managing Data Science Teams
 **Block:** Day 1, Block A (11:00–12:40, 100 minutes)
-**Instructor:** Eduardo Arino de la Rubia
+**Instructor:** Eduardo Ariño de la Rubia
 
 ---
 

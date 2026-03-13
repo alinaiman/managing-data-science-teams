@@ -8,7 +8,7 @@ Complete these before March 23:
 
 - [ ] Camille Fournier — *The Manager's Path*, Ch. 6 ("Managing a Team") — managing up, performance (~30 pp)
 - [ ] Andy Grove — *High Output Management*, Ch. 11 ("Performance Reviews") — foundation for calibration (~30 pp)
-- [ ] Will Larson — *An Elegant Puzzle*, §5.3 ("Presenting to Senior Leadership") — executive communication (~20 pp)
+- [ ] Will Larson — *An Elegant Puzzle*, Part 2 ("Organizations") & §5.3 ("Presenting to Senior Leadership") — org design at scale and executive communication (~80 pp)
 
 ## Portfolio Work
 
@@ -34,4 +34,4 @@ Complete these artifacts started in class:
 
 ---
 
-*Estimated time: 4-6 hours total (reading + artifact work)*
+*Estimated time: 6-8 hours total (reading + artifact work)*

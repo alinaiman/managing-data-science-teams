@@ -17,7 +17,7 @@ By the end of this block you will be able to:
 - Refine your weakest artifacts with targeted revision
 - Prepare a concise QBR elevator pitch
 
-<!-- Talk track: Welcome back from lunch. This block is different from everything else in the course — there are no new frameworks, no new slides to absorb. This is your workshop. You've built artifacts across five blocks now, and this is your chance to sharpen them before the QBR simulation and final submission. We'll do four things: revise your weakest work, practice giving each other structured feedback, prep for the QBR, and I'll be here for any questions. Let's get to work. -->
+<!-- Talk track: Welcome back from lunch. This block is different from everything else in the course — there are no new frameworks, no new slides to absorb. This is your workshop. You've built artifacts across four blocks now, and this is your chance to sharpen them before the QBR simulation and final submission. We'll do four things: revise your weakest work, practice giving each other structured feedback, prep for the QBR, and I'll be here for any questions. Let's get to work. -->
 
 ---
 
@@ -111,7 +111,7 @@ I'll circulate. Flag me if you're stuck.
 
 ---
 
-## Structured Peer Review — Setup (1/2)
+## Structured Peer Review — Setup
 
 **Time: 30 minutes** | Pair up with someone at a **different case context**.
 
@@ -251,4 +251,4 @@ This is your time. Use it for:
 
 **This is the capstone. Everything comes together now.**
 
-<!-- Talk track: Take the break. Get some water. Review your notes one more time. When we start Block F, you're presenting to executives. The preparation you've done — the roadmap, the narrative, the infrastructure thinking from the reference materials, the QBR outline — it all converges in the next 100 minutes. See you at 3:30. -->
+<!-- Talk track: Take the break. Get some water. Review your notes one more time. When we start Block F, you're presenting to executives. The preparation you've done — the roadmap, the narrative, the peer feedback, the QBR outline — it all converges in the next 100 minutes. See you at 3:30. -->

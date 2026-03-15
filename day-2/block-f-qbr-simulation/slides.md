@@ -20,7 +20,7 @@ This is the capstone. You will present your roadmap and executive narrative in a
 
 ---
 
-## The Final Block (1/2)
+## The Final Block
 
 This is the capstone of the entire course. Everything from both days converges here.
 
@@ -34,7 +34,7 @@ Over Day 1 and Day 2, you have:
 
 ---
 
-## The Final Block (2/2)
+## The Final Block
 
 - **Grown your people** — through PGPs, SBI feedback practice, and calibration
 - **Refined your portfolio** — through structured peer review and revision
@@ -45,7 +45,7 @@ Now you **present it all to leadership**. This skill separates analytics manager
 
 ---
 
-## Why Executive Communication Is a Survival Skill (1/2)
+## Why Executive Communication Is a Survival Skill
 
 Analytics teams that can't communicate their value **get cut**. The work **does not speak for itself** — you speak for the work.
 
@@ -59,7 +59,7 @@ Your answer determines your team's future.
 
 ---
 
-## Why Executive Communication Is a Survival Skill (2/2)
+## Why Executive Communication Is a Survival Skill
 
 - If you answer **crisply** — with business impact, not jargon — your team gets funded.
 - If you fumble — "well, we maintain dashboards and run A/B tests and..." — you're on the chopping block.
@@ -69,7 +69,7 @@ Your answer determines your team's future.
 
 ---
 
-## What We'll Do This Block (1/2)
+## What We'll Do This Block
 
 **Four parts:**
 
@@ -83,7 +83,7 @@ Your answer determines your team's future.
 
 ---
 
-## What We'll Do This Block (2/2)
+## What We'll Do This Block
 
 3. **Peer feedback on your presentation**
    What landed? What didn't? What would a real exec have pushed harder on?
@@ -110,7 +110,7 @@ Executives operate in a different context than you:
 
 ---
 
-## Executive Communication: Frameworks (1/2)
+## Executive Communication: Frameworks
 
 **The Pyramid Principle:** Conclusion first, then supporting arguments, then data.
 
@@ -122,7 +122,7 @@ Here's a test: if an executive read **only your first sentence**, would they kno
 
 ---
 
-## Executive Communication: Frameworks (2/2)
+## Executive Communication: Frameworks
 
 This is not about dumbing things down. It's about **respecting someone's time and cognitive bandwidth**.
 
@@ -132,7 +132,7 @@ The best analytics leaders can switch between deep technical discussions with th
 
 ---
 
-## The Executive Attention Budget (1/2)
+## The Executive Attention Budget
 
 Executives make **30–50 decisions per day**. Your QBR is one of many.
 
@@ -146,7 +146,7 @@ They're not trying to be difficult — they're trying to **triage**.
 
 ---
 
-## The Executive Attention Budget (2/2)
+## The Executive Attention Budget
 
 **Real talk:** Most exec meetings run late. If yours is last on the agenda, you might get **5 minutes instead of 15**. Plan for that.
 
@@ -156,7 +156,7 @@ They're not trying to be difficult — they're trying to **triage**.
 
 ---
 
-## What Executives Actually Want to Know (1/2)
+## What Executives Actually Want to Know
 
 Every executive presentation should answer **three questions:**
 
@@ -171,7 +171,7 @@ Every executive presentation should answer **three questions:**
 
 ---
 
-## What Executives Actually Want to Know (2/2)
+## What Executives Actually Want to Know
 
 **Everything else is context.** Put these three answers on your first slide. Everything after is supporting evidence.
 
@@ -179,7 +179,7 @@ Every executive presentation should answer **three questions:**
 
 ---
 
-## The Anti-Patterns of Exec Presentations (1/2)
+## The Anti-Patterns of Exec Presentations
 
 Common failure modes — you will see all of these in the wild:
 
@@ -193,7 +193,7 @@ Common failure modes — you will see all of these in the wild:
 
 ---
 
-## The Anti-Patterns of Exec Presentations (2/2)
+## The Anti-Patterns of Exec Presentations
 
 - **"Jargon Wall"** — Every unexplained acronym is a moment where the executive checks out.
 
@@ -217,7 +217,7 @@ Common failure modes — you will see all of these in the wild:
 
 ---
 
-## Decisions & Escalation: How to Escalate (1/2)
+## Decisions & Escalation: How to Escalate
 
 **How to escalate:**
 1. Present the **decision** clearly — what needs to be decided
@@ -230,7 +230,7 @@ Never escalate a problem without a recommendation. "I don't know what to do" is 
 
 ---
 
-## Decisions & Escalation: How to Escalate (2/2)
+## Decisions & Escalation: How to Escalate
 
 **"Disagree and commit"** — Once the decision is made, execute fully. Undermining a decision you lost is a career-ending move.
 
@@ -240,7 +240,7 @@ Passive-aggressive non-compliance — doing the thing you were told to do but do
 
 ---
 
-## The Art of the Ask (1/3)
+## The Art of the Ask
 
 How to actually ask executives for what you need:
 
@@ -252,7 +252,7 @@ How to actually ask executives for what you need:
 
 ---
 
-## The Art of the Ask (2/3)
+## The Art of the Ask
 
 **Quantify the cost of NOT getting what you ask for:**
 - "Without this hire, the self-serve project slips to Q4, and the product team continues filing 15 ad-hoc requests per week, costing ~40 analyst-hours monthly"
@@ -261,7 +261,7 @@ How to actually ask executives for what you need:
 
 ---
 
-## The Art of the Ask (3/3)
+## The Art of the Ask
 
 **Make it easy to say yes:**
 - Frame the ask as a trade-off, not an open-ended request
@@ -274,7 +274,7 @@ How to actually ask executives for what you need:
 ---
 <!-- _class: cut -->
 
-## Incident Postmortems for Analytics: When Things Go Wrong (1/2)
+## Incident Postmortems for Analytics: When Things Go Wrong
 
 When things go wrong — and they will:
 - The **dashboard was wrong** and a VP made a bad decision based on it
@@ -286,7 +286,7 @@ When things go wrong — and they will:
 ---
 <!-- _class: cut -->
 
-## Incident Postmortems for Analytics: When Things Go Wrong (2/2)
+## Incident Postmortems for Analytics: When Things Go Wrong
 
 **Blameless culture:** Focus on **systems**, not people.
 
@@ -297,7 +297,7 @@ When things go wrong — and they will:
 ---
 <!-- _class: cut -->
 
-## Incident Postmortems: Root Cause (1/2)
+## Incident Postmortems: Root Cause
 
 **The 5 Whys:**
 1. Why was the dashboard wrong? → The metric definition changed
@@ -311,7 +311,7 @@ When things go wrong — and they will:
 ---
 <!-- _class: cut -->
 
-## Incident Postmortems: Root Cause (2/2)
+## Incident Postmortems: Root Cause
 
 **Action items must have:** An owner, a deadline, and a verification method.
 
@@ -322,7 +322,7 @@ A postmortem without action items is just group therapy.
 ---
 <!-- _class: cut -->
 
-## Communicating Failure Upward (1/3)
+## Communicating Failure Upward
 
 How to tell your VP that the dashboard was wrong, the model failed, or the project is behind.
 
@@ -334,7 +334,7 @@ How to tell your VP that the dashboard was wrong, the model failed, or the proje
 
 ---
 
-## Communicating Failure Upward (2/3)
+## Communicating Failure Upward
 
 3. **Describe what you're doing about it** — immediate remediation
 4. **Share the systemic fix** — what changes so this never happens again
@@ -345,7 +345,7 @@ How to tell your VP that the dashboard was wrong, the model failed, or the proje
 
 ---
 
-## Communicating Failure Upward (3/3)
+## Communicating Failure Upward
 
 **The second worst thing:** Bury it in a long email. Your VP reads the first two lines. If those don't convey the severity, they'll be blindsided when someone else tells them.
 
@@ -371,7 +371,7 @@ Example: "P1 — Revenue dashboard showed incorrect data for 3 days — Resolved
 
 ---
 
-## The Transition Trap (1/2)
+## The Transition Trap
 
 **What made you successful at one size will actively hurt you at the next size.**
 
@@ -383,7 +383,7 @@ Example: "P1 — Revenue dashboard showed incorrect data for 3 days — Resolved
 
 ---
 
-## The Transition Trap (2/2)
+## The Transition Trap
 
 The dangerous moment is the transition. The skills that made you a great IC analyst — attention to detail, doing everything yourself, being the expert in the room — are the same skills that will make you a terrible manager if you can't let them go.
 
@@ -393,7 +393,7 @@ The dangerous moment is the transition. The skills that made you a great IC anal
 
 ---
 
-## Your First 90 Days as an Analytics Manager (1/3)
+## Your First 90 Days as an Analytics Manager
 
 A practical roadmap for the first 90 days in role, tailored by org size.
 
@@ -406,7 +406,7 @@ A practical roadmap for the first 90 days in role, tailored by org size.
 
 ---
 
-## Your First 90 Days as an Analytics Manager (2/3a)
+## Your First 90 Days as an Analytics Manager
 
 **Days 31–60: Quick Wins, Establish Cadences**
 - Fix one visible, painful problem (the dashboard everyone complains about, the report that's always late)
@@ -417,7 +417,7 @@ A practical roadmap for the first 90 days in role, tailored by org size.
 
 ---
 
-## Your First 90 Days as an Analytics Manager (2/3b)
+## Your First 90 Days as an Analytics Manager
 
 **Days 61–90: Roadmap, First Hire Decision, First Exec Presentation**
 - Present your first roadmap draft to leadership
@@ -428,7 +428,7 @@ A practical roadmap for the first 90 days in role, tailored by org size.
 
 ---
 
-## Your First 90 Days as an Analytics Manager (3/3)
+## Your First 90 Days as an Analytics Manager
 
 How the 90-day plan varies by org size:
 
@@ -442,7 +442,7 @@ How the 90-day plan varies by org size:
 
 ---
 
-## QBR Simulation Brief (1/2)
+## QBR Simulation Brief
 
 **Format:** **5-minute presentation** + **5-minute Q&A** from the "executive panel" (groups of 3–4)
 
@@ -455,7 +455,7 @@ How the 90-day plan varies by org size:
 
 ---
 
-## QBR Simulation Brief (2/2)
+## QBR Simulation Brief
 
 **Presenting:** Be concise, be confident, lead with BLUF. Use your QBR outline template.
 
@@ -465,7 +465,7 @@ How the 90-day plan varies by org size:
 
 ---
 
-## QBR Evaluation Criteria (1/2)
+## QBR Evaluation Criteria
 
 | Criterion | What "Good" Looks Like |
 |---|---|
@@ -479,7 +479,7 @@ How the 90-day plan varies by org size:
 
 ---
 
-## QBR Evaluation Criteria (2/2)
+## QBR Evaluation Criteria
 
 **"Great":** The panel feels confident the analytics team is well-managed, aligned, and worth investing in.
 
@@ -489,7 +489,7 @@ How the 90-day plan varies by org size:
 
 ---
 
-## Exec Panel Role Cards (1/2)
+## Exec Panel Role Cards
 
 Play one of these roles during Q&A. Stay in character. **You MUST interrupt at least once.**
 
@@ -503,7 +503,7 @@ Play one of these roles during Q&A. Stay in character. **You MUST interrupt at l
 
 ---
 
-## Exec Panel Role Cards (2/2)
+## Exec Panel Role Cards
 
 **CFO:** "What's the ROI? Can we do this with fewer people? What if I cut your budget 20%?"
 - Interrupt with: "Can you put a dollar figure on that?" or "What's the cost if we don't do this?"
@@ -545,7 +545,7 @@ Play one of these roles during Q&A. Stay in character. **You MUST interrupt at l
 
 ---
 
-## Portfolio Checklist: Components (1/3)
+## Portfolio Checklist: Components
 
 **Due: One week from today (23:59 Vienna time)**
 
@@ -560,7 +560,7 @@ Your portfolio has **6 graded components.** Here's what goes in each.
 
 ---
 
-## Portfolio Checklist: Components (2/3)
+## Portfolio Checklist: Components
 
 | Component | What to Submit | Source |
 |---|---|---|
@@ -572,7 +572,7 @@ Your portfolio has **6 graded components.** Here's what goes in each.
 
 ---
 
-## Portfolio Checklist: Components (3/3)
+## Portfolio Checklist: Components
 
 | Component | What to Submit | Source |
 |---|---|---|
@@ -586,7 +586,7 @@ _Optional extras for a richer portfolio: RACI Matrix, Decision Memo, Data Infras
 
 ---
 
-## Portfolio Checklist: Submission (1/2)
+## Portfolio Checklist: Submission
 
 **Format:** Single PDF or structured repository. Use the portfolio checklist template.
 
@@ -600,7 +600,7 @@ Drafts you built in class are your starting point — **refine them, don't start
 
 ---
 
-## Portfolio Checklist: Submission (2/2)
+## Portfolio Checklist: Submission
 
 - Your QBR outline should synthesize everything into a coherent story
 
@@ -611,7 +611,7 @@ The portfolio is not six separate documents. It's **one integrated system**.
 ---
 <!-- _class: cut -->
 
-## Your Next 90 Days (1/2)
+## Your Next 90 Days
 
 Real talk: **what are you going to do with this?**
 Write down **3 specific actions** for the next 90 days. Not aspirations — actions.
@@ -627,7 +627,7 @@ Write down **3 specific actions** for the next 90 days. Not aspirations — acti
 ---
 <!-- _class: cut -->
 
-## Your Next 90 Days (2/2)
+## Your Next 90 Days
 
 **Specific. Measurable. Time-bound.**
 
@@ -637,7 +637,7 @@ Take a few minutes now. Write them down. These are yours — you don't have to s
 
 ---
 
-## Peer Feedback Reminder (1/2)
+## Peer Feedback Reminder
 
 **Due: 48 hours from now**
 
@@ -649,7 +649,7 @@ Take a few minutes now. Write them down. These are yours — you don't have to s
 
 ---
 
-## Peer Feedback Reminder (2/2)
+## Peer Feedback Reminder
 
 **How to give good feedback:**
 - Be **specific** — "Your risk register was thorough" beats "Good job"
@@ -662,7 +662,7 @@ The best feedback is something the recipient can act on before the portfolio dea
 
 ---
 
-## Close: What You've Built (1/2)
+## Close: What You've Built
 
 You've built a **Manager Operating System**.
 
@@ -675,7 +675,7 @@ Over two days, you've practiced how to:
 
 ---
 
-## Close: What You've Built (2/2)
+## Close: What You've Built
 
 - **Grow** your people through PGPs and honest performance conversations
 - **Refine** your artifacts through structured peer feedback
@@ -687,7 +687,7 @@ The **portfolio is the proof**. Refine your drafts. Submit with pride.
 
 ---
 
-## Close: Go Build Great Teams (1/2)
+## Close: Go Build Great Teams
 
 **Office hours are available** — reach out if you need help.
 
@@ -697,7 +697,7 @@ I genuinely hope this course changes how you think about management. It's not ab
 
 ---
 
-## Close: Go Build Great Teams (2/2)
+## Close: Go Build Great Teams
 
 The best analytics managers I know share three traits:
 - They **care deeply** about their people

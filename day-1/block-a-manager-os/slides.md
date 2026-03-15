@@ -21,7 +21,7 @@ By the end of this block you will be able to:
 
 ---
 
-## Welcome & Course Overview (1/2)
+## Welcome & Course Overview
 
 **Your instructor:** Eduardo Ariño de la Rubia, Professor of Practice at CEU
 
@@ -33,7 +33,7 @@ By the end of this block you will be able to:
 
 ---
 
-## Welcome & Course Overview (2/2)
+## Welcome & Course Overview
 
 **What makes this course different:**
 - **Workshop-driven** — you will build, not just listen
@@ -44,7 +44,7 @@ By the end of this block you will be able to:
 
 ---
 
-## Why This Course Exists (1/2)
+## Why This Course Exists
 
 **The problem:** Analytics managers are almost always promoted from IC roles with **zero management training**. You were the best analyst, so now you manage analysts — but these are completely different jobs.
 
@@ -56,7 +56,7 @@ By the end of this block you will be able to:
 
 ---
 
-## Why This Course Exists (2/2)
+## Why This Course Exists
 
 **More costs of bad management:**
 - **Misaligned priorities** — you build what the loudest stakeholder wants, not what matters
@@ -68,7 +68,7 @@ Management is a **learnable craft**, not an innate talent. You can improve syste
 
 ---
 
-## How This Course Works (1/2)
+## How This Course Works
 
 **Three case contexts** that anchor everything:
 
@@ -82,7 +82,7 @@ Management is a **learnable craft**, not an innate talent. You can improve syste
 
 ---
 
-## How This Course Works (2/2)
+## How This Course Works
 
 - You **choose one case context** and anchor ALL artifacts to it
 - Everything builds: charter informs hiring, hiring informs roadmap, roadmap informs stakeholder communication
@@ -93,7 +93,7 @@ Management is a **learnable craft**, not an innate talent. You can improve syste
 
 ---
 
-## Choose Your Case Context (1/3)
+## Choose Your Case Context
 
 Pick one now. You will use this for every activity across both days.
 
@@ -106,7 +106,7 @@ Pick one now. You will use this for every activity across both days.
 
 ---
 
-## Choose Your Case Context (2/3)
+## Choose Your Case Context
 
 **MarketBridge (Series B Scale-Up)**
 - ~150-person two-sided marketplace (think Thumbtack), Series B, $30M raised
@@ -117,7 +117,7 @@ Pick one now. You will use this for every activity across both days.
 
 ---
 
-## Choose Your Case Context (3/3)
+## Choose Your Case Context
 
 **FinGuard (Enterprise Financial Services)**
 - 5,000-person regulated financial institution
@@ -158,7 +158,7 @@ Three overlapping circles — the analytics manager spans all three but **owns P
 
 ---
 
-## The Analytics Manager Is Unique (1/2)
+## The Analytics Manager Is Unique
 
 The analytics manager is unique: you live at the intersection. You need enough technical depth to earn trust, enough product sense to prioritize, and enough people skill to build a team.
 
@@ -170,7 +170,7 @@ The analytics manager is unique: you live at the intersection. You need enough t
 
 ---
 
-## The Analytics Manager Is Unique (2/2)
+## The Analytics Manager Is Unique
 
 - If you have no people skill, your best analysts will leave for a manager who actually invests in them
 
@@ -181,7 +181,7 @@ The analytics manager is unique: you live at the intersection. You need enough t
 ---
 <!-- _class: skip -->
 
-## When the VP Asks "Why Is Churn Up?" (1/2)
+## When the VP Asks "Why Is Churn Up?"
 
 A concrete scenario to illustrate the three roles:
 
@@ -194,7 +194,7 @@ A concrete scenario to illustrate the three roles:
 ---
 <!-- _class: skip -->
 
-## When the VP Asks "Why Is Churn Up?" (2/2)
+## When the VP Asks "Why Is Churn Up?"
 
 **The Manager** ensures the right person is assigned and the team isn't overwhelmed: "I'm going to pull Jordan off the dashboard migration for two days to run this analysis. I'll let the platform team know about the delay. And I'll set up a 30-minute readout with the VP for Thursday so we have a clear deadline."
 
@@ -219,7 +219,7 @@ From Skelton & Pais — four fundamental team types:
 
 ---
 
-## Applying Team Topologies to Your Case Context (1/3)
+## Applying Team Topologies to Your Case Context
 
 **Which topology best describes your team?** Most analytics orgs are a mix.
 
@@ -229,7 +229,7 @@ From Skelton & Pais — four fundamental team types:
 
 ---
 
-## Applying Team Topologies to Your Case Context (2/3)
+## Applying Team Topologies to Your Case Context
 
 **MarketBridge (scale-up):** You likely have stream-aligned analysts who grew up embedded in different pods, but no platform team. That's why there are conflicting metric definitions — nobody owns the infrastructure. Your first move might be carving out a platform function.
 
@@ -237,7 +237,7 @@ From Skelton & Pais — four fundamental team types:
 
 ---
 
-## Applying Team Topologies to Your Case Context (3/3)
+## Applying Team Topologies to Your Case Context
 
 **FinGuard (enterprise):** You probably have all four topologies, but they may not talk to each other. The ML team might not know what the embedded analysts need. The platform team might be building for compliance, not for analyst productivity. Your challenge is coordination.
 
@@ -260,7 +260,7 @@ Think of it like software: cadences are the scheduler, rituals are the processes
 
 ---
 
-## AI-Augmented Manager OS (1/2)
+## AI-Augmented Manager OS
 
 LLMs add a **force multiplier** to every OS layer:
 
@@ -275,7 +275,7 @@ LLMs add a **force multiplier** to every OS layer:
 
 ---
 
-## AI-Augmented Manager OS (2/2)
+## AI-Augmented Manager OS
 
 **The key principle:** AI handles the drafting. You own the judgment.
 
@@ -288,7 +288,7 @@ LLMs add a **force multiplier** to every OS layer:
 ---
 <!-- _class: skip -->
 
-## What Happens Without a Manager OS? (1/2)
+## What Happens Without a Manager OS?
 
 Without an OS, you get **chaos that feels like busyness**:
 
@@ -300,7 +300,7 @@ Without an OS, you get **chaos that feels like busyness**:
 ---
 <!-- _class: skip -->
 
-## What Happens Without a Manager OS? (2/2)
+## What Happens Without a Manager OS?
 
 - **No rituals** — important things fall through cracks. No career conversations. No priority reviews.
 - **No decision hygiene** — the loudest voice wins, not the best argument.
@@ -311,7 +311,7 @@ Without an OS, you get **chaos that feels like busyness**:
 
 ---
 
-## Cadences That Work (1/2)
+## Cadences That Work
 
 | Cadence | What happens | Why it matters |
 |---|---|---|
@@ -324,7 +324,7 @@ Without an OS, you get **chaos that feels like busyness**:
 
 ---
 
-## Cadences That Work (2/2)
+## Cadences That Work
 
 **The rhythm creates predictability.** Your team should always know what's coming and never be surprised.
 
@@ -335,7 +335,7 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 ---
 <!-- _class: skip -->
 
-## Designing Your Cadence (1/3)
+## Designing Your Cadence
 
 **How to audit your current meeting load:**
 
@@ -351,7 +351,7 @@ The first step is not to add meetings — it is to audit what exists. Try the **
 ---
 <!-- _class: skip -->
 
-## Designing Your Cadence (2/3)
+## Designing Your Cadence
 
 Continuing the Meeting Audit — for each meeting, also ask:
    - Does it produce a **decision or action item**, or is it purely informational?
@@ -363,7 +363,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 ---
 <!-- _class: skip -->
 
-## Designing Your Cadence (3/3)
+## Designing Your Cadence
 
 **Introducing cadences to a team that has none:**
 
@@ -389,7 +389,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 
 ---
 
-## 1:1 Anti-Patterns (1/2)
+## 1:1 Anti-Patterns
 
 **Anti-patterns to avoid:**
 - **The Status Update Trap** — "What did you do this week?" (Use async for this)
@@ -401,7 +401,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 
 ---
 
-## 1:1 Anti-Patterns (2/2)
+## 1:1 Anti-Patterns
 
 **Watch for these signals:**
 - Boring 1:1s = relationship isn't deep enough for real topics yet
@@ -413,7 +413,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 ---
 <!-- _class: skip -->
 
-## Handling Difficult 1:1s: The Silent Report (1/2)
+## Handling Difficult 1:1s: The Silent Report
 
 **The report who never has agenda items:**
 - They might not trust the space yet. Give it time and keep showing up.
@@ -425,7 +425,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 ---
 <!-- _class: skip -->
 
-## Handling Difficult 1:1s: The Silent Report (2/2)
+## Handling Difficult 1:1s: The Silent Report
 
 **The silent report:**
 - Some people process internally. Try written 1:1s — share questions 24 hours ahead.
@@ -448,7 +448,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 
 ---
 
-## Decision Logs & Memos (1/3)
+## Decision Logs & Memos
 
 **Why writing beats meetings:**
 - Writing forces clarity — you can't hand-wave in prose
@@ -459,7 +459,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 
 ---
 
-## Decision Logs & Memos (2/3)
+## Decision Logs & Memos
 
 **The 1-page Decision Memo has five sections:**
 
@@ -473,7 +473,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 
 ---
 
-## Decision Logs & Memos (3/3)
+## Decision Logs & Memos
 
 **Default to Type 2.** Most decisions are reversible. Move fast on those. Slow down on Type 1.
 
@@ -484,7 +484,7 @@ For Type 2 decisions, empower your team to just go. For Type 1 decisions, write 
 ---
 <!-- _class: skip -->
 
-## Example Decision Memo (1/3)
+## Example Decision Memo
 
 **Context:** MarketBridge uses Amplitude. Engineering proposes migrating to Snowplow + Snowflake.
 
@@ -501,7 +501,7 @@ For Type 2 decisions, empower your team to just go. For Type 1 decisions, write 
 ---
 <!-- _class: skip -->
 
-## Example Decision Memo (2/3)
+## Example Decision Memo
 
 **Recommendation:** Option C (Hybrid), migrating to full in-house (Option B) in 12 months. This de-risks the migration while giving analytics immediate access to raw event data.
 
@@ -512,7 +512,7 @@ For Type 2 decisions, empower your team to just go. For Type 1 decisions, write 
 ---
 <!-- _class: skip -->
 
-## Example Decision Memo (3/3)
+## Example Decision Memo
 
 **Decision Type:** Type 2 — reversible. If the hybrid approach fails, we revert to Amplitude-only within a month.
 
@@ -522,7 +522,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
-## The Team Charter (1/2)
+## The Team Charter
 
 **What it is:** A 1-2 page document capturing your team's identity and operating agreements.
 
@@ -538,7 +538,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
-## The Team Charter (2/2)
+## The Team Charter
 
 **Why it matters:** Alignment without constant re-negotiation. When someone asks "should we do X?" the charter helps answer.
 
@@ -561,7 +561,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
-## Stakeholder Map: What to Capture (1/2)
+## Stakeholder Map: What to Capture
 
 **For each stakeholder, capture:**
 - Name/Role
@@ -573,7 +573,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
-## Stakeholder Map: What to Capture (2/2)
+## Stakeholder Map: What to Capture
 
 **The hidden stakeholders:** Don't forget IT, Legal/Privacy, Finance, and the engineers who maintain your pipelines. New managers always under-map.
 
@@ -639,7 +639,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
-## Activity: Draft Your Team Charter (1/2)
+## Activity: Draft Your Team Charter
 
 **Time: 22 minutes** | Use the template provided
 
@@ -652,7 +652,7 @@ Using your chosen case context, draft a Team Charter with:
 
 ---
 
-## Activity: Draft Your Team Charter (2/2)
+## Activity: Draft Your Team Charter
 
 Continue your Team Charter with:
 4. **Key Interfaces** — At least 4 teams/roles you interact with
@@ -665,7 +665,7 @@ Continue your Team Charter with:
 
 ---
 
-## Activity: Map Your Stakeholders (1/3)
+## Activity: Map Your Stakeholders
 
 **Time: 18 minutes** | Use the template provided
 
@@ -680,7 +680,7 @@ Map your stakeholders on the Power/Interest grid.
 
 ---
 
-## Activity: Map Your Stakeholders (2/3)
+## Activity: Map Your Stakeholders
 
 For each stakeholder, also note:
   - What you need from them
@@ -695,7 +695,7 @@ For each stakeholder, also note:
 
 ---
 
-## Activity: Map Your Stakeholders (3/3)
+## Activity: Map Your Stakeholders
 
 **More prompts:**
 - Who could block your work if unhappy?
@@ -707,7 +707,7 @@ Go deep here. This map will serve you for the rest of the course.
 
 ---
 
-## Pair Share (1/2)
+## Pair Share
 
 **Time: 5 minutes (2–3 minutes each)**
 
@@ -721,7 +721,7 @@ Find a partner — ideally someone who chose a **different** case context.
 
 ---
 
-## Pair Share (2/2)
+## Pair Share
 
 - Where do your maps differ because of your case contexts?
 
@@ -745,7 +745,7 @@ Find a partner — ideally someone who chose a **different** case context.
 
 ---
 
-## Your Manager OS So Far (1/2)
+## Your Manager OS So Far
 
 After this block, you have:
 
@@ -757,7 +757,7 @@ After this block, you have:
 
 ---
 
-## Your Manager OS So Far (2/2)
+## Your Manager OS So Far
 
 - [x] **A sense of cadences** — Daily/weekly/monthly/quarterly rhythms
 - [x] **Decision hygiene basics** — Type 1 vs. Type 2, decision memos, RACI
@@ -770,7 +770,7 @@ These are the **foundation** of your Manager OS. Every block builds on this.
 
 ---
 
-## Transition to Block B (1/2)
+## Transition to Block B
 
 **After lunch: Block B — Hiring & Team Formation (13:30-15:10)**
 
@@ -782,7 +782,7 @@ You have your charter. You know your stakeholders. Now the question becomes:
 
 ---
 
-## Transition to Block B (2/2)
+## Transition to Block B
 
 **Think about over lunch:**
 - What's the first role you'd hire for your case context?

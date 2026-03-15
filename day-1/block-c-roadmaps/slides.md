@@ -19,7 +19,7 @@ footer: "CEU Vienna | Day 1 – Block C"
 
 ---
 
-# The Roadmap Problem (1/2)
+## The Roadmap Problem
 
 Why are roadmaps in analytics **uniquely hard**?
 
@@ -32,7 +32,7 @@ You are not building features. You are building **capability and trust**.
 
 ---
 
-# The Roadmap Problem (2/2)
+## The Roadmap Problem
 
 Your most impactful work is often invisible — the analysis that prevented a bad decision, the data quality fix that stopped a silent failure, the model that redirected $5M in spend.
 
@@ -44,7 +44,7 @@ Without one, you are at the mercy of whoever yells loudest.
 
 ---
 
-# What Good Analytics Roadmaps Do (1/2)
+## What Good Analytics Roadmaps Do
 
 A good analytics roadmap is not a wish list. It is a **strategic tool**:
 
@@ -56,7 +56,7 @@ A good analytics roadmap is not a wish list. It is a **strategic tool**:
 
 ---
 
-# What Good Analytics Roadmaps Do (2/2)
+## What Good Analytics Roadmaps Do
 
 3. **Create mutual accountability** — You deliver outcomes; stakeholders provide data access, expertise, and executive air cover
 
@@ -66,7 +66,7 @@ A good analytics roadmap is not a wish list. It is a **strategic tool**:
 
 ---
 
-# Block C Roadmap (1/3)
+## Block C Roadmap
 
 **What we'll build in the next 100 minutes:**
 
@@ -79,7 +79,7 @@ A good analytics roadmap is not a wish list. It is a **strategic tool**:
 
 ---
 
-# Block C Roadmap (2/3)
+## Block C Roadmap
 
 | Component | What It Is |
 |-----------|-----------|
@@ -91,7 +91,7 @@ A good analytics roadmap is not a wish list. It is a **strategic tool**:
 
 ---
 
-# Block C Roadmap (3/3)
+## Block C Roadmap
 
 You will leave with **a draft roadmap and an executive narrative** — artifacts you present in Day 2's QBR simulation.
 
@@ -99,7 +99,7 @@ You will leave with **a draft roadmap and an executive narrative** — artifacts
 
 ---
 
-# Roadmaps Are Not Gantt Charts
+## Roadmaps Are Not Gantt Charts
 
 A roadmap is a **communication tool**, not a project plan.
 
@@ -114,7 +114,7 @@ A Gantt chart is a promise. A roadmap is a **bet register**.
 
 ---
 
-# The Gantt Chart Trap (1/2)
+## The Gantt Chart Trap
 
 Your VP of Marketing asks for a churn prediction model. You put it on your Gantt chart: **deliver by March 15**.
 
@@ -125,7 +125,7 @@ Your VP of Marketing asks for a churn prediction model. You put it on your Gantt
 
 ---
 
-# The Gantt Chart Trap (2/2)
+## The Gantt Chart Trap
 
 - **April 1:** The model ships. It is good work. But Marketing already hired an outside consultant because they lost confidence in your timeline.
 
@@ -135,7 +135,7 @@ Your VP of Marketing asks for a churn prediction model. You put it on your Gantt
 
 ---
 
-# The Roadmap Alternative
+## The Roadmap Alternative
 
 **Instead of the Gantt chart promise, say this:**
 
@@ -149,7 +149,7 @@ Executives can handle uncertainty. What they cannot handle is being surprised.
 
 ---
 
-# The Analytics Roadmap Structure
+## The Analytics Roadmap Structure
 
 ## Now / Next / Later
 
@@ -163,7 +163,7 @@ Executives can handle uncertainty. What they cannot handle is being surprised.
 
 ---
 
-# Horizons: Examples
+## Horizons: Examples
 
 | Horizon | Example |
 |---------|---------|
@@ -177,7 +177,7 @@ Commitment decreases from Now to Later. This protects you from the Gantt chart t
 
 ---
 
-# What Each Roadmap Item Needs (1/2)
+## What Each Roadmap Item Needs
 
 **Every item on your roadmap must answer these questions:**
 
@@ -188,7 +188,7 @@ Commitment decreases from Now to Later. This protects you from the Gantt chart t
 
 ---
 
-# What Each Roadmap Item Needs (2/2)
+## What Each Roadmap Item Needs
 
 - **Rough size** (T-shirt: S/M/L/XL) — enough to understand trade-offs, not enough to be held to a date
 - **Key dependencies** — what has to be true for this to succeed
@@ -201,7 +201,7 @@ If the answer is no, rewrite it.
 
 ---
 
-# RICE Prioritization (1/2)
+## RICE Prioritization
 
 **A framework for comparing unlike things**
 
@@ -214,7 +214,7 @@ If the answer is no, rewrite it.
 
 ---
 
-# RICE Prioritization (2/2)
+## RICE Prioritization
 
 | Factor | Question | Scale |
 |--------|----------|-------|
@@ -229,7 +229,7 @@ $$\text{RICE Score} = \frac{R \times I \times C}{E}$$
 
 ---
 
-# RICE as a Conversation Starter
+## RICE as a Conversation Starter
 
 RICE is a **conversation starter**, not a calculator.
 
@@ -243,7 +243,7 @@ The score does not make the decision. **You** make the decision.
 
 ---
 
-# RICE in Practice (1/2)
+## RICE in Practice
 
 **Four initiatives scored head-to-head:**
 
@@ -256,7 +256,7 @@ The score does not make the decision. **You** make the decision.
 
 ---
 
-# RICE in Practice (2/2)
+## RICE in Practice
 
 | Initiative | Reach | Impact | Confidence | Effort | Score |
 |-----------|-------|--------|------------|--------|-------|
@@ -269,7 +269,7 @@ The score does not make the decision. **You** make the decision.
 
 ---
 
-# RICE in Practice: Sensitivity
+## RICE in Practice: Sensitivity
 
 **Drop Experimentation Platform confidence to 30%:** score falls from 2,500 to **1,500**. Does that change your Q1 plan?
 
@@ -279,7 +279,7 @@ RICE tells you **where to argue**, not what to decide.
 
 ---
 
-# North Star Metric
+## North Star Metric
 
 The ONE number that captures your team's value to the business.
 
@@ -295,7 +295,7 @@ The ONE number that captures your team's value to the business.
 
 ---
 
-# Guardrails Protect the North Star (1/2)
+## Guardrails Protect the North Star
 
 **Guardrails** are the metrics that must NOT get worse while you optimize the North Star.
 
@@ -307,7 +307,7 @@ Optimizing one metric without constraints is dangerous.
 
 ---
 
-# Guardrails Protect the North Star (2/2)
+## Guardrails Protect the North Star
 
 **Example — Growth Analytics Team:**
 - **North Star:** Monthly Active Paying Users
@@ -319,7 +319,7 @@ Guardrails prevent you from gaming your own North Star.
 
 ---
 
-# North Star, Guardrails, and Input Metrics (1/2)
+## North Star, Guardrails, and Input Metrics
 
 **North Star:** The one metric that best captures the value your team delivers.
 **Guardrails:** Things that must NOT get worse while you optimize the North Star.
@@ -329,7 +329,7 @@ Guardrails prevent you from gaming your own North Star.
 
 ---
 
-# North Star, Guardrails, and Input Metrics (2/2)
+## North Star, Guardrails, and Input Metrics
 
 **Example — Growth Analytics Team:**
 - **North Star:** Monthly Active Paying Users
@@ -342,7 +342,7 @@ Without input metrics, you have a North Star you cannot steer toward.
 
 ---
 
-# Choosing Your North Star: Common Mistakes (1/2)
+## Choosing Your North Star: Common Mistakes
 
 - **Vanity metric** — "Number of dashboards created" feels productive but drives no business outcome
 - **Uninfluenceable metric** — "Total company revenue" is important but your 4-person team cannot move it
@@ -351,7 +351,7 @@ Without input metrics, you have a North Star you cannot steer toward.
 
 ---
 
-# Choosing Your North Star: Common Mistakes (2/2)
+## Choosing Your North Star: Common Mistakes
 
 - **Slow-moving metric** — "Annual customer lifetime value" takes 12 months to know if you moved it
 - **Unmeasurable metric** — "Quality of analytical insights" sounds great but how do you track it?
@@ -360,7 +360,7 @@ Without input metrics, you have a North Star you cannot steer toward.
 
 ---
 
-# The North Star Test
+## The North Star Test
 
 Ask three questions:
 
@@ -374,7 +374,7 @@ If you answer yes to all three, you have your North Star.
 
 ---
 
-# The Metrics Tree (1/2)
+## The Metrics Tree
 
 ```
 Revenue Growth
@@ -391,7 +391,7 @@ Activation  Retention
 ---
 <!-- _class: skip -->
 
-# The Metrics Tree (2/2)
+## The Metrics Tree
 
 ```
 Activation         Retention
@@ -407,7 +407,7 @@ The tree answers: **"How does my work connect to the board number?"**
 ---
 <!-- _class: skip -->
 
-# Communicating Trade-offs (1/2)
+## Communicating Trade-offs
 
 ## Frame as choices, not complaints
 
@@ -420,7 +420,7 @@ The tree answers: **"How does my work connect to the board number?"**
 ---
 <!-- _class: cut -->
 
-# Communicating Trade-offs (2/2)
+## Communicating Trade-offs
 
 | Instead of... | Say... |
 |---------------|--------|
@@ -434,7 +434,7 @@ Practice these rephrases until they become automatic.
 ---
 <!-- _class: cut -->
 
-# The Cost of Delay
+## The Cost of Delay
 
 > "Every week we delay the experimentation platform costs us approximately $40K in unoptimized conversion — here's the math."
 
@@ -445,7 +445,7 @@ Quantify the cost of waiting. When you can put a dollar figure on delay, executi
 ---
 <!-- _class: cut -->
 
-# Partners, Not Opponents
+## Partners, Not Opponents
 
 Product and Eng are your **partners**, not your opponents.
 
@@ -458,7 +458,7 @@ You are all trying to move the same business metrics.
 ---
 <!-- _class: cut -->
 
-# The Trade-off Conversation: Setup
+## The Trade-off Conversation: Setup
 
 **Scenario:** Your team is building a churn model (top Q1 priority). The VP of Product walks in: "We need a dashboard for the new feature launch this week."
 
@@ -472,7 +472,7 @@ You are all trying to move the same business metrics.
 ---
 <!-- _class: skip -->
 
-# The Trade-off Conversation: The Right Way (1/2)
+## The Trade-off Conversation: The Right Way
 
 > "Absolutely — let me show you what that would involve. Right now my team is committed to the churn model, which Sarah in Marketing is counting on for Q2. We have three options:
 > 1. **Pause churn model for 1 week** — dashboard this week, churn model slips to mid-April.
@@ -483,7 +483,7 @@ You are all trying to move the same business metrics.
 ---
 <!-- _class: skip -->
 
-# The Trade-off Conversation: The Right Way (2/2)
+## The Trade-off Conversation: The Right Way
 
 > 3. **Next sprint** — We finish churn model on schedule and start the dashboard March 24.
 >
@@ -496,7 +496,7 @@ You are all trying to move the same business metrics.
 ---
 <!-- _class: skip -->
 
-# The 2-Page Executive Narrative (1/2)
+## The 2-Page Executive Narrative
 
 ## Structure
 
@@ -508,7 +508,7 @@ You are all trying to move the same business metrics.
 
 ---
 
-# The 2-Page Executive Narrative (2/2)
+## The 2-Page Executive Narrative
 
 4. **What's Next** — Priorities and bets for next quarter
 5. **What We Need** — Asks and blockers
@@ -523,7 +523,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Executive Narrative: Context
+## Executive Narrative: Context
 
 **A condensed example for a fictional analytics team at MarketBridge:**
 
@@ -535,7 +535,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Executive Narrative: Results
+## Executive Narrative: Results
 
 **What We Did:** "We reduced 60-day logo churn from 8.2% to 6.1% by deploying a propensity model that flags at-risk accounts 30 days before renewal. Customer Success now reviews the top 50 at-risk accounts weekly — 34 of 41 flagged accounts renewed."
 
@@ -545,7 +545,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Executive Narrative: Insights
+## Executive Narrative: Insights
 
 **What We Learned:** "Our biggest surprise was that product usage intensity is a weaker churn predictor than support ticket sentiment. Accounts that file frustrated tickets — even if they use the product daily — churn at 3x the rate."
 
@@ -555,7 +555,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Executive Narrative: Plans
+## Executive Narrative: Plans
 
 **What's Next:** "In Q2, we are investing in self-serve reporting for the Sales team. Currently, 40% of our ad hoc requests come from Sales asking the same five questions. Automating this frees ~1.5 analyst-months per quarter."
 
@@ -565,7 +565,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Executive Narrative: Asks
+## Executive Narrative: Asks
 
 **What We Need:** "We need Engineering to prioritize the event schema migration by April 15. Without it, our experimentation platform — the top Q3 initiative — cannot reliably track treatment assignment."
 
@@ -575,7 +575,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Writing for Executives: BLUF
+## Writing for Executives: BLUF
 
 ## Bottom Line Up Front
 
@@ -589,7 +589,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Rules for Executive Writing (1/2)
+## Rules for Executive Writing
 
 ### Four rules that will make your writing 10x more effective:
 
@@ -601,7 +601,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Rules for Executive Writing (2/2)
+## Rules for Executive Writing
 
 3. **One page = one main idea.** If you need more space, you need fewer ideas per page.
 
@@ -611,7 +611,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Risk Registers (1/2)
+## Risk Registers
 
 Every roadmap has risks. **Acknowledging them is not weakness — it is honest planning.**
 
@@ -624,7 +624,7 @@ Every roadmap has risks. **Acknowledging them is not weakness — it is honest p
 
 ---
 
-# Risk Registers (2/2)
+## Risk Registers
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|-----------|--------|------------|
@@ -638,7 +638,7 @@ Executives trust leaders who name risks before they become surprises.
 
 ---
 
-# Activity: 12-Month Roadmap (1/2)
+## Activity: 12-Month Roadmap
 ## 30 minutes
 
 **Build a 12-month roadmap for your case context.**
@@ -651,7 +651,7 @@ Executives trust leaders who name risks before they become surprises.
 
 ---
 
-# Activity: 12-Month Roadmap (2/2)
+## Activity: 12-Month Roadmap
 
 4. Place initiatives in **Now / Next / Later** based on scores and dependencies
 5. Identify **top 3 dependencies** that could block your plan
@@ -662,7 +662,7 @@ Executives trust leaders who name risks before they become surprises.
 
 ---
 
-# Activity: Executive Narrative Draft (1/2)
+## Activity: Executive Narrative Draft
 ## 20 minutes
 
 **Write the first page of your 2-page executive narrative.**
@@ -675,7 +675,7 @@ Focus on two sections:
 
 ---
 
-# Activity: Executive Narrative Draft (2/2)
+## Activity: Executive Narrative Draft
 
 **Use the `exec-narrative.md` template.**
 
@@ -688,7 +688,7 @@ Do not try to make it perfect — get the structure and the key messages right.
 
 ---
 
-# Red-Team: Kill the Project (1/2)
+## Red-Team: Kill the Project
 ## 8 minutes
 
 **Pair up with someone from a DIFFERENT case context.**
@@ -699,7 +699,7 @@ Your job: **find the fatal flaw** in their roadmap.
 
 ---
 
-# Red-Team: Kill the Project (2/2)
+## Red-Team: Kill the Project
 
 Ask these questions:
 - "What assumption, if wrong, kills this plan?"
@@ -711,7 +711,7 @@ Ask these questions:
 
 ---
 
-# Red-Team Debrief (1/2)
+## Red-Team Debrief
 
 **What survived? What didn't?**
 
@@ -725,7 +725,7 @@ Ask these questions:
 
 ---
 
-# Red-Team Debrief (2/2)
+## Red-Team Debrief
 
 **Note what the red-team revealed** — update your roadmap and risk register after class.
 
@@ -735,7 +735,7 @@ Jot down at least one new risk or one initiative to modify before you forget.
 
 ---
 
-# Day 1 Checkpoint (1/2)
+## Day 1 Checkpoint
 
 ## Due by 17:10 — HARD DEADLINE
 
@@ -749,7 +749,7 @@ Jot down at least one new risk or one initiative to modify before you forget.
 
 ---
 
-# Day 1 Checkpoint (2/2)
+## Day 1 Checkpoint
 
 **This is 10% of your grade — pass/fail on completeness.**
 
@@ -760,7 +760,7 @@ Missing sections are okay. Empty templates are not.
 
 ---
 
-# What's Coming on Day 2 (1/2)
+## What's Coming on Day 2
 
 **Monday, March 23**
 
@@ -774,7 +774,7 @@ Missing sections are okay. Empty templates are not.
 
 ---
 
-# What's Coming on Day 2 (2/2)
+## What's Coming on Day 2
 
 ### Before Day 2:
 - **Continue your hiring packet** — work sample design and interview loop (portfolio deliverables)
@@ -785,7 +785,7 @@ Missing sections are okay. Empty templates are not.
 
 ---
 
-# Close Day 1 (1/2)
+## Close Day 1
 
 **You now have the core of your Manager OS.**
 
@@ -798,7 +798,7 @@ Missing sections are okay. Empty templates are not.
 
 ---
 
-# Close Day 1 (2/2)
+## Close Day 1
 
 Day 2 is about **people, refinement, and presenting it all.**
 

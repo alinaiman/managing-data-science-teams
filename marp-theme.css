@@ -52,6 +52,8 @@ section h2 {
   color: #1B2A4A;
   font-size: 1.6em;
   font-weight: 600;
+  border-bottom: 3px solid #C4972F;
+  padding-bottom: 0.2em;
   margin-bottom: 0.5em;
 }
 
@@ -218,8 +220,8 @@ section::after {
 
 header {
   font-size: 0.55em;
-  color: #1B2A4A;
-  font-weight: 600;
+  color: #999999;
+  font-weight: 400;
   position: absolute;
   top: 20px;
   left: 60px;

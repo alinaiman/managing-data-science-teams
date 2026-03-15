@@ -19,8 +19,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# Why Hiring Is Your Highest-Leverage Activity (1/2)
-
+## Why Hiring Is Your Highest-Leverage Activity
 ### The Compounding Effect of Great Hires
 
 - A great **analyst** makes every PM smarter — they reframe questions and surface data no one asked for
@@ -31,8 +30,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# Why Hiring Is Your Highest-Leverage Activity (2/2)
-
+## Why Hiring Is Your Highest-Leverage Activity
 ### The Negative Compounding of Bad Hires
 
 - A bad analyst ships wrong numbers — stakeholders lose trust, the team loses its seat at the table
@@ -43,7 +41,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# Hiring Returns Compound
+## Hiring Returns Compound
 
 > Hiring is the one activity where the returns — positive or negative — compound long after the decision is made.
 
@@ -55,7 +53,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# The State of Analytics Hiring
+## The State of Analytics Hiring
 
 ### The Market Reality
 
@@ -68,7 +66,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# What the Best Companies Have Figured Out
+## What the Best Companies Have Figured Out
 
 - **Stripe** built structured interviews for data roles with calibrated rubrics and blind-reviewed take-homes
 - **Airbnb** invested in making every candidate interaction reflect their values — even rejection emails
@@ -80,8 +78,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# What We'll Build This Block (1/2)
-
+## What We'll Build This Block
 ### Four Deliverables, Connected
 
 ```
@@ -96,8 +93,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# What We'll Build This Block (2/2)
-
+## What We'll Build This Block
 ### The Four Deliverables
 
 - The **Job Description** grounds everything in outcomes, not skills
@@ -109,7 +105,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
-# Why These Four Connect
+## Why These Four Connect
 
 - The outcomes in your JD determine what your work sample tests
 - Your rubric dimensions map to what the work sample reveals
@@ -123,8 +119,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# The Cost of a Bad Hire (1/2)
-
+## The Cost of a Bad Hire
 - Average cost of a mis-hire: **1.5–2x annual salary** (SHRM, Bradford Smart)
 - In analytics specifically, a wrong hire means:
   - **6 months of bad dashboards** that erode stakeholder trust
@@ -135,8 +130,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# The Cost of a Bad Hire (2/2)
-
+## The Cost of a Bad Hire
 - The **"brilliant jerk"** problem: technical skill without collaboration destroys team culture faster than incompetence
 
 > "The best thing a manager does is hire well. The second best thing is fire fast when they don't."
@@ -146,7 +140,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# Role Design Before Recruiting
+## Role Design Before Recruiting
 
 **Don't start with a job description. Start with outcomes.**
 
@@ -160,7 +154,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# Role Design: An Example
+## Role Design: An Example
 
 | 90-Day Outcome | Capability |
 |:---|:---|
@@ -174,7 +168,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# JD Anti-Pattern: The 25-Bullet Requirements List
+## JD Anti-Pattern: The 25-Bullet Requirements List
 
 > *"Required: Python, R, SQL, Spark, Hadoop, Tableau, Power BI, Looker, dbt, Airflow, Docker, Kubernetes, AWS, GCP, machine learning, deep learning, NLP, time series forecasting, A/B testing, causal inference, stakeholder management..."*
 
@@ -184,7 +178,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# JD Anti-Pattern: The Unicorn
+## JD Anti-Pattern: The Unicorn
 
 > *"PhD in Statistics required. 10+ years of experience. Must thrive in a fast-paced startup." — Compensation: €75K–€85K*
 
@@ -194,8 +188,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# JD Anti-Patterns (continued)
-
+## JD Anti-Patterns
 ### Pattern 3: The Copy-Paste
 
 > A JD clearly written for a software engineer, with "data scientist" find-and-replaced in. Mentions "code reviews" and "shipping features" but nothing about analysis or stakeholders.
@@ -208,8 +201,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# What Level Do You Actually Need? (1/2)
-
+## What Level Do You Actually Need?
 | Level | What They Do | Autonomy | Scope |
 |:---|:---|:---|:---|
 | **Junior** | Executes well-defined analyses | Needs clear specs | Single tasks |
@@ -221,8 +213,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# What Level Do You Actually Need? (2/2)
-
+## What Level Do You Actually Need?
 ### Common Leveling Mistakes
 
 - Hiring **senior** when you need **mid** — you pay for strategy but need execution
@@ -234,7 +225,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
-# The Leveling Conversation
+## The Leveling Conversation
 
 ### Having an Honest Discussion with Your Hiring Partner
 
@@ -249,7 +240,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# The Leveling Conversation: Pressure to Level Down
+## The Leveling Conversation: Pressure to Level Down
 
 - **"We can train them up"** — Sometimes true for Junior to Mid. Rarely true for Mid to Senior. The gap is judgment, not skills.
 - **"Let's hire two juniors instead of one senior"** — Two juniors without a senior mentor means two people making the same mistakes.
@@ -259,7 +250,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# The Leveling Conversation: How to Have It
+## The Leveling Conversation: How to Have It
 
 1. **Bring the outcomes list** — "Here is what this person needs to accomplish in 90 days. What level can do this?"
 2. **Name the trade-offs** — "If we hire Mid, I need to budget 30% of my time for mentoring. Is that what we want?"
@@ -269,7 +260,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# Your First Hire: Analyst vs. Analytics Engineer
+## Your First Hire: Analyst vs. Analytics Engineer
 
 **Before writing your JD, ask:** Does my case context need someone to analyze data, or someone to make data analyzable?
 
@@ -285,8 +276,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# Hiring in the AI Era (1/2)
-
+## Hiring in the AI Era
 **Your candidates will use AI. Plan for it.**
 
 - LLMs can write SQL, draft analyses, and generate visualizations
@@ -297,8 +287,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# Hiring in the AI Era (2/2)
-
+## Hiring in the AI Era
 **Redesign work samples for the AI era:**
 
 - **Allow AI use** — then evaluate: did they validate the output?
@@ -310,8 +299,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# The Research on Structured Interviews (1/2)
-
+## The Research on Structured Interviews
 ### Predictive Validity (Schmidt & Hunter, 1998)
 
 | Method | Correlation |
@@ -324,8 +312,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# The Research on Structured Interviews (2/2)
-
+## The Research on Structured Interviews
 | Method | Correlation |
 |:---|:---|
 | Cognitive ability tests | **~0.51** |
@@ -338,7 +325,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# What the Research Tells Us
+## What the Research Tells Us
 
 **Key insight: Gut feeling is mostly noise. Structure = fairness + signal.**
 
@@ -351,7 +338,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# Structure Also Means Fairness
+## Structure Also Means Fairness
 
 - Unstructured interviews amplify **affinity bias** — you hire people who remind you of yourself
 - Structured interviews force you to evaluate **evidence against criteria**, not vibes
@@ -363,8 +350,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# Designing Work Samples (1/2)
-
+## Designing Work Samples
 ### What Makes a Good Work Sample?
 
 - **Reflects actual job tasks** — not LeetCode puzzles for analytics roles
@@ -376,8 +362,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# Designing Work Samples (2/2)
-
+## Designing Work Samples
 ### Analytics Work Sample Example
 
 > *"Here is a messy dataset of user activity logs and a business question from the VP of Product: 'Should we invest in improving our onboarding flow?' Walk us through your approach, your analysis, and your recommendation."*
@@ -386,7 +371,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
-# What Work Samples Really Evaluate
+## What Work Samples Really Evaluate
 
 How they **frame** the problem > How they **execute** the analysis > How they **communicate** the findings
 
@@ -398,16 +383,14 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# What Work Samples Really Evaluate (cont.)
-
+## What Work Samples Really Evaluate
 > The framing question reveals whether someone can operate independently or needs everything spelled out.
 
 <!-- Talk track: Framing is the highest-signal dimension: someone who can operate independently will naturally ask clarifying questions and define what is out of scope before diving in. If they skip straight to the data, that tells you something too. -->
 
 ---
 
-# Work Sample Design: Realism and Respect (1/2)
-
+## Work Sample Design: Realism and Respect
 ### Balancing Realism and Candidate Time
 
 - The work sample should feel like **a real day on the job**, not a homework assignment
@@ -418,8 +401,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# Work Sample Design: Realism and Respect (2/2)
-
+## Work Sample Design: Realism and Respect
 ### Making Work Samples Inclusive
 
 - **Do not assume tool access** — "Use whatever tool you are comfortable with: Python, R, Excel, SQL, pen and paper"
@@ -430,7 +412,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# Work Sample Design: Setting Up for Success
+## Work Sample Design: Setting Up for Success
 
 - **Include a data dictionary** and note known data quality issues
 - **Provide a contact for clarifying questions** — set up for success, not gotchas
@@ -439,7 +421,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# When Candidates Go Above and Beyond
+## When Candidates Go Above and Beyond
 
 - Some candidates will spend 15 hours on a 4-hour exercise. **Do not reward this.** Score against the rubric, not effort or volume.
 - Doing the minimum well is a **signal of prioritization and judgment** — exactly what you want in an analyst.
@@ -449,8 +431,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# Why a Rubric? (1/2)
-
+## Why a Rubric?
 ### The Case for Predefined Dimensions
 
 - Score on **predefined dimensions**, not overall impression
@@ -461,8 +442,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# Why a Rubric? (2/2)
-
+## Why a Rubric?
 ### What Happens Without a Rubric
 
 - The debrief becomes a **storytelling contest** — whoever tells the most compelling anecdote wins
@@ -474,7 +454,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# What a Rubric Makes Possible
+## What a Rubric Makes Possible
 
 - Each interviewer independently rates **specific dimensions** with **behavioral anchors**
 - The debrief shifts to **calibration**: "I gave a 2 on Business Context because they never connected the analysis to a decision"
@@ -486,7 +466,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# Dimensions for Analytics Roles
+## Dimensions for Analytics Roles
 
 | Dimension | What You Are Looking For |
 |:---|:---|
@@ -499,8 +479,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
-# The 1–4 Scale (No Fence-Sitting) (1/2)
-
+## The 1–4 Scale (No Fence-Sitting)
 Use a 4-point scale. Not three, not five.
 
 | Score | Meaning |
@@ -514,8 +493,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# The 1–4 Scale (No Fence-Sitting) (2/2)
-
+## The 1–4 Scale (No Fence-Sitting)
 > Most scores should be 2s and 3s. If you are giving many 1s and 4s, your calibration is off or your pipeline needs work.
 
 - A **1** means below the bar — significant concerns
@@ -527,8 +505,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Calibrating Scorers: The Problem (1/2)
-
+## Calibrating Scorers: The Problem
 ### Without Calibration, Scores Are Meaningless
 
 - Interviewer A thinks "3" means "could do the job"
@@ -539,8 +516,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Calibrating Scorers: The Problem (2/2)
-
+## Calibrating Scorers: The Problem
 | Interviewer | Tech | Comm | Biz Context | Curiosity |
 |:---|:---|:---|:---|:---|
 | Hiring Manager | 3 | 3 | 2 | 3 |
@@ -553,7 +529,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# The Calibration Problem
+## The Calibration Problem
 
 **Average score ranges from 2.0 to 3.25 depending on the interviewer.** Is this a hire or not?
 
@@ -568,7 +544,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Calibrating Scorers: The Fix
+## Calibrating Scorers: The Fix
 
 ### The Norming Session
 
@@ -583,8 +559,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# What Norming Prevents (1/2)
-
+## What Norming Prevents
 ### Biases Addressed
 
 - **Anchoring** to the first interviewer's opinion
@@ -598,8 +573,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# What Norming Prevents (2/2)
-
+## What Norming Prevents
 ### The Investment
 
 - A norming session takes **20–30 minutes**
@@ -610,7 +584,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# The Interview Loop: Who Interviews for What
+## The Interview Loop: Who Interviews for What
 
 | Interviewer | Focus Area | Why |
 |:---|:---|:---|
@@ -623,7 +597,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# Why Four Interviewers
+## Why Four Interviewers
 
 - **Four** is the sweet spot — fewer than three lacks signal diversity; more than five wastes everyone's time
 - Each interviewer has a **distinct focus** — no one evaluates "general impressions"
@@ -635,7 +609,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# The Interview Loop: Independent Scores
+## The Interview Loop: Independent Scores
 
 ### The Critical Rule: Independent Scores Before Discussion
 
@@ -648,7 +622,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# Why Independence Matters
+## Why Independence Matters
 
 - The first strong opinion in a debrief **anchors everyone else**
 - Independent scoring ensures you get **four genuine data points**, not one opinion amplified by social pressure
@@ -660,8 +634,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# The Debrief Meeting (1/2)
-
+## The Debrief Meeting
 ### Running an Effective Debrief
 
 1. **Before the meeting:** All scores submitted independently. Hiring manager reviews for major disagreements.
@@ -671,8 +644,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# The Debrief Meeting (2/2)
-
+## The Debrief Meeting
 ### Focus on Disagreements and Signal
 
 3. **Discuss disagreements first:** "You gave a 2 on Business Context and you gave a 4. Walk us through what you saw."
@@ -682,8 +654,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# Debrief: Reading the Patterns (1/2)
-
+## Debrief: Reading the Patterns
 ### When Interviewers Disagree
 
 - **Strong Hire vs. No Hire on the same dimension** — the most informative signal. One interviewer may have probed deeper.
@@ -694,8 +665,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# Debrief: Reading the Patterns (2/2)
-
+## Debrief: Reading the Patterns
 ### The Hiring Manager's Call
 
 - You have heard all the data. **You decide.** Do not hide behind consensus.
@@ -707,8 +677,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Candidate Experience: Your Employer Brand (1/2)
-
+## Candidate Experience: Your Employer Brand
 ### Your Employer Brand Is Built in Rejection Emails
 
 - **Timeline:** < 1 week between stages. Silence is a decision — the decision to lose good candidates.
@@ -720,8 +689,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Candidate Experience: Your Employer Brand (2/2)
-
+## Candidate Experience: Your Employer Brand
 ### The Math
 
 - You will interview ~20 candidates for each hire
@@ -733,7 +701,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Candidate Experience: Non-Negotiables
+## Candidate Experience: Non-Negotiables
 
 ### The Minimum Standard
 
@@ -747,8 +715,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Going Beyond the Minimum (1/2)
-
+## Going Beyond the Minimum
 - **Send the work sample rubric in advance** — this signals that you respect their time
 - **Offer a 15-minute feedback call** to any candidate who completed a work sample
 - **Close the loop quickly** — the best candidates have other offers. A 6-week process loses them.
@@ -759,8 +726,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Going Beyond the Minimum (2/2)
-
+## Going Beyond the Minimum
 > Even candidates you reject will walk away thinking "that was the most professional interview process I have been through." That is your employer brand.
 
 <!-- Talk track: Even candidates you reject become ambassadors when you treat them well. The analytics community is small — the person you reject today might be your next hire's manager in two years. Your process is your employer brand. -->
@@ -768,8 +734,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Building Your Employer Brand in Analytics (1/2)
-
+## Building Your Employer Brand in Analytics
 - **Open-source contributions** — if your team builds tools that could help others, open-source them. Nothing says "serious data work" like a well-maintained GitHub repo.
 - **Blog posts about your stack** — write about problems you solved, architecture decisions, mistakes you learned from. Candidates read these.
 
@@ -778,8 +743,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# Building Your Employer Brand in Analytics (2/2)
-
+## Building Your Employer Brand in Analytics
 - **Speaking at meetups** — encourage team members to present at local data meetups or conferences. Visibility attracts talent.
 - **Treating rejected candidates well** — every person who thinks "that was fair" becomes an ambassador.
 
@@ -788,7 +752,7 @@ Use a 4-point scale. Not three, not five.
 ---
 <!-- _class: skip -->
 
-# The Employer Brand Compounding Effect
+## The Employer Brand Compounding Effect
 
 - **Year 1:** Nobody knows who you are. You compete on comp and title.
 - **Year 2:** A few blog posts, a meetup talk, good rejection experiences. Inbound pipeline improves.
@@ -802,7 +766,7 @@ Use a 4-point scale. Not three, not five.
 
 <!-- _class: divider -->
 
-# Activity: Build Your Hiring Packet
+## Activity: Build Your Hiring Packet
 
 ## 25 Minutes | JD + Rubric In Class
 
@@ -810,8 +774,7 @@ Use a 4-point scale. Not three, not five.
 
 ---
 
-# Activity Brief: Build Your Hiring Packet (1/2)
-
+## Activity Brief: Build Your Hiring Packet
 ### Your Case Context
 
 Use the company scenario you chose in Block A (small / medium / large)
@@ -820,8 +783,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Activity Brief: Build Your Hiring Packet (2/2)
-
+## Activity Brief: Build Your Hiring Packet
 ### In-Class (25 min)
 1. **Job Description** — 90-day outcomes, responsibilities, qualifications
 2. **Scoring Rubric** — Dimensions, 1–4 scale, behavioral anchors
@@ -834,7 +796,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Activity Tips
+## Activity Tips
 
 - Start with the 90-day outcomes — everything else follows
 - Be honest about "required" vs. "preferred" qualifications
@@ -847,8 +809,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Role-Play Setup (1/2)
-
+## Role-Play Setup
 ### In 10 minutes, you will pair up
 
 **Round 1 (10 min):** Person A plays the candidate. Person B runs a structured interview using their rubric.
@@ -859,8 +820,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Role-Play Setup (2/2)
-
+## Role-Play Setup
 ### How It Works
 
 1. You will receive a **Candidate Profile Card** — play this person authentically, including their weaknesses
@@ -871,7 +831,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Role-Play: The Goal
+## Role-Play: The Goal
 
 - The "candidate" gives feedback: "Here is what felt fair, here is what felt unclear"
 - Experience both sides of a structured interview
@@ -883,8 +843,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Candidate Profile Cards (1/2)
-
+## Candidate Profile Cards
 | Profile | Archetype | Key Trait |
 |:---|:---|:---|
 | **A** | Strong Candidate | Solid all-around; slightly overqualified |
@@ -896,8 +855,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-# Candidate Profile Cards (2/2)
-
+## Candidate Profile Cards
 Each card includes: background, strengths, weaknesses, a "tell" the interviewer should catch, and suggested responses.
 
 **Play the profile, not yourself.**
@@ -906,7 +864,7 @@ Each card includes: background, strengths, weaknesses, a "tell" the interviewer 
 
 ---
 
-# Debrief
+## Debrief
 
 ### Reflection Questions
 
@@ -921,7 +879,7 @@ Each card includes: background, strengths, weaknesses, a "tell" the interviewer 
 
 ---
 
-# Debrief: The Candidate Perspective
+## Debrief: The Candidate Perspective
 
 - **What surprised you about being the candidate?**
   - What felt fair? What felt arbitrary?
@@ -937,8 +895,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 ---
 <!-- _class: cut -->
 
-# Hiring Anti-Patterns (Part 1)
-
+## Hiring Anti-Patterns
 ### Quick Hits — What Not to Do
 
 - **"Culture fit" as a criterion** — This is how you hire clones of yourself. Replace with "culture add" or specific collaboration behaviors. If someone cannot articulate what behavior concerned them, it is bias.
@@ -950,8 +907,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 ---
 <!-- _class: cut -->
 
-# Hiring Anti-Patterns (Part 1, cont.)
-
+## Hiring Anti-Patterns
 - **The "rockstar/ninja" JD** — Signals immaturity. Senior candidates run from these because they have seen what "rockstar culture" actually means: no process and no work-life balance.
 
 <!-- Talk track: Third, the rockstar or ninja job description. Every experienced person reading it assumes your org has no process and no work-life balance. If your job posting uses these terms, delete them and describe what the person will actually do. -->
@@ -959,8 +915,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 ---
 <!-- _class: cut -->
 
-# Hiring Anti-Patterns (Part 2)
-
+## Hiring Anti-Patterns
 - **Ghosting candidates** — Especially after a work sample. The analytics community is small — the person you ghost today is the hiring manager you need to impress in two years.
 
 - **Consensus-based decisions** — "Everyone needs to agree" selects for inoffensive mediocrity. The hiring manager decides.
@@ -972,7 +927,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 ---
 <!-- _class: cut -->
 
-# The Meta Anti-Pattern
+## The Meta Anti-Pattern
 
 All of these share a common root: **substituting gut feeling for structured evaluation.** The research is clear — structure beats intuition. Every time.
 
@@ -980,8 +935,7 @@ All of these share a common root: **substituting gut feeling for structured eval
 
 ---
 
-# Key Takeaways (1/2)
-
+## Key Takeaways
 1. **Start with outcomes**, not skills — the 90-day scorecard drives everything
 2. **Structure beats intuition** — 0.51 vs. 0.38, every time
 3. **Work samples are your best tool** — test real judgment, not trivia
@@ -990,8 +944,7 @@ All of these share a common root: **substituting gut feeling for structured eval
 
 ---
 
-# Key Takeaways (2/2)
-
+## Key Takeaways
 4. **Calibrate before you interview** — 20 min of norming prevents hours of debate
 5. **Candidate experience is employer brand** — 19 rejections for every 1 hire
 
@@ -1005,7 +958,7 @@ Start your **work sample design** and **interview loop** — these are portfolio
 
 <!-- _class: divider -->
 
-# Up Next: Block C
+## Up Next: Block C
 
 ## Roadmaps, Bets, and Alignment
 ### 15:30–17:10

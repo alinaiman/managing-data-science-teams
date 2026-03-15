@@ -20,7 +20,7 @@ By the end of this block you will be able to:
 
 ---
 
-## Welcome Back — Where We Are (1/2)
+## Welcome Back — Where We Are
 
 **Day 1 recap — you built:**
 - A **Manager OS** with cadences, rituals, artifacts, and decision hygiene
@@ -31,7 +31,7 @@ By the end of this block you will be able to:
 
 ---
 
-## Welcome Back — Where We Are (2/2)
+## Welcome Back — Where We Are
 
 **Today — Day 2:**
 - **Block D (now):** Career development, feedback, performance — with practice
@@ -75,7 +75,7 @@ By the end of this block you will be able to:
 
 ---
 
-## What "Senior" Actually Means (1/2)
+## What "Senior" Actually Means
 
 **It is not years of experience.** Someone can be "senior" at year 3 or still not senior at year 10.
 
@@ -91,7 +91,7 @@ By the end of this block you will be able to:
 
 ---
 
-## What "Senior" Actually Means (2/2)
+## What "Senior" Actually Means
 
 **The litmus test:** Can you give them an ambiguous problem and trust them to come back with a well-scoped analysis, clear findings, and actionable recommendations?
 
@@ -161,7 +161,7 @@ The individual owns this document. You co-create it.
 
 ---
 
-## Performance Cycles (1/2)
+## Performance Cycles
 
 **A better cadence than annual reviews:**
 
@@ -176,7 +176,7 @@ The individual owns this document. You co-create it.
 
 ---
 
-## Performance Cycles (2/2)
+## Performance Cycles
 
 **The Manager Log:** Keep a running document of accomplishments, feedback given, and notable moments. Update it weekly. 3 bullets per person, 5 minutes.
 
@@ -186,7 +186,7 @@ The individual owns this document. You co-create it.
 
 ---
 
-## Calibration Sessions (1/2)
+## Calibration Sessions
 
 **What:** Managers present their direct reports to peer managers. The group norms on performance ratings together.
 
@@ -199,7 +199,7 @@ The individual owns this document. You co-create it.
 
 ---
 
-## Calibration Sessions (2/2)
+## Calibration Sessions
 
 **Your job in calibration:** Advocate with evidence, not emotion.
 
@@ -213,7 +213,7 @@ The manager log is what makes this possible.
 ---
 <!-- _class: cut -->
 
-## The Ethical PIP (1/2)
+## The Ethical PIP
 
 **When someone isn't performing, follow a principled sequence:**
 
@@ -226,7 +226,7 @@ The manager log is what makes this possible.
 ---
 <!-- _class: cut -->
 
-## The Ethical PIP (2/2)
+## The Ethical PIP
 
 4. **Documentation** — Is it fair and specific?
 5. **Timeline** — Is 30-90 days reasonable?
@@ -238,7 +238,7 @@ The manager log is what makes this possible.
 
 ---
 
-## Activity: SBI Feedback Role-Play (1/2)
+## Activity: SBI Feedback Role-Play
 
 **Time: 22 minutes** | Use the scenario cards provided
 
@@ -251,7 +251,7 @@ The manager log is what makes this possible.
 
 ---
 
-## Activity: SBI Feedback Role-Play (2/2)
+## Activity: SBI Feedback Role-Play
 
 **Rules:**
 - Stay in character during the practice
@@ -265,7 +265,7 @@ The manager log is what makes this possible.
 
 ---
 
-## Activity: Mock Calibration (1/2)
+## Activity: Mock Calibration
 
 **Time: 17 minutes** | Use the calibration profiles provided
 
@@ -278,7 +278,7 @@ The manager log is what makes this possible.
 
 ---
 
-## Activity: Mock Calibration (2/2)
+## Activity: Mock Calibration
 
 - **2 min:** Group reflection — Which profile was most contested? Why?
 
@@ -290,7 +290,7 @@ The manager log is what makes this possible.
 
 ---
 
-## Activity: PGP Draft (1/2)
+## Activity: PGP Draft
 
 **Time: 17 minutes** | Use the PGP template provided
 
@@ -304,7 +304,7 @@ Write a PGP — for yourself or for a fictional direct report in your case conte
 
 ---
 
-## Activity: PGP Draft (2/2)
+## Activity: PGP Draft
 
 **The specificity test:**
 - Too vague: "Improve communication"
@@ -316,7 +316,7 @@ Every growth area must be specific enough that the person knows exactly what to 
 
 ---
 
-## Debrief (1/2)
+## Debrief
 
 **From the SBI role-play:**
 - What was harder — identifying the behavior, or articulating the impact?
@@ -330,7 +330,7 @@ Every growth area must be specific enough that the person knows exactly what to 
 
 ---
 
-## Debrief (2/2)
+## Debrief
 
 **From the PGP:**
 - Were your growth areas specific enough to act on?
@@ -342,7 +342,7 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
-## Key Takeaways (1/2)
+## Key Takeaways
 
 - **SBI separates observation from judgment.** That's what makes feedback hearable.
 - **Calibration is uncomfortable by design.** The discomfort surfaces hidden assumptions.
@@ -352,7 +352,7 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
-## Key Takeaways (2/2)
+## Key Takeaways
 
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
 - **Document continuously.** The manager log defeats recency bias.

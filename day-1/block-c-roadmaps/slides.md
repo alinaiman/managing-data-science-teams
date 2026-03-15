@@ -6,16 +6,24 @@ header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 1 – Block C"
 ---
 
+<!-- _class: title -->
+
 # Roadmaps, Bets, and Alignment
 
-**Block C — 15:30-17:10 (100 minutes)**
+## Day 1 — Block C | 15:30–17:10
 
-**Learning Outcomes:**
+<!-- Talk track: Welcome to the last block of Day 1. You have your Manager OS and your hiring plan. Now we answer the question every executive asks: where is this team going, and why should I fund it? By the end of this block you will have a roadmap, the start of an executive narrative, and you will have survived your first red-team exercise. We also have a hard stop at 17:10 for the Day 1 Checkpoint submission. -->
+
+---
+
+## Learning Outcomes
+
+By the end of this block you will be able to:
 - Build a 12-month roadmap tied to business outcomes
 - Write a 2-page executive narrative
 - Stress-test plans through structured red-team critique
 
-<!-- Talk track: Welcome to the last block of Day 1. You have your Manager OS and your hiring plan. Now we answer the question every executive asks: where is this team going, and why should I fund it? By the end of this block you will have a roadmap, the start of an executive narrative, and you will have survived your first red-team exercise. We also have a hard stop at 17:10 for the Day 1 Checkpoint submission. -->
+<!-- Talk track: Three outcomes for this block. You'll build a roadmap, start an executive narrative, and survive a red-team exercise. -->
 
 ---
 
@@ -638,10 +646,19 @@ Executives trust leaders who name risks before they become surprises.
 
 ---
 
-## Activity: 12-Month Roadmap
-## 30 minutes
+<!-- _class: divider -->
 
-**Build a 12-month roadmap for your case context.**
+## Activity: 12-Month Roadmap
+
+## 30 Minutes | Roadmap RICE Template
+
+<!-- Talk track: Time for the big activity. You have 30 minutes to build a 12-month roadmap. Open the template — let's go. -->
+
+---
+
+## Activity: 12-Month Roadmap
+
+**30 minutes — Build a 12-month roadmap for your case context.**
 
 1. Define your **North Star metric** and **3 guardrail metrics**
 2. Brainstorm at least **8 initiatives**
@@ -662,10 +679,19 @@ Executives trust leaders who name risks before they become surprises.
 
 ---
 
-## Activity: Executive Narrative Draft
-## 20 minutes
+<!-- _class: divider -->
 
-**Write the first page of your 2-page executive narrative.**
+## Activity: Executive Narrative Draft
+
+## 20 Minutes | Executive Narrative Template
+
+<!-- Talk track: Next activity. You'll write the first page of your executive narrative. Open the template. -->
+
+---
+
+## Activity: Executive Narrative Draft
+
+**20 minutes — Write the first page of your 2-page executive narrative.**
 
 Focus on two sections:
 1. **Context** — Team size, capabilities, business environment, key constraints.
@@ -688,10 +714,19 @@ Do not try to make it perfect — get the structure and the key messages right.
 
 ---
 
-## Red-Team: Kill the Project
-## 8 minutes
+<!-- _class: divider -->
 
-**Pair up with someone from a DIFFERENT case context.**
+## Activity: Red-Team Exercise
+
+## 8 Minutes | Pair Up Cross-Context
+
+<!-- Talk track: My favorite exercise of the day. Pair up with someone from a different case context. Your job: find the fatal flaw. -->
+
+---
+
+## Red-Team: Kill the Project
+
+**8 minutes — Pair up with someone from a DIFFERENT case context.**
 
 Your job: **find the fatal flaw** in their roadmap.
 
@@ -782,6 +817,16 @@ Missing sections are okay. Empty templates are not.
 - Review your roadmap — Day 2 Block F uses it
 
 <!-- Talk track: Before Day 2, you have homework. Continue building out your hiring packet — the work sample and interview loop build on the JD and rubric you drafted today. These are portfolio deliverables, so take your time and do them well. Also read the QBR simulation brief, which I will post on the LMS tonight. And review your roadmap — you will be presenting it. -->
+
+---
+
+<!-- _class: divider -->
+
+## Day 1 Complete
+
+## See You on March 23
+
+<!-- Talk track: That wraps Day 1. Let's take a moment to look at what you've built. -->
 
 ---
 

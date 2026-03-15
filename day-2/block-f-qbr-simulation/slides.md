@@ -6,17 +6,23 @@ header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 2 – Block F"
 ---
 
+<!-- _class: title -->
+
 # Leading Up & Across; QBR Simulation
 
-**Day 2 — Block F | 15:30–17:10**
-
-**Learning Outcome**
-By the end of this block you will be able to:
-- Align leadership and collaborate cross-functionally using clear interfaces
-
-This is the capstone. You will present your roadmap and executive narrative in a QBR simulation to a mock executive panel.
+## Day 2 — Block F | 15:30–17:10
 
 <!-- Talk track: Welcome to the final block. Everything you've built over these two days — the Manager OS, the hiring packet, the roadmap, the growth plans, the peer feedback you gave and received — it all converges here. This block is about leading up and across. Leading up means communicating with executives who have limited time and broad scope. Leading across means working with peers in other functions who have different priorities. The QBR simulation is your chance to practice both. You'll present your roadmap to a mock executive panel, and your peers will play the executives asking hard questions. Let's start with the framework for executive communication. -->
+
+---
+
+## Learning Outcomes
+
+By the end of this block you will be able to:
+- Align leadership and collaborate cross-functionally using clear interfaces
+- Present a roadmap and executive narrative to a mock executive panel
+
+<!-- Talk track: Two outcomes for the capstone. Executive alignment and the QBR simulation itself. -->
 
 ---
 
@@ -442,6 +448,16 @@ How the 90-day plan varies by org size:
 
 ---
 
+<!-- _class: divider -->
+
+## QBR Simulation
+
+## Present Your Roadmap to the Executive Panel
+
+<!-- Talk track: This is it — the capstone. Everything you've built over two days converges right now. -->
+
+---
+
 ## QBR Simulation Brief
 
 **Format:** **5-minute presentation** + **5-minute Q&A** from the "executive panel" (groups of 3–4)
@@ -659,6 +675,16 @@ Take a few minutes now. Write them down. These are yours — you don't have to s
 The best feedback is something the recipient can act on before the portfolio deadline.
 
 <!-- Talk track: Here's what good peer feedback looks like. It's specific — not "nice work" but "your risk register identified technical debt as a risk but didn't include a mitigation strategy, which would make it stronger." It's kind — remember, you're helping a colleague improve. And it's useful — the best feedback gives someone something concrete they can act on before the portfolio deadline. Think of it as a gift: you're giving someone an outside perspective they can't get on their own. -->
+
+---
+
+<!-- _class: divider -->
+
+## Course Complete
+
+## Go Build Great Teams
+
+<!-- Talk track: And that's the simulation. Let me close by telling you what you've accomplished. -->
 
 ---
 

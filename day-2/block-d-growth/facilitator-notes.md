@@ -23,27 +23,27 @@
 | Time | Min | Duration | Slide(s) | Activity |
 |------|-----|----------|----------|----------|
 | 11:00 | 0 | 3 min | 1 | Title slide, welcome, learning outcomes |
-| 11:03 | 3 | 3 min | 2 | Welcome back — Day 1 recap, Day 2 overview |
-| 11:06 | 6 | 3 min | 3 | Why growth & performance matter |
-| 11:09 | 9 | 4 min | 4 | Career ladders for analytics |
-| 11:13 | 13 | 5 min | 5 | What "Senior" actually means — expect discussion |
-| 11:18 | 18 | 3 min | 6 | Personal Growth Plan (PGP) — PGP vs. PIP |
-| 11:21 | 21 | 4 min | 7 | PGP structure + SBI model |
-| 11:25 | 25 | 3 min | 8 | Radical Candor + feedback anti-patterns |
-| 11:28 | 28 | 4 min | 9 | Performance cycles & documentation |
-| 11:32 | 32 | 3 min | 10 | Calibration sessions |
-| 11:35 | 35 | — | 11 | The ethical PIP |
-| **11:35** | **35** | **22 min** | **12** | **Activity: SBI Feedback Role-Play** |
-| **11:57** | **57** | **17 min** | **13** | **Activity: Mock Calibration** |
-| **12:14** | **74** | **17 min** | **14** | **Activity: PGP Draft** |
-| 12:31 | 91 | 9 min | 15–17 | Debrief + Key takeaways + Transition to Block E |
+| 11:03 | 3 | 3 min | 3 | Welcome back — Day 1 recap, Day 2 overview |
+| 11:06 | 6 | 3 min | 4 | Why growth & performance matter |
+| 11:09 | 9 | 4 min | 5 | Career ladders for analytics |
+| 11:13 | 13 | 5 min | 6 | What "Senior" actually means — expect discussion |
+| 11:18 | 18 | 3 min | 7 | Personal Growth Plan (PGP) — PGP vs. PIP |
+| 11:21 | 21 | 4 min | 8 | PGP structure + SBI model |
+| 11:25 | 25 | 3 min | 9 | Radical Candor + feedback anti-patterns |
+| 11:28 | 28 | 4 min | 10 | Performance cycles & documentation |
+| 11:32 | 32 | 3 min | 11 | Calibration sessions |
+| 11:35 | 35 | — | 12 | The ethical PIP |
+| **11:35** | **35** | **22 min** | **14** | **Activity: SBI Feedback Role-Play** |
+| **11:57** | **57** | **17 min** | **16** | **Activity: Mock Calibration** |
+| **12:14** | **74** | **17 min** | **18** | **Activity: PGP Draft** |
+| 12:31 | 91 | 9 min | 19–22 | Debrief + Key takeaways + Transition to Block E |
 
 **Total: 100 minutes**
 
 **Timing notes:**
 - Teaching is compressed to 35 minutes. Move briskly through lecture slides. The learning happens in the three activities, not in the lecture.
-- The "What Senior Means" slide (slide 5) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP exercise."
-- The PIP slide (slide 11) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
+- The "What Senior Means" slide (slide 6) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP exercise."
+- The PIP slide (slide 12) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
 - If you're running behind on lecture, compress the ethical PIP slide — students can read it. Protect activity time.
 
 ---

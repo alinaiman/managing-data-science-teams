@@ -6,18 +6,25 @@ header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 2 – Block E"
 ---
 
+<!-- _class: title -->
+
 # Portfolio Workshop & Peer Review
 
-**Day 2 — Block E | 13:30–15:10**
+## Day 2 — Block E | 13:30–15:10
 
-**Learning Outcomes**
+<!-- Talk track: Welcome back from lunch. This block is different from everything else in the course — there are no new frameworks, no new slides to absorb. This is your workshop. You've built artifacts across four blocks now, and this is your chance to sharpen them before the QBR simulation and final submission. We'll do four things: revise your weakest work, practice giving each other structured feedback, prep for the QBR, and I'll be here for any questions. Let's get to work. -->
+
+---
+
+## Learning Outcomes
+
 By the end of this block you will be able to:
 - Assess your own portfolio artifacts against the grading rubric
 - Deliver structured peer feedback using the SBI model
 - Refine your weakest artifacts with targeted revision
 - Prepare a concise QBR elevator pitch
 
-<!-- Talk track: Welcome back from lunch. This block is different from everything else in the course — there are no new frameworks, no new slides to absorb. This is your workshop. You've built artifacts across four blocks now, and this is your chance to sharpen them before the QBR simulation and final submission. We'll do four things: revise your weakest work, practice giving each other structured feedback, prep for the QBR, and I'll be here for any questions. Let's get to work. -->
+<!-- Talk track: Four outcomes — self-assessment, peer feedback, revision, and QBR prep. This is your workshop time. -->
 
 ---
 
@@ -234,6 +241,17 @@ This is your time. Use it for:
 - **One week after Day 2:** Submit final Manager Portfolio
 
 <!-- Talk track: Let's take stock. You've revised your weakest artifact, practiced giving and receiving feedback, and prepped for the QBR. That's a productive 100 minutes. Block F starts at 3:30 — that's the capstone. Everything you've built over two days comes together in a 5-minute presentation to a mock executive panel. Use the break to finalize your narrative and take a breath. See you at 3:30. -->
+
+---
+
+<!-- _class: divider -->
+
+## Up Next: Block F
+
+## QBR Simulation
+### 15:30–17:10
+
+<!-- Talk track: That wraps Block E. The capstone is next — everything comes together in the QBR simulation. -->
 
 ---
 

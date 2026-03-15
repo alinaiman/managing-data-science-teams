@@ -50,26 +50,26 @@ Prepare four fictional candidate profiles for the role-play exercise:
 
 ## Timing Breakdown (100 Minutes) — REVISED
 
-**Key changes from original:** In-class activity scoped down to JD + Rubric only (25 min); work sample + interview loop = homework. Role-play extended from 10→20 min. Skip calibration/norming detail slides (43–48) and detailed candidate experience slides (57–64).
+**Key changes from original:** In-class activity scoped down to JD + Rubric only (25 min); work sample + interview loop = homework. Role-play extended from 10→20 min. Skip calibration/norming detail slides (44–49) and detailed candidate experience slides (58–65).
 
 | Time | Duration | Activity | Notes |
 |:---|:---|:---|:---|
-| 13:30–13:35 | 5 min | **Opening: The Cost of a Bad Hire** | Post-lunch energy reset. Start provocative. Slides 1–11. Ask: "Has anyone worked somewhere that made a bad hire? What happened?" |
-| 13:35–13:45 | 10 min | **Role Design & Leveling** | Slides 12–22 (role design, JD anti-patterns, leveling). Move briskly. The role scorecard is the key concept. |
-| 13:45–13:55 | 10 min | **Structured Interviews & Research** | Slides 23–28 (AI-era hiring, Schmidt & Hunter data, fairness). The research data is the anchor. Pause for reactions. |
-| 13:55–14:05 | 10 min | **Work Samples & Rubrics** | Slides 29–42 (work samples, rubric design). Skip calibration/norming slides 43–48 (covered in Day 2 Block D). Focus on rubric design — this is where students struggle most. |
-| 14:05–14:10 | 5 min | **Interview Loop Overview** | Slides 49–56 (interview loop, debrief). Skip detailed candidate experience slides 57–64 — mention briefly. |
-| 14:10–14:13 | 3 min | **Activity Brief** | Slides 65–68. **REVISED scope:** "In class, focus on your JD and Rubric — 25 minutes. Work sample design and interview loop are part of your final portfolio — start them between now and Day 2." |
+| 13:30–13:35 | 5 min | **Opening: The Cost of a Bad Hire** | Post-lunch energy reset. Start provocative. Slides 1–12. Ask: "Has anyone worked somewhere that made a bad hire? What happened?" |
+| 13:35–13:45 | 10 min | **Role Design & Leveling** | Slides 13–23 (role design, JD anti-patterns, leveling). Move briskly. The role scorecard is the key concept. |
+| 13:45–13:55 | 10 min | **Structured Interviews & Research** | Slides 24–29 (AI-era hiring, Schmidt & Hunter data, fairness). The research data is the anchor. Pause for reactions. |
+| 13:55–14:05 | 10 min | **Work Samples & Rubrics** | Slides 30–43 (work samples, rubric design). Skip calibration/norming slides 44–49 (covered in Day 2 Block D). Focus on rubric design — this is where students struggle most. |
+| 14:05–14:10 | 5 min | **Interview Loop Overview** | Slides 50–57 (interview loop, debrief). Skip detailed candidate experience slides 58–65 — mention briefly. |
+| 14:10–14:13 | 3 min | **Activity Brief** | Slides 66–69. **REVISED scope:** "In class, focus on your JD and Rubric — 25 minutes. Work sample design and interview loop are part of your final portfolio — start them between now and Day 2." |
 | 14:13–14:38 | 25 min | **Individual Work: JD + Rubric** | Circulate, answer questions. Students build the Job Description and Scoring Rubric only. Check progress at 10 min and 20 min. Push for specificity in rubric criteria. |
-| 14:38–14:41 | 3 min | **Role-Play Setup** | Slides 69–73. Distribute candidate profile cards, pair students, explain logistics. |
+| 14:38–14:41 | 3 min | **Role-Play Setup** | Slides 70–74. Distribute candidate profile cards, pair students, explain logistics. |
 | 14:41–14:51 | 10 min | **Role-Play Round 1** | One pair member interviews using their rubric, the other plays the candidate profile. Full 10 minutes allows proper warm-up and practice. |
 | 14:51–14:52 | 1 min | **Quick Swap** | Switch roles, new candidate profile card. |
 | 14:52–15:02 | 10 min | **Role-Play Round 2** | Reversed roles. |
-| 15:02–15:10 | 8 min | **Debrief** | Slides 74–82. Capture key observations. Focus question: "Did your rubric capture what you were actually evaluating?" Key takeaways. Remind: work sample + interview loop are portfolio deliverables — start them between Day 1 and Day 2. |
+| 15:02–15:10 | 8 min | **Debrief** | Slides 75–83. Capture key observations. Focus question: "Did your rubric capture what you were actually evaluating?" Key takeaways. Remind: work sample + interview loop are portfolio deliverables — start them between Day 1 and Day 2. |
 
 **Total: 100 minutes**
 
-**Notes on slide cuts:** Skip slides 43–48 (calibration/norming — moved to Day 2 Block D where students practice it experientially). Skip slides 57–64 (detailed candidate experience — mention in one sentence during activity brief). This saves ~12 minutes, reallocated to longer role-play rounds.
+**Notes on slide cuts:** Skip slides 44–49 (calibration/norming — moved to Day 2 Block D where students practice it experientially). Skip slides 58–65 (detailed candidate experience — mention in one sentence during activity brief). This saves ~12 minutes, reallocated to longer role-play rounds.
 
 **Between-session work:** Students complete work sample design and interview loop design between Day 1 and Day 2. These are part of the final portfolio. The JD and Rubric drafted in class provide the foundation; the work sample and loop extend from those. There is no mid-week deadline — this reduces pressure while preserving accountability through the portfolio submission.
 
@@ -81,7 +81,7 @@ This is the first block after lunch — the "graveyard slot" in teaching. Specif
 
 1. **Open with provocation, not lecture.** The "cost of a bad hire" framing works because everyone has a story. Ask the room: "Who has experienced a bad hire? What happened to the team?" Get 2-3 short stories before moving to the slides.
 
-2. **Keep the lecture portion to 40 minutes maximum.** Slides 2–64 should be done by 14:15. If you are running long, skip the calibration slides (slides 43–48) — students will encounter calibration naturally during the role-play.
+2. **Keep the lecture portion to 40 minutes maximum.** Slides 3–65 should be done by 14:15. If you are running long, skip the calibration slides (slides 44–49) — students will encounter calibration naturally during the role-play.
 
 3. **The activity is the energy.** The 25-minute individual work period and the role-play get students moving and talking. Do not sacrifice activity time for more lecture.
 
@@ -152,14 +152,14 @@ When covering work sample design, raise this discussion point:
 
 ### Cover If Time Allows
 
-- Calibration/norming session details (slides 43–48)
-- Candidate experience specifics (slides 57–64) — important but students intuitively grasp this
-- Detailed interview loop roles (slides 49–52) — the table is self-explanatory if students read it
+- Calibration/norming session details (slides 44–49)
+- Candidate experience specifics (slides 58–65) — important but students intuitively grasp this
+- Detailed interview loop roles (slides 50–53) — the table is self-explanatory if students read it
 
 ### Skip If Short on Time
 
-- Candidate experience and employer brand slides (slides 57–64) — can be mentioned in one sentence during activity brief
-- Hiring anti-patterns slides (slides 76–79) — entertaining but not essential; can be shared as a handout
+- Candidate experience and employer brand slides (slides 58–65) — can be mentioned in one sentence during activity brief
+- Hiring anti-patterns slides (slides 77–80) — entertaining but not essential; can be shared as a handout
 - Second role-play round — one round is sufficient if time is genuinely tight
 
 ---
@@ -218,7 +218,7 @@ The power of this block is the role-play. Students who have never been on either
 
 ### Common Failure Modes
 
-- **Running long on lecture and cutting the activity.** The lecture is context; the activity is the learning. If you are behind, cut the calibration slides (43–48) and candidate experience slides (57–64).
+- **Running long on lecture and cutting the activity.** The lecture is context; the activity is the learning. If you are behind, cut the calibration slides (44–49) and candidate experience slides (58–65).
 - **Students writing generic job descriptions.** Push them to be specific to their case context. "What does a data scientist at a seed-stage B2C app actually do in their first 90 days?"
 - **Role-play awkwardness.** Acknowledge it: "This will feel weird. That's the point. Real interviews feel weird too." Setting explicit permission to feel uncomfortable reduces resistance.
 - **Debrief running long.** Cap at 6 minutes. Capture 3-4 key observations and move on. The debrief can continue informally during the break.

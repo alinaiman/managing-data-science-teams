@@ -13,9 +13,16 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ## Day 1 — Block B | 13:30–15:10
 
-**LO: Produce a structured hiring packet that improves signal and fairness**
-
 <!-- Talk track: Welcome back from lunch. This block is about the single highest-leverage activity you will do as a manager — hiring. A great hire compounds for years; a bad hire compounds damage for months. By the end of this block, you will draft a job description and scoring rubric in class, then complete the full hiring packet — including a work sample exercise and interview loop design — as portfolio work between sessions. Let's get into it. -->
+
+---
+
+## Learning Outcomes
+
+By the end of this block you will be able to:
+- Produce a structured hiring packet that improves signal and fairness
+
+<!-- Talk track: One clear outcome for this block — you'll leave with a hiring packet you could actually use. -->
 
 ---
 

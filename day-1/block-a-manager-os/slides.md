@@ -6,18 +6,25 @@ header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 1 – Block A"
 ---
 
+<!-- _class: title -->
+
 # The Manager's Operating System
 
-**Day 1 — Block A | 11:00–12:40**
+## Day 1 — Block A | 11:00–12:40
 
-**Learning Outcomes**
+<!-- Talk track: Welcome to Managing Data Science Teams. I'm excited to spend these two days with you. This opening block is about the operating system you'll run as a manager — the repeatable patterns that make your team predictable, trustworthy, and effective. By the end of this session, you'll have two concrete artifacts: a Team Charter and a Stakeholder Map. Let's get started. -->
+
+---
+
+## Learning Outcomes
+
 By the end of this block you will be able to:
 - Construct a Manager OS with cadences, rituals, artifacts, and decision hygiene
 - Draft a Team Charter anchored to your case context
 - Map stakeholders on a Power/Interest grid
 - Apply RACI to common analytics team decisions
 
-<!-- Talk track: Welcome to Managing Data Science Teams. I'm excited to spend these two days with you. This opening block is about the operating system you'll run as a manager — the repeatable patterns that make your team predictable, trustworthy, and effective. By the end of this session, you'll have two concrete artifacts: a Team Charter and a Stakeholder Map. Let's get started. -->
+<!-- Talk track: Here's what we're building toward in this block. Four concrete outcomes — and by the end, you'll have artifacts for each one. -->
 
 ---
 
@@ -639,6 +646,16 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- _class: divider -->
+
+## Activity: Draft Your Team Charter
+
+## 22 Minutes | Team Charter Template
+
+<!-- Talk track: Time to put what you've learned into practice. For the next 22 minutes, you'll draft a Team Charter using your case context. Open the template — let's go. -->
+
+---
+
 ## Activity: Draft Your Team Charter
 
 **Time: 22 minutes** | Use the template provided
@@ -662,6 +679,16 @@ Continue your Team Charter with:
 **Tip:** Be specific to your case. A startup charter looks very different from an enterprise charter. "We value data quality" is not a principle. "Every metric has a documented definition and an owner before it goes to production" is.
 
 <!-- Talk track: Be specific. Don't write generic platitudes. I'll circulate and answer questions. Go. -->
+
+---
+
+<!-- _class: divider -->
+
+## Activity: Map Your Stakeholders
+
+## 18 Minutes | Stakeholder Grid Template
+
+<!-- Talk track: Second activity. You'll map your stakeholders on the Power/Interest grid. Open the template. -->
 
 ---
 
@@ -767,6 +794,17 @@ These are the **foundation** of your Manager OS. Every block builds on this.
 **Reminder:** Your Team Charter and Stakeholder Map are due as drafts at end of Day 1.
 
 <!-- Talk track: You have a framework for cadences and a toolkit for making good decisions. This is not theoretical — these are artifacts you will refine and submit. Your charter and stakeholder map are due as drafts by end of today. They don't need to be perfect, but they need to be substantive. Over the remaining blocks, we'll layer on hiring, roadmapping, performance management, and executive communication. Everything connects back to what you built today. -->
+
+---
+
+<!-- _class: divider -->
+
+## Up Next: Block B
+
+## Hiring & Team Formation
+### 13:30–15:10
+
+<!-- Talk track: That wraps up Block A. After lunch, we move to hiring and team formation. -->
 
 ---
 

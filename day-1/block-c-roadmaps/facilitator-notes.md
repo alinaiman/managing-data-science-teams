@@ -17,33 +17,33 @@
 
 ## Timing Breakdown (Minute-by-Minute) — REVISED
 
-**Key changes from original:** Teaching compressed from 44→35 min. Exec narrative activity extended from 15→20 min. Debrief compressed from 3→1 min to guarantee 3 min for checkpoint upload. Skip metrics tree "draw live" section (32–33), scripted trade-off conversation (38–40), and individual narrative example sections (point to template instead).
+**Key changes from original:** Teaching compressed from 44→35 min. Exec narrative activity extended from 15→20 min. Debrief compressed from 3→1 min to guarantee 3 min for checkpoint upload. Skip metrics tree "draw live" section (33–34), scripted trade-off conversation (39–41), and individual narrative example sections (point to template instead).
 
 | Time | Minutes | Slide(s) | Activity |
 |------|---------|----------|----------|
-| 15:30 | 0-2 | 2 (Title) | Welcome, block overview, learning outcomes. Frame the energy: "Last block of the day, hard stop at 17:10 for submissions." |
-| 15:32 | 2-7 | 3-13 (Roadmap Problem through Roadmap Alternative) | Concept introduction. Cover why roadmaps are hard, what good ones do, Gantt chart trap. Ask: "Who has seen a roadmap that was actually a Gantt chart?" Quick responses. |
-| 15:37 | 7-12 | 14-15 (Analytics Roadmap Structure, Horizons Examples) | Walk through Now/Next/Later. Brief whiteboard example. |
-| 15:42 | 12-18 | 16-23 (Roadmap Items, RICE Prioritization, RICE in Practice) | Explain RICE formula. Do one live example together. Walk through sensitivity analysis. |
-| 15:48 | 18-22 | 24-31 (North Star, Guardrails, Input Metrics, Common Mistakes, Test) | Concept slides. Skip metrics tree live drawing (32–33) — mention the concept, point to template. |
-| 15:52 | 22-25 | 34-37 (Communicating Trade-offs, Cost of Delay, Partners) | Quick concept. Read the "instead of / say" table. Skip scripted conversation (38–40). |
-| 15:55 | 25-30 | 41-47 (Executive Narrative structure and examples) | Walk through 5-section structure. Emphasize prose over bullet points. Skip individual example sections — point to template. |
-| 16:00 | 30-33 | 48-50 (Writing for Executives, BLUF, Rules) | BLUF concept. Read bad/good example aloud. Punchy and fast. |
-| 16:03 | 33-35 | 51-52 (Risk Registers) | Quick concept. Emphasize "top 3 risks on slide 2 of every exec deck." |
-| 16:05 | 35-36 | 53-54 (Activity Brief: Roadmap) | Hand out template. Clear instructions. |
+| 15:30 | 0-2 | 2-3 (Learning Outcomes, Title) | Welcome, block overview, learning outcomes. Frame the energy: "Last block of the day, hard stop at 17:10 for submissions." |
+| 15:32 | 2-7 | 4-14 (Roadmap Problem through Roadmap Alternative) | Concept introduction. Cover why roadmaps are hard, what good ones do, Gantt chart trap. Ask: "Who has seen a roadmap that was actually a Gantt chart?" Quick responses. |
+| 15:37 | 7-12 | 15-16 (Analytics Roadmap Structure, Horizons Examples) | Walk through Now/Next/Later. Brief whiteboard example. |
+| 15:42 | 12-18 | 17-24 (Roadmap Items, RICE Prioritization, RICE in Practice) | Explain RICE formula. Do one live example together. Walk through sensitivity analysis. |
+| 15:48 | 18-22 | 25-32 (North Star, Guardrails, Input Metrics, Common Mistakes, Test) | Concept slides. Skip metrics tree live drawing (33–34) — mention the concept, point to template. |
+| 15:52 | 22-25 | 35-38 (Communicating Trade-offs, Cost of Delay, Partners) | Quick concept. Read the "instead of / say" table. Skip scripted conversation (39–41). |
+| 15:55 | 25-30 | 42-48 (Executive Narrative structure and examples) | Walk through 5-section structure. Emphasize prose over bullet points. Skip individual example sections — point to template. |
+| 16:00 | 30-33 | 49-51 (Writing for Executives, BLUF, Rules) | BLUF concept. Read bad/good example aloud. Punchy and fast. |
+| 16:03 | 33-35 | 52-53 (Risk Registers) | Quick concept. Emphasize "top 3 risks on slide 2 of every exec deck." |
+| 16:05 | 35-36 | 55-56 (Activity Brief: Roadmap) | Hand out template. Clear instructions. |
 | 16:06 | 36-66 | **ACTIVITY: 12-Month Roadmap** | 30 minutes. Circulate, help students stuck on RICE scoring or North Star. |
-| 16:36 | 66-67 | 55-56 (Activity Brief: Exec Narrative) | Quick transition. Emphasize: first page, Context + What's Next. BLUF. |
+| 16:36 | 66-67 | 58-59 (Activity Brief: Exec Narrative) | Quick transition. Emphasize: first page, Context + What's Next. BLUF. |
 | 16:37 | 67-87 | **ACTIVITY: Executive Narrative Draft** | **20 minutes** (extended from 15). Circulate. Watch for students reverting to bullet points. |
-| 16:57 | 87-88 | 57-58 (Red-Team Brief) | Pair students across case contexts. Explain: 4 minutes each direction, find the fatal flaw. |
+| 16:57 | 87-88 | 61-62 (Red-Team Brief) | Pair students across case contexts. Explain: 4 minutes each direction, find the fatal flaw. |
 | 16:58 | 88-96 | **RED-TEAM: Kill the Project** | 8 minutes. High-energy. Walk around, prompt with provocative questions. |
 | 16:58 | 88-92 | Red-Team Round 1 | Partner A presents, Partner B attacks. |
 | 17:02 | 92-96 | Red-Team Round 2 | Switch roles. |
-| 17:06 | 96-97 | 59-60 (Debrief + Update) | **Quick debrief (1 min):** "What did the red-team reveal?" One or two fast responses. |
-| 17:07 | 97-100 | 61-66 (Checkpoint, What's Coming, Close) | **Checkpoint Upload (3 min).** Day 1 Checkpoint, What's Coming, Close. Remind students to upload NOW. |
+| 17:06 | 96-97 | 63-64 (Debrief + Update) | **Quick debrief (1 min):** "What did the red-team reveal?" One or two fast responses. |
+| 17:07 | 97-100 | 65-71 (Checkpoint, What's Coming, Close) | **Checkpoint Upload (3 min).** Day 1 Checkpoint, What's Coming, Close. Remind students to upload NOW. |
 
 **Total: 100 minutes. No slack. Manage transitions tightly.**
 
-**Notes on slide cuts:** Skip slides 32–33 (metrics tree live drawing — mention concept, let students explore in template), 38–40 (scripted trade-off conversation — reference the "instead of / say" table instead), and individual narrative example sections within 41–47 (point to template). This saves ~9 minutes, reallocated to extended exec narrative activity (+5 min), quick debrief (+1 min), and dedicated checkpoint upload time (+3 min).
+**Notes on slide cuts:** Skip slides 33–34 (metrics tree live drawing — mention concept, let students explore in template), 39–41 (scripted trade-off conversation — reference the "instead of / say" table instead), and individual narrative example sections within 42–48 (point to template). This saves ~9 minutes, reallocated to extended exec narrative activity (+5 min), quick debrief (+1 min), and dedicated checkpoint upload time (+3 min).
 
 ---
 
@@ -58,7 +58,7 @@
 ### Keeping It Constructive
 
 - Frame the exercise clearly: "Your job is to make their roadmap stronger, not to win an argument."
-- Provide the specific questions from slides 57-58 as prompts. Students who have never done red-teaming tend to default to vague feedback ("looks good") unless given specific angles of attack.
+- Provide the specific questions from slides 61-62 as prompts. Students who have never done red-teaming tend to default to vague feedback ("looks good") unless given specific angles of attack.
 - If you hear a pair getting adversarial rather than constructive, step in and redirect: "What would you suggest instead?"
 - Remind them: the best roadmaps survive criticism because the criticism was incorporated.
 
@@ -89,7 +89,7 @@
 
 If you are running more than 5 minutes behind by 16:00:
 
-1. **First cut: Communicating Trade-offs slides (34-40).** Mention the concept in 30 seconds ("frame as choices, not complaints") and move on. Students can read the slides later.
+1. **First cut: Communicating Trade-offs slides (35-41).** Mention the concept in 30 seconds ("frame as choices, not complaints") and move on. Students can read the slides later.
 
 2. **Second cut: Reduce roadmap activity to 25 minutes.** Tell students they can finish RICE scoring after class — the important thing is to have the Now column populated and the North Star defined.
 
@@ -152,9 +152,9 @@ A: The risk register is NOT required for today's checkpoint. It is part of the f
 This is the last block of the day. Students have been in class since 11:00 with a lunch break. Energy will be lower at the start of this block compared to Block A.
 
 **Strategy:**
-- **Minutes 0–35 (concept slides 2–52):** Keep these brisk and interactive. Ask questions frequently. Do not lecture for more than 4 minutes without engaging the room.
-- **Minutes 36–87 (activities, slides 53–56):** The roadmap and narrative activities are individual work, which can feel low-energy. Circulate actively. Ask students to share interesting decisions with their neighbors. If energy is flagging at minute 70, consider a 60-second stretch break before the narrative exercise.
-- **Minutes 88–100 (red-team + debrief, slides 57–60):** This is the energy injection. The red-team exercise is competitive, social, and slightly uncomfortable — all of which wake people up. Lean into it. Be visibly enthusiastic. If pairs are going through the motions, jump in with a provocative question to raise the stakes.
+- **Minutes 0–35 (concept slides 2–53):** Keep these brisk and interactive. Ask questions frequently. Do not lecture for more than 4 minutes without engaging the room.
+- **Minutes 36–87 (activities, slides 54–59):** The roadmap and narrative activities are individual work, which can feel low-energy. Circulate actively. Ask students to share interesting decisions with their neighbors. If energy is flagging at minute 70, consider a 60-second stretch break before the narrative exercise.
+- **Minutes 88–100 (red-team + debrief, slides 60–64):** This is the energy injection. The red-team exercise is competitive, social, and slightly uncomfortable — all of which wake people up. Lean into it. Be visibly enthusiastic. If pairs are going through the motions, jump in with a provocative question to raise the stakes.
 - **Do not let the narrative writing drag.** If students are struggling with prose, tell them to write ugly sentences now and edit later. The goal is structure, not elegance.
 
 ---

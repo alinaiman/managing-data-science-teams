@@ -6,17 +6,24 @@ header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 2 – Block D"
 ---
 
+<!-- _class: title -->
+
 # Growth & Performance
 
-**Day 2 — Block D | 11:00–12:40**
+## Day 2 — Block D | 11:00–12:40
 
-**Learning Outcomes**
+<!-- Talk track: Welcome back. It's been a week since Day 1, and I hope that week gave you time to reflect. On Day 1 you built a Manager OS, a hiring plan, and a roadmap. Today we shift from building the machine to growing the people inside it. This block is about the hardest and most rewarding part of management: helping people develop, giving honest feedback, and making fair performance assessments. By the end of this block, you'll have practiced SBI feedback in pairs, run a mock calibration session, and drafted a PGP. Some of this will be uncomfortable. That's by design. Let's get started. -->
+
+---
+
+## Learning Outcomes
+
 By the end of this block you will be able to:
 - Deliver structured feedback using the SBI model
 - Conduct evidence-based performance calibration
 - Create a Personal Growth Plan (PGP) for yourself or a direct report
 
-<!-- Talk track: Welcome back. It's been a week since Day 1, and I hope that week gave you time to reflect. On Day 1 you built a Manager OS, a hiring plan, and a roadmap. Today we shift from building the machine to growing the people inside it. This block is about the hardest and most rewarding part of management: helping people develop, giving honest feedback, and making fair performance assessments. By the end of this block, you'll have practiced SBI feedback in pairs, run a mock calibration session, and drafted a PGP. Some of this will be uncomfortable. That's by design. Let's get started. -->
+<!-- Talk track: Three outcomes for today's first block. Feedback, calibration, and growth planning — the people side of management. -->
 
 ---
 
@@ -238,6 +245,16 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- _class: divider -->
+
+## Activity: SBI Feedback Role-Play
+
+## 22 Minutes | Scenario Cards
+
+<!-- Talk track: Time to practice. This is where the learning happens — not in hearing about SBI, but in doing it. -->
+
+---
+
 ## Activity: SBI Feedback Role-Play
 
 **Time: 22 minutes** | Use the scenario cards provided
@@ -265,6 +282,16 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- _class: divider -->
+
+## Activity: Mock Calibration
+
+## 17 Minutes | Calibration Profiles
+
+<!-- Talk track: Now we're going to do something uncomfortable — and that's exactly the point. -->
+
+---
+
 ## Activity: Mock Calibration
 
 **Time: 17 minutes** | Use the calibration profiles provided
@@ -287,6 +314,16 @@ The manager log is what makes this possible.
 **The discomfort is the point.** Disagreement surfaces the assumptions that real calibration is designed to surface.
 
 <!-- Talk track: Once everyone has their ratings, reveal them simultaneously. Where you agree, confirm quickly. Where you disagree — that's where the real learning happens. The disagreement surfaces assumptions about what "good" looks like, what counts as evidence, and how level expectations change the conversation. You have 17 minutes. Go. -->
+
+---
+
+<!-- _class: divider -->
+
+## Activity: PGP Draft
+
+## 17 Minutes | PGP Template
+
+<!-- Talk track: Last activity for this block. Open the PGP template. -->
 
 ---
 
@@ -361,6 +398,17 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 **These aren't just frameworks. They're commitments you make to the people who report to you.**
 
 <!-- Talk track: Senior means scope, autonomy, ambiguity tolerance — not tenure. Document continuously. And dignity is non-negotiable in every interaction. These aren't just frameworks. They're commitments you make to the people who report to you. -->
+
+---
+
+<!-- _class: divider -->
+
+## Up Next: Block E
+
+## Portfolio Workshop & Peer Review
+### 13:30–15:10
+
+<!-- Talk track: That wraps Block D. After lunch, Block E is your workshop — revise, get feedback, prep for the QBR. -->
 
 ---
 

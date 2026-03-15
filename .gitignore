@@ -1,9 +1,6 @@
 # OS files
 .DS_Store
 
-# Build artifacts
-*.html
-
 # Claude Code internal state
 .claude/
 

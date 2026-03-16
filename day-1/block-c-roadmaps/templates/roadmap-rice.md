@@ -114,7 +114,6 @@ _What depends on what? Identify the critical path through your roadmap._
 _Describe the critical path: which initiatives must be completed before others can start? Are there any initiatives that can run in parallel?_
 
 If Sara Kim cannot prioritize database access setup in Month 1 (due to her existing workload), the entire roadmap shifts right. This is the single most important dependency to resolve in Week 1.
----
 
 ## Metrics Tree
 

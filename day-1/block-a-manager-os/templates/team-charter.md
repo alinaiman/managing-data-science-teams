@@ -2,9 +2,9 @@
 
 | Field | Your Entry |
 |---|---|
-| **Student Name** | |
-| **Date** | |
-| **Case Context** | Small (Seed-stage) / Medium (Series B) / Large (Enterprise) |
+| **Student Name** |Alina Imanakhunova|
+| **Date** | 16th of March |
+| **Case Context** | Small (Seed-stage)|
 
 ---
 
@@ -12,10 +12,8 @@
 
 *Why does this analytics team exist? What value does it create for the organization? Write 2-3 sentences that a non-technical executive would understand.*
 
-> **Example (Acme Analytics, Medium — Series B Marketplace):** Our team exists to make Acme's product and business decisions evidence-based. We provide trustworthy metrics, experimentation infrastructure, and analytical insights that help the Growth and Monetization pods move faster with less risk. We are the connective tissue between raw data and strategic decisions.
-
-**Your purpose:**
-
+**Purpose & Mission:**
+The DataPulse analytics team exists because right now nobody in the company fully trusts any number they see. Our job is to fix that — build one reliable source of truth and make sure every important decision, especially the Series A pitch, is backed by data people can actually stand behind. In short: we turn messy, scattered data into clear answers the CEO can take into an investor meeting without hedging.
 
 
 
@@ -27,9 +25,12 @@
 
 | In Scope | Out of Scope |
 |---|---|
-| *(e.g., product analytics for Growth and Monetization pods)* | *(e.g., data engineering pipeline maintenance — owned by Platform team)* |
-| *(e.g., A/B test design and analysis)* | *(e.g., ML model deployment in production — owned by ML Engineering)* |
-| *(e.g., executive reporting and KPI dashboards)* | *(e.g., ad-hoc requests from teams outside our charter — routed through intake)* |
+| Define and own core business metrics: DAU, MAU, retention, LTV, CAC | Anything touching the production database infrastructure — that is Sara's territory |
+| Set up a data warehouse and build ETL pipelines from PostgreSQL and Firebase | Deploying ML models or doing feature engineering — too early for this stage |
+| Design a clean event taxonomy and work with mobile devs to implement it properly | Customer support tooling and CRM systems |
+| Deliver the full Series A metrics package: retention cohorts, LTV model, CAC by channel | Running real-time engineering dashboards (uptime, API health) — owned by Engineering |
+| Build self-serve dashboards so the product team can answer routine questions themselves | Ad-hoc queries directly against the production database — everything goes through the warehouse |
+| Create an A/B testing framework with real statistics, not just "did the number go up?" | Marketing attribution modeling until event tracking is actually clean |
 | | |
 | | |
 
@@ -41,22 +42,14 @@
 
 *List 3-5 operating principles that guide how your team works. Good principles are specific, actionable, and occasionally uncomfortable. Avoid generic platitudes.*
 
-> **Example principles (Acme Analytics):**
-> 1. **Insights over outputs.** We measure our success by decisions influenced, not dashboards shipped. If an analysis doesn't lead to action, we ask why before starting the next one.
-> 2. **Documented by default.** Every metric has a written definition, an owner, and a review date. Every major analysis has a written summary, not just a Slack message.
-> 3. **We say no with context.** When we decline a request, we explain why and offer an alternative (self-serve resource, different timeline, or a scoped-down version).
+**Team Principles:**
 
-**Your principles:**
+1. **Trust is built in public.** Every metric has a written definition before it goes into any report or dashboard. If I cannot explain exactly how a number is calculated, I do not share it — not with Jake, not with Mira, definitely not with investors.
+ 
+2. **Fast work and solid work are not opposites.** Every quick-win deliverable should also move the infrastructure forward, even a little. I will not ship a one-off analysis that nobody can reproduce next month.
+ 
+3. **Teach, do not just deliver.** The team has never worked with a data person before. If I just hand people dashboards without explaining them, the trust problem does not get solved — it just moves. I will run short walkthroughs, write plain-language docs, and celebrate when Jake answers his own question without asking me.
 
-1.
-
-2.
-
-3.
-
-4. *(optional)*
-
-5. *(optional)*
 
 ---
 
@@ -66,10 +59,11 @@
 
 | Team / Role | Relationship | Interaction Mechanism | Frequency |
 |---|---|---|---|
-| *(e.g., Growth PM)* | *(Primary stakeholder — we embed an analyst in their pod)* | *(Weekly sync, shared Slack channel, sprint planning)* | *(Weekly)* |
-| *(e.g., Data Engineering)* | *(Dependency — they maintain pipelines we rely on)* | *(Bi-weekly sync, Jira tickets for pipeline requests)* | *(Bi-weekly)* |
-| *(e.g., VP Product)* | *(Sponsor — approves our quarterly priorities)* | *(Monthly metrics review, quarterly planning)* | *(Monthly)* |
-| *(e.g., Legal / Privacy)* | *(Governance — review data access and PII handling)* | *(Ad-hoc review requests, quarterly privacy audit)* | *(Quarterly + ad-hoc)* |
+| **Mira Chen, CEO** | Direct manager and the main reason this role exists — she needs the Series A numbers | Weekly 1:1; shared Notion tracker for investor metrics | Weekly |
+| **Jake Oduya, Head of Product** | My most frequent internal customer — he wants to stop making decisions based on gut feel | Weekly sync; Slack channel #data-requests; sprint planning | Weekly |
+| **Sara Kim, Backend Engineer** | The person who controls database access — I need her cooperation but cannot add to her workload | Async Slack only; written requests with lead time; max one ask per week | Ad-hoc, low-touch |
+| **Luis Herrera & Priya Nair, Mobile Devs** | They have to implement the event taxonomy I design — their buy-in is critical | Bi-weekly review session; shared event spec doc; sprint tickets | Bi-weekly |
+| **VC Investors** | External audience for the Series A — they will stress-test every number Mira presents | No direct contact; I package the data room and Mira delivers it | Monthly update via CEO |
 | | | | |
 | | | | |
 
@@ -87,12 +81,10 @@
 
 | # | Metric | Target | Current Baseline | Measurement Method |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | *(optional)* | | | |
-
+| 1 | Core KPIs agreed and trusted by all stakeholders | 100% sign-off on written definitions by Day 60 | Three people ask the same question and get three different answers | Everyone signs off on the Notion metrics glossary |
+| 2 | Analytical queries hitting the production database | Zero incidents after warehouse goes live | At least 2 user-facing latency incidents caused by analytical queries | Engineering incident log, confirmed by Sara |
+| 3 | Series A metrics package delivered and credible | Done by Day 75; Mira presents with no hedging | "We think retention is around 30–35%" — no confident number exists | Mira's confidence in investor meetings; VC feedback |
+| 4 | Event tracking coverage for top 20 user actions | 95% tracked correctly, consistent naming, under 2% data discrepancy | Mixed camelCase and snake_case; onboarding survey not tracked at all | Weekly automated validation script vs. taxonomy doc |
 ---
 
 ## Cadences & Rituals
@@ -101,11 +93,12 @@
 
 | Cadence | Ritual | Duration | Purpose | Attendees |
 |---|---|---|---|---|
-| **Daily** | *(e.g., Async standup in Slack)* | *(5 min)* | *(Visibility on blockers)* | *(Full team)* |
-| **Weekly** | *(e.g., 1:1s)* | *(30 min each)* | *(Coaching, feedback, alignment)* | *(Manager + each report)* |
-| **Weekly** | *(e.g., Team sync)* | *(45 min)* | *(Share learnings, coordinate)* | *(Full team)* |
-| **Monthly** | *(e.g., Metrics review)* | *(60 min)* | *(Are we on track?)* | *(Team + stakeholders)* |
-| **Quarterly** | *(e.g., Planning)* | *(Half day)* | *(Set priorities for next quarter)* | *(Team + sponsor)* |
+| **Daily** | Async Slack update in #data-pulse | 5 min | Let Mira see progress and blockers without needing a meeting | Just me |
+| **Weekly** | 1:1 with Mira | 30 min | Check progress on 90-day plan; unblock Series A metric work | Me + CEO |
+| **Weekly** | Sync with Jake | 30 min | Review open requests; share what I found; agree on next priority | Me + Head of Product |
+| **Bi-weekly** | Taxonomy review with mobile devs | 45 min | Make sure new features get tracked correctly before they ship, not after | Me + Luis + Priya |
+| **Monthly** | All-hands metrics review | 45 min | Show the whole team one honest dashboard; build data literacy slowly | All 12 staff |
+| **Quarterly** | Roadmap planning session | 2 hours | Decide what the next quarter's data work should actually be | Me + CEO + Head of Product |
 
 ---
 

@@ -57,7 +57,7 @@ _Score each initiative using the RICE framework. Then sort by RICE score to info
 | 7 | Automated data quality alerting (detect broken events, schema changes, pipeline failures) | All analytics consumers | 2 | 80% | 0.7 | **457** | Next |
 | 8 | Subscription conversion driver analysis (which behaviors predict free→paid upgrade?) | 1,600 paying users + all future converters | 3 | 50% | 1.0 | **450** | Next |
 | 9 | Predictive churn model (ML — flag users at risk before they cancel) | 4 (retention, revenue) | 3 | 50% | 2.0 | **3.0** | Later |
-_Add more rows as needed. You need at least 8 initiatives._
+
 
 **Note:** Initiative #1 (warehouse + ETL) scores lower than #2 and #3 because it has higher effort, but it is placed in **Now** anyway because it is a hard dependency for almost everything else on this list. Without the warehouse, there is no reliable source of truth, no self-serve dashboard, and no safe path away from production DB queries. It is the critical path item that unblocks the entire roadmap. Similarly, #5 (event taxonomy implementation) scores lower than some Next items but cannot be delayed — every future experiment and funnel analysis depends on clean event data.
 

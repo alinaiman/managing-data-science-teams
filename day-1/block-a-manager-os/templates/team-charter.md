@@ -73,11 +73,6 @@ The DataPulse analytics team exists because right now nobody in the company full
 
 *How will you know if your team is succeeding? Define 3-5 KPIs or OKRs for your team's first year. Mix leading indicators (process metrics) with lagging indicators (outcome metrics).*
 
-> **Example (Acme Analytics):**
-> - **Stakeholder NPS > 8** — Quarterly survey of primary stakeholders on analytics team effectiveness
-> - **Time-to-insight < 2 days** for standard queries (current baseline: 5 days)
-> - **80% of A/B tests** have a pre-registered analysis plan before launch
-> - **Zero critical metric errors** in executive reporting (measured by corrections issued)
 
 | # | Metric | Target | Current Baseline | Measurement Method |
 |---|---|---|---|---|

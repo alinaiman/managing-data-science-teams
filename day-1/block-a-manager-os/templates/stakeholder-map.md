@@ -106,8 +106,6 @@ INTEREST IN ANALYTICS
 
 ## Evaluation Criteria
 
-## Evaluation Criteria
-
 Use these dimensions to self-assess the quality of your Stakeholder Map. For official grading criteria, see `assessment/grading-rubrics.md` (Manager OS component, 15%).
 
 | Criterion | Weight | What "Good" Looks Like |
